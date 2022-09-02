@@ -1,0 +1,11 @@
+{
+  "quizName": "Johns Quiz",
+  "questions": [
+    {
+      "image": "abcd123FEDsdef1234",
+      "Question": "What is the largest state in USA by land size?",
+      "options": ["California","Texas","Alaska","Kentucky"],
+      "answer": "Alaska"
+    }
+  ]
+}
