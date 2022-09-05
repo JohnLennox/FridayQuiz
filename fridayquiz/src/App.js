@@ -1,6 +1,6 @@
 import React from "react";
 
-import {BrowserRouter as Router, Route, Link, Routes} from "react-router-dom";
+import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 
 import QuizHome from "./pages/QuizHome";
 import Question from "./pages/Question";
