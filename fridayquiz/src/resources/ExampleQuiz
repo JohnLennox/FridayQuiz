@@ -1,11 +1,11 @@
 {
-  "quizName": "Johns Quiz",
+  "quizName": "John's Quiz",
   "quizAuthor": "John Lennox",
   "quizDate" : "04/09/2022",
   "quizImage" : "https://yt3.ggpht.com/ytc/AMLnZu9N3_rHUuFLoQGmPUZ6_AZtyLYrt-EhrCEnHKO_=s900-c-k-c0x00ffffff-no-rj",
   "questions": [
     {
-      "image": "abcd123FEDsdef1234",
+      "image": "https://www.nationsonline.org/maps/US-states-Abbreviation-map.jpg",
       "Question": "What is the largest state in USA by land size?",
       "options": ["California","Texas","Alaska","Kentucky"],
       "answer": "Alaska"

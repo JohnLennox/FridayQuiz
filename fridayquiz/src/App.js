@@ -3,7 +3,7 @@ import React from "react";
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 
 import QuizHome from "./pages/QuizHome";
-import Question from "./pages/Question";
+import QuestionList from "./pages/QuestionList";
 
 class App extends React.Component {
     constructor(props) {
@@ -17,7 +17,7 @@ class App extends React.Component {
                 <Router>
                     <Routes>
                         <Route path="/" element={<QuizHome/>}/>
-                        <Route path="/question" element={<Question/>}/>
+                        <Route path="/question" element={<QuestionList/>}/>
                     </Routes>
                 </Router>
             </div>

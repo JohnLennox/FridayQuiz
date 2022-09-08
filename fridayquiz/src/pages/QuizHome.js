@@ -1,10 +1,11 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
+import {Link} from "react-router-dom";
 
 class QuizHome extends React.Component {
     constructor(props) {
         super(props);
-        this.state = {}
+        this.state = {};
     }
 
     componentDidMount() {
@@ -21,7 +22,6 @@ class QuizHome extends React.Component {
         let date;
         let quizImage;
         if (this.state.quizData) {
-            console.log("here")
             quizImage = <img style={ImageStyle} src={(this.state.quizData.quizImage)} alt="quiz logo"></img>
             title = <h1>{this.state.quizData.quizName}</h1>
             author = <h3>Created by: {this.state.quizData.quizAuthor}</h3>
@@ -32,8 +32,10 @@ class QuizHome extends React.Component {
 
                 {title}
                 {quizImage}
-                <div className = "">
-                    <button type="button" className="btn btn-primary">Primary</button>
+                <div className="">
+                    <Link to={"/question"}>
+                        <button className="btn btn-primary">Start Quiz</button>
+                    </Link>
                 </div>
                 {author}
                 {date}
