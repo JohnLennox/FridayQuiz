@@ -7,20 +7,34 @@ class Question extends React.Component {
         this.state = {
             selectedAnswer: ''
         };
+        this.submitAnswer = this.submitAnswer.bind(this);
     }
 
     componentDidMount() {
-
+        this.setState({selectedAnswer: ''})
     }
 
     setAnswer = (answer) =>{
         this.setState({selectedAnswer: answer});
     }
 
+    submitAnswer = () => {
+        if(this.state.selectedAnswer === ''){
+            alert("Please select an answer");
+            return;
+        }
+        if(this.state.selectedAnswer === this.props.answer){
+            this.props.onAnswerSubmit(true)
+        }
+        this.props.onAnswerSubmit(false)
+
+        this.setState({selectedAnswer: ''})
+    }
+
     render() {
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
         let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
-        let submit = <button className="btn btn-primary">Submit</button>
+        let submit = <button onClick = {this.submitAnswer} className="btn btn-primary">Submit</button>
         const answers = this.props.answers.map((item, index) =>
             <AnswerOption selectedAnswer = {this.state.selectedAnswer} setAnswer = {this.setAnswer} key={index} answer = {item}></AnswerOption>
         );

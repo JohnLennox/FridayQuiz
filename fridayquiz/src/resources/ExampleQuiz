@@ -9,6 +9,18 @@
       "Question": "What is the largest state in USA by land size?",
       "options": ["California","Texas","Alaska","Kentucky"],
       "answer": "Alaska"
-    }
+    },
+    {
+          "image": "https://www.nationsonline.org/maps/US-states-Abbreviation-map.jpg",
+          "Question": "2 What is the largest state in USA by land size?",
+          "options": ["California","Texas","Alaska","Kentuckya"],
+          "answer": "Alaska"
+        },
+        {
+              "image": "https://www.nationsonline.org/maps/US-states-Abbreviation-map.jpg",
+              "Question": "3 What is the largest state in USA by land size?",
+              "options": ["California","Texasa","Alaska","Kentucky"],
+              "answer": "Alaska"
+            }
   ]
 }
