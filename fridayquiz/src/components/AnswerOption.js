@@ -9,27 +9,24 @@ class AnswerOption extends React.Component {
         this.chosen = this.chosen.bind(this);
     }
 
-    componentDidMount() {
-
-    }
-
-    chosen(){
+    chosen() {
         this.props.setAnswer(this.props.answer);
     }
 
     render() {
         let option = <h2>{this.props.answer}</h2>;
         let optionStyling = unselectedStyling;
-        if(this.props.selectedAnswer === this.props.answer){
-           optionStyling = selectedStyling;
+        if (this.props.selectedAnswer === this.props.answer) {
+            optionStyling = selectedStyling;
         }
         return (
-            <div  onClick={() => this.chosen()} style = {optionStyling}>
+            <div onClick={() => this.chosen()} style={optionStyling}>
                 {option}
             </div>
         )
     }
 }
+
 const unselectedStyling = {
     borderRadius: '5px',
     borderWidth: '3px',

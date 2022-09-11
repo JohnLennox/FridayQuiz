@@ -1,6 +1,7 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import Question from "../components/question";
+import Result from "../components/Result";
 
 class QuestionList extends React.Component {
     constructor(props) {
@@ -33,18 +34,16 @@ class QuestionList extends React.Component {
         this.isEndOfQuestionList(qi)
     }
 
-    isEndOfQuestionList(questionIndex){
-        if(questionIndex === this.state.quizData.questions.length -1){
+    isEndOfQuestionList(questionIndex) {
+        if (questionIndex === this.state.quizData.questions.length - 1) {
             this.setState({activeQuiz: false})
             this.setState({quizLength: this.state.quizData.questions.length})
         }
     }
 
     render() {
-        let title;
+        let title, question, result;
         let currentQuestion = this.state.questionIndex;
-        let question;
-        let result = null;
         if (this.state.quizData && this.state.activeQuiz) {
             title = <h1>{this.state.quizData.quizName}</h1>
             let questionInfo = this.state.quizData.questions[currentQuestion];
@@ -54,9 +53,9 @@ class QuestionList extends React.Component {
                 image={questionInfo.image}
                 answer={questionInfo.answer}
                 question={questionInfo.Question}/>
-        }else{
+        } else {
             question = null;
-            result = <h3>You scored: {this.state.score} / {this.state.quizLength}</h3>
+            result = <Result score={this.state.score} numberOfQuestions={this.state.quizLength}/>
         }
         return (
             <div>

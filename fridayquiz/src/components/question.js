@@ -14,29 +14,29 @@ class Question extends React.Component {
         this.setState({selectedAnswer: ''})
     }
 
-    setAnswer = (answer) =>{
+    setAnswer = (answer) => {
         this.setState({selectedAnswer: answer});
     }
 
     submitAnswer = () => {
-        if(this.state.selectedAnswer === ''){
+        if (this.state.selectedAnswer === '') {
             alert("Please select an answer");
             return;
         }
-        if(this.state.selectedAnswer === this.props.answer){
+        if (this.state.selectedAnswer === this.props.answer) {
             this.props.onAnswerSubmit(true)
         }
         this.props.onAnswerSubmit(false)
-
         this.setState({selectedAnswer: ''})
     }
 
     render() {
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
         let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
-        let submit = <button onClick = {this.submitAnswer} className="btn btn-primary">Submit</button>
+        let submit = <button style={buttonStyle} onClick={this.submitAnswer} className="btn btn-primary">Submit</button>
         const answers = this.props.answers.map((item, index) =>
-            <AnswerOption selectedAnswer = {this.state.selectedAnswer} setAnswer = {this.setAnswer} key={index} answer = {item}></AnswerOption>
+            <AnswerOption selectedAnswer={this.state.selectedAnswer} setAnswer={this.setAnswer} key={index}
+                          answer={item}></AnswerOption>
         );
         return (
             <div style={QuestionWrapper}>
@@ -59,6 +59,10 @@ const ImageStyle = {
 
 const QuestionText = {
     margin: '1rem'
+}
+
+const buttonStyle = {
+    margin: '0.5rem'
 }
 
 export default Question;
