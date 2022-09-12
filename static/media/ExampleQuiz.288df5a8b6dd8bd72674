@@ -1,0 +1,44 @@
+{
+  "quizName": "John's Quiz",
+  "quizAuthor": "John Lennox",
+  "quizDate" : "16/09/2022",
+  "quizImage" : "https://yt3.ggpht.com/ytc/AMLnZu9N3_rHUuFLoQGmPUZ6_AZtyLYrt-EhrCEnHKO_=s900-c-k-c0x00ffffff-no-rj",
+  "questions": [
+    {
+      "image": "https://www.nationsonline.org/maps/US-states-Abbreviation-map.jpg",
+      "Question": "What is the largest state in USA by land size?",
+      "options": ["California","Texas","Alaska","Kentucky"],
+      "answer": "Alaska"
+    },
+    {
+        "image" : "https://cdn.vox-cdn.com/thumbor/m0UgCBJ0-uCkBu-1YAqE5v27Yao=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
+        "Question": "What was Meta Platforms Inc formerly known as?",
+        "options": ["Facebook","Instagram","Oculus","VR World"],
+        "answer": "Facebook"
+    },
+    {
+        "image": "https://cdn.shopify.com/s/files/1/0070/7032/files/Shopify_Podcast_Final_Corr2_B.jpg?v=1626186336",
+        "Question": "Which singer had a hit in the 1970s called ‘Maggie May’?",
+        "options": ["Sting","David Bowie","Rod Stewart","George Harrison"],
+        "answer": "Rod Stewart"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/1200px-Wimbledon.svg.png",
+        "Question": "In tennis, what piece of fruit is found at the top of the men’s Wimbledon trophy?",
+        "options": ["Apple","Orange","Pear","Pineapple"],
+        "answer": "Pineapple"
+    },
+    {
+        "image": "https://img.apmcdn.org/f8427d6320525b8f78b9e5d6edc8e0d902ce7e99/portrait/b1a212-20220729-lake-superior-near-grand-marais-in-june-2022-2000.jpg",
+        "Question": "Which of these is the largest freshwater lake by area size?",
+        "options": ["Lake Superior","Lake Michigan","Lake Erie","Lake Ontario"],
+        "answer": "Lake Superior"
+    },
+    {
+        "image": "https://www.benarnews.org/english/news/philippine/grave-concern-03282022162857.html/@@images/e768df9a-d034-44cb-bb6a-0bd6eca925a6.jpeg",
+        "Question": "Jacinda Ardern became the Prime Minister of which country in 2017?",
+        "options": ["United Kingdom","New Zealand","Australia","Philippines"],
+        "answer": "New Zealand"
+    }
+  ]
+}
