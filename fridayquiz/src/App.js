@@ -1,6 +1,6 @@
 import React from "react";
 
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import {BrowserRouter as Router, HashRouter, Route, Routes} from "react-router-dom";
 
 import QuizHome from "./pages/QuizHome";
 import QuestionList from "./pages/QuestionList";
@@ -14,12 +14,12 @@ class App extends React.Component {
     render() {
         return (
             <div style={MainStyle}>
-                <Router>
+                <HashRouter>
                     <Routes>
                         <Route path="/" element={<QuizHome/>}/>
                         <Route path="/question" element={<QuestionList/>}/>
                     </Routes>
-                </Router>
+                </HashRouter>
             </div>
 
         )
