@@ -39,6 +39,18 @@
         "Question": "Jacinda Ardern became the Prime Minister of which country in 2017?",
         "options": ["United Kingdom","New Zealand","Australia","Philippines"],
         "answer": "New Zealand"
+    },
+    {
+          "image": "https://www.nationsonline.org/maps/US-states-Abbreviation-map.jpg",
+          "Question": "What is the largest US state by population?",
+          "options": ["New York","California","Alaska","Texas"],
+          "answer": "California"
+    },
+    {
+              "image": "https://www.investopedia.com/thmb/NUc9wn8E6cMh2lbVmaBFwSNuETM=/2121x1414/filters:fill(auto,1)/GettyImages-1186091457-0c53b6749ceb49b79053f61f583eef03.jpg",
+              "Question": "What car manufacturer had the highest revenue in 2020?",
+              "options": ["Mercedes","Volkswagen","Tesla","Toyota"],
+              "answer": "Volkswagen"
     }
   ]
 }
