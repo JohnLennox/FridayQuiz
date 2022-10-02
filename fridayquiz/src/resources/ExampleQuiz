@@ -1,5 +1,5 @@
 {
-  "quizName": "John's Quiz",
+  "quizName": "Friday Quiz",
   "quizAuthor": "John Lennox",
   "quizDate" : "22/09/2022",
   "quizImage" : "https://d1ymz67w5raq8g.cloudfront.net/Pictures/480xany/6/5/5/509655_shutterstock_1506580442_769367.jpg",
@@ -7,7 +7,7 @@
     {
       "image": "https://i.hurimg.com/i/hdn/75/0x0/6329819a4e3fe01c4c96e540.jpg",
       "Question": "Approximately how many ants are there in the world? ",
-      "options": ["100 million","30 Billion","10 Quadrillion","20 Quadrillion"],
+      "options": ["100 Million","30 Billion","10 Quadrillion","20 Quadrillion"],
       "answer": "20 Quadrillion"
     },
     {
@@ -24,14 +24,14 @@
     },
     {
       "image": "https://markallenassets.blob.core.windows.net/communitycare/2022/09/Liz-Truss-resized.jpg",
-      "Question": "What is Liz Truss' Constituency?",
+      "Question": "What constituency does Liz Truss represent?",
       "options": ["Uxbridge and South Ruislip","South West Norfolk","Holborn and St Pancras","Maidenhead"],
       "answer": "South West Norfolk"
     },
     {
       "image": "https://static2.thequizimages.com/wordpress/wp-content/uploads/2017/10/Borimir-Meme.jpg?q=50&fit=crop&w=737&h=368&dpr=1.5",
       "Question": "Which film is this image from?",
-      "options": ["Lord of the Rings: The Fellowship of the Ring","Lord of the Rings: The Return of the Ring",
+      "options": ["Lord of the Rings: The Fellowship of the Ring","Lord of the Rings: The Return of the King",
       "Lord of the Rings: The Two Towers"],
       "answer": "Lord of the Rings: The Fellowship of the Ring"
     },

@@ -1,6 +1,6 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
-import Question from "../components/question";
+import Question from "../components/Question";
 import Result from "../components/Result";
 
 class QuestionList extends React.Component {
