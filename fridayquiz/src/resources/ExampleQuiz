@@ -1,69 +1,79 @@
 {
   "quizName": "Friday Quiz",
   "quizAuthor": "John Lennox",
-  "quizDate" : "22/09/2022",
+  "quizId": 0,
+  "quizDate" : "14/10/2022",
   "quizImage" : "https://d1ymz67w5raq8g.cloudfront.net/Pictures/480xany/6/5/5/509655_shutterstock_1506580442_769367.jpg",
   "questions": [
     {
-      "image": "https://i.hurimg.com/i/hdn/75/0x0/6329819a4e3fe01c4c96e540.jpg",
-      "Question": "Approximately how many ants are there in the world? ",
-      "options": ["100 Million","30 Billion","10 Quadrillion","20 Quadrillion"],
-      "answer": "20 Quadrillion"
+      "questionId": 1,
+      "image": "https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg",
+      "Question": "On which social network are you most likely to have a friend named Tom",
+      "options": ["Myspace","Twitter","Facebook","Bebo"],
+      "answer": "Myspace"
     },
     {
-      "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37e93a8fcef791c8/62e8ebba6f09a9530ac0f656/pl_completed_transfers.jpg",
-      "Question": "What team is currently bottom of the English Premier league?",
-      "options": ["Manchester United","Brighton and Hove Albion","Leicester City","Nottingham Forest"],
-      "answer": "Leicester City"
+      "questionId": 2,
+      "image": "https://img.freepik.com/premium-vector/skeleton-cartoon-mascot-hold-halloween-pumpkin_9645-845.jpg",
+      "Question": "How many bones are in the human body?",
+      "options": ["186","196","206","216"],
+      "answer": "206"
     },
     {
-      "image": "https://static.independent.co.uk/2021/06/16/12/newFile-8.jpg?quality=75&width=982&height=726&auto=webp",
-      "Question": "In which English county would you find the city of Norwich?",
-      "options": ["Norfolk","Somerset","Lincolnshire","Yorkshire"],
-      "answer": "Norfolk"
+      "questionId": 3,
+      "image": "https://images.pond5.com/temperature-gauge-animation-070342299_prevstill.jpeg",
+      "Question": "At which temperature are Celsius and Fahrenheit equal?",
+      "options": ["-40","-27","-13","0"],
+      "answer": "-40"
     },
     {
-      "image": "https://markallenassets.blob.core.windows.net/communitycare/2022/09/Liz-Truss-resized.jpg",
-      "Question": "What constituency does Liz Truss represent?",
-      "options": ["Uxbridge and South Ruislip","South West Norfolk","Holborn and St Pancras","Maidenhead"],
-      "answer": "South West Norfolk"
+    "questionId": 4,
+      "image": "https://www.pixalytics.com/wp-content/uploads/2016/01/16899602_ml.jpg",
+      "Question": "What was the name of the first man-made satellite?",
+      "options": ["Sputnik 1","Sputnik 2","Explorer 1","Voyager"],
+      "answer": "Sputnik 1"
     },
     {
-      "image": "https://static2.thequizimages.com/wordpress/wp-content/uploads/2017/10/Borimir-Meme.jpg?q=50&fit=crop&w=737&h=368&dpr=1.5",
-      "Question": "Which film is this image from?",
-      "options": ["Lord of the Rings: The Fellowship of the Ring","Lord of the Rings: The Return of the King",
-      "Lord of the Rings: The Two Towers"],
-      "answer": "Lord of the Rings: The Fellowship of the Ring"
+    "questionId": 5,
+      "image": "https://www.nasa.gov/images/content/744726main_mercury7.jpg",
+      "Question": "What was the name of the first American in space?",
+      "options": ["Neil Armstrong","John Glenn","Alan Shephard", "Michael Collins"],
+      "answer": "Alan Shephard"
     },
     {
-      "image": "https://www.beano.com/wp-content/uploads/legacy/83038_image.jpg?strip=all&quality=86&w=887",
-      "Question": "Which film is this image from?",
-      "options": ["Ghostbusters","Scrooged","Groundhog Day","What About Bob"],
-      "answer": "Groundhog Day"
+    "questionId": 6,
+      "image": "https://i.dailymail.co.uk/1s/2019/10/29/14/20320992-7625529-Cara_a_five_year_old_125lb_Bengal_tiger_has_been_fitted_with_a_g-a-8_1572358357911.jpg",
+      "Question": "How many teeth does an adult tiger have?",
+      "options": ["30","26","22","18"],
+      "answer": "30"
     },
     {
-      "image": "https://www.beano.com/wp-content/uploads/legacy/83065_quiz-8.jpg?strip=all&quality=86&w=887",
-      "Question": "Which film is this image from?",
-      "options": ["Jumanji","Flubber","Mrs Doubtfire","Ghostbusters"],
-      "answer": "Flubber"
+    "questionId": 7,
+      "image": "http://www.washingtonpost.com/news/animalia/wp-content/uploads/sites/56/2016/12/APTOPIX_Texas_Daily_Life-078fdTRIM1.jpg",
+      "Question": "Humans and Chimpanzees share roughly how much DNA?",
+      "options": ["86%","88%","96%","98%"],
+      "answer": "98%"
     },
     {
-      "image": "https://www.beano.com/wp-content/uploads/legacy/83077_image.png?strip=all&quality=86&w=887",
-      "Question": "Which film is this image from?",
-      "options": ["Star Wars: The Rise of Skywalker","Star Wars: Revenge of the Sith","Star Wars: The Last Jedi","Star Wars: The Force awakens"],
-      "answer": "Star Wars: The Last Jedi"
+    "questionId": 8,
+      "image": "https://www.telegraph.co.uk/multimedia/archive/03415/billgates_3415111b.jpg",
+      "Question": "Which University did Bill Gates drop out of?",
+      "options": ["Princeton","Yale","Cornell","Harvard"],
+      "answer": "Harvard"
     },
     {
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/20/13/enhanced/c3b1ebfb16c2/enhanced-16942-1605879590-1.jpg?output-format=auto&output-quality=auto",
-      "Question": "Which film is this image from?",
-      "options": ["Die Hard","Die Hard 2","Die Hard with a Vengeance","Die Hard 4.0","A Good Day To Die Hard"],
-      "answer": "Die Hard"
+    "questionId": 9,
+      "image": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/08/tux.jpg",
+      "Question": "Tux the penguin is the mascot of which OS",
+      "options": ["Android", "iOS", "Windows", "Linux"],
+      "answer": "Linux"
     },
     {
-      "image": "https://ichef.bbci.co.uk/images/ic/640x360/p06v5nm2.jpg",
-      "Question": "Which film is this image from?",
-      "options": ["Die Hard","Die Hard 2","Die Hard with a Vengeance","Die Hard 4.0","A Good Day To Die Hard"],
-      "answer": "Die Hard with a Vengeance"
+    "questionId": 10,
+      "image": "https://imageio.forbes.com/blogs-images/gordonkelly/files/2016/09/Screenshot-2016-09-08-at-03.05.05-1200x695.jpg?height=411&width=711&fit=bounds",
+      "Question": "What did Apple remove from the iPhone 7 onwards?",
+      "options": ["Physical Home Button", "USB port", "3d touch", "The headphone jack"],
+      "answer": "The headphone jack"
     }
   ]
 }

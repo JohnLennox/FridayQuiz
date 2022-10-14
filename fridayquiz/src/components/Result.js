@@ -1,7 +1,33 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
-class Question extends React.Component {
+class Result extends React.Component {
+
+    getOriginalResult(){
+        let quizList = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
+        let answerList;
+        if(!quizList){
+            return "";
+        }
+        for (const [key, value] of Object.entries(quizList)) {
+            if(key == this.props.quizId){
+               answerList = value;
+            }
+        }
+
+        let correctCount = 0;
+        if(!answerList){
+            return "";
+        }
+
+        for (let i = 0; i < answerList.length; i++) {
+            if(answerList[i].answer === answerList[i].selectedAnswer){
+                correctCount ++;
+            }
+        }
+        return correctCount + "/" + answerList.length;
+
+    }
 
     getResultMessage(score, questionCount) {
         let message = "Well done!";
@@ -20,13 +46,19 @@ class Question extends React.Component {
         let score = this.props.score;
         let questionCount = this.props.numberOfQuestions;
         let message = this.getResultMessage(score, questionCount);
+        let original = this.getOriginalResult();
         return (
             <div style={HeightWrapper}>
                 <h1 style={ScoreStyle}>You scored: {score}/{questionCount}</h1>
+                <h1 style={ScoreStyle}>Your original score was: {original}</h1>
                 <h2 style={MessageStyle}>{message}</h2>
                 <Link to={"/"}>
                     <button className="btn btn-primary">Try again?</button>
                 </Link>
+                <br></br>
+                {/*<Link to={"/review"}>*/}
+                {/*    <button style={ButtonStyle} className="btn btn-primary">View results?</button>*/}
+                {/*</Link>*/}
             </div>
         )
     }
@@ -34,6 +66,10 @@ class Question extends React.Component {
 
 const HeightWrapper = {
     minHeight: '100vh'
+}
+
+const ButtonStyle = {
+    margin: '0.5rem'
 }
 
 const MessageStyle = {
@@ -44,4 +80,4 @@ const ScoreStyle = {
     padding: '0.5rem'
 }
 
-export default Question;
+export default Result;

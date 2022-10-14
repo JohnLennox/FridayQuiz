@@ -18,11 +18,72 @@ class Question extends React.Component {
         this.setState({selectedAnswer: answer});
     }
 
+    checkForQuestion = (answerInfo, answerList) => {
+        for (let i = 0; i < answerList.length; i++) {
+            if (answerList[i].questionId === answerInfo.questionId) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    checkForQuiz = (quizId, quizzes) => {
+        return (quizzes[quizId] != null);
+    }
+
+    saveSelectedAnswer = () => {
+        let answerInfo = {
+            question: this.props.question,
+            image: this.props.image,
+            selectedAnswer: this.state.selectedAnswer,
+            answer: this.props.answer,
+            options: this.props.answers,
+            questionId: this.props.questionId
+        }
+
+        let allQuizResults = null;
+        if (window.localStorage.getItem("FridayQuizResults")) {
+            allQuizResults = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
+        }
+
+        if (!allQuizResults) {
+            let quizResults = [];
+            window.localStorage.setItem("FridayQuizResults", JSON.stringify(quizResults));
+            allQuizResults = quizResults;
+        }
+
+        if (this.checkForQuiz(this.props.quizId, allQuizResults)) {
+            let quizId = this.props.quizId;
+            let quizData;
+            for (const [key, value] of Object.entries(allQuizResults)) {
+                if (key == quizId) {
+                    quizData = value;
+                }
+            }
+
+            if (!this.checkForQuestion(answerInfo, quizData)) {
+                quizData.push(answerInfo);
+            }
+            allQuizResults[quizId] = (quizData);
+            window.localStorage.setItem("FridayQuizResults", JSON.stringify(allQuizResults))
+
+        } else {
+            let answerData = [];
+            answerData.push(answerInfo);
+            allQuizResults[this.props.quizId] = answerData;
+
+            window.localStorage.setItem("FridayQuizResults", JSON.stringify(allQuizResults));
+        }
+    }
+
     submitAnswer = () => {
         if (this.state.selectedAnswer === '') {
             alert("Please select an answer");
             return;
         }
+
+        this.saveSelectedAnswer();
+
         if (this.state.selectedAnswer === this.props.answer) {
             this.props.onAnswerSubmit(true)
         }

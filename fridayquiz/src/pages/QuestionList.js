@@ -44,6 +44,10 @@ class QuestionList extends React.Component {
     render() {
         let title, question, result;
         let currentQuestion = this.state.questionIndex;
+        let quizId = "";
+        if(this.state.quizData){
+            quizId = this.state.quizData.quizId;
+        }
         if (this.state.quizData && this.state.activeQuiz) {
             title = <h1>{this.state.quizData.quizName}</h1>
             let questionInfo = this.state.quizData.questions[currentQuestion];
@@ -52,10 +56,13 @@ class QuestionList extends React.Component {
                 answers={questionInfo.options}
                 image={questionInfo.image}
                 answer={questionInfo.answer}
-                question={questionInfo.Question}/>
+                question={questionInfo.Question}
+                questionId={questionInfo.questionId}
+                quizId={this.state.quizData.quizId}
+            />
         } else {
             question = null;
-            result = <Result score={this.state.score} numberOfQuestions={this.state.quizLength}/>
+            result = <Result score={this.state.score} quizId={quizId} numberOfQuestions={this.state.quizLength}/>
         }
         return (
             <div>

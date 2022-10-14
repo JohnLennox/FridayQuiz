@@ -1,8 +1,9 @@
 import React from "react";
 
-import {BrowserRouter as Router, HashRouter, Route, Routes} from "react-router-dom";
+import {HashRouter, Route, Routes} from "react-router-dom";
 
 import QuizHome from "./pages/QuizHome";
+import QuestionReview from "./pages/QuestionReview";
 import QuestionList from "./pages/QuestionList";
 
 class App extends React.Component {
@@ -18,6 +19,7 @@ class App extends React.Component {
                     <Routes>
                         <Route path="/" element={<QuizHome/>}/>
                         <Route path="/question" element={<QuestionList/>}/>
+                        <Route path="/review" element={<QuestionReview/>}></Route>
                     </Routes>
                 </HashRouter>
             </div>
