@@ -3,26 +3,27 @@ import {Link} from "react-router-dom";
 
 class Result extends React.Component {
 
-    getOriginalResult(){
+    getOriginalResult() {
         let quizList = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
+        let quizId = JSON.parse(window.localStorage.getItem("quizId"));
         let answerList;
-        if(!quizList){
+        if (!quizList) {
             return "";
         }
         for (const [key, value] of Object.entries(quizList)) {
-            if(key == this.props.quizId){
-               answerList = value;
+            if (key == quizId) {
+                answerList = value;
             }
         }
 
         let correctCount = 0;
-        if(!answerList){
+        if (!answerList) {
             return "";
         }
 
         for (let i = 0; i < answerList.length; i++) {
-            if(answerList[i].answer === answerList[i].selectedAnswer){
-                correctCount ++;
+            if (answerList[i].answer === answerList[i].selectedAnswer) {
+                correctCount++;
             }
         }
         return correctCount + "/" + answerList.length;
@@ -43,8 +44,9 @@ class Result extends React.Component {
     }
 
     render() {
-        let score = this.props.score;
-        let questionCount = this.props.numberOfQuestions;
+        let score = JSON.parse(window.localStorage.getItem("currentScore"));
+        let questionCount = JSON.parse(window.localStorage.getItem("questionCount"));
+
         let message = this.getResultMessage(score, questionCount);
         let original = this.getOriginalResult();
         return (
@@ -56,9 +58,9 @@ class Result extends React.Component {
                     <button className="btn btn-primary">Try again?</button>
                 </Link>
                 <br></br>
-                {/*<Link to={"/review"}>*/}
-                {/*    <button style={ButtonStyle} className="btn btn-primary">View results?</button>*/}
-                {/*</Link>*/}
+                <Link to={"/review"}>
+                    <button style={ButtonStyle} className="btn btn-primary">View results?</button>
+                </Link>
             </div>
         )
     }
