@@ -60,18 +60,15 @@ class Question extends React.Component {
                     quizData = value;
                 }
             }
-
             if (!this.checkForQuestion(answerInfo, quizData)) {
                 quizData.push(answerInfo);
             }
             allQuizResults[quizId] = (quizData);
             window.localStorage.setItem("FridayQuizResults", JSON.stringify(allQuizResults))
-
         } else {
             let answerData = [];
             answerData.push(answerInfo);
             allQuizResults[this.props.quizId] = answerData;
-
             window.localStorage.setItem("FridayQuizResults", JSON.stringify(allQuizResults));
         }
     }

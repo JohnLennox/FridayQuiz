@@ -1,14 +1,9 @@
 import React from "react";
-import Question from "../components/Question";
-import Result from "../components/Result";
 import jsonData from "../resources/ExampleQuiz";
 import QuestionReview from "../components/QuestionReview";
+import {Navigate} from "react-router-dom";
 
 class QuizReview extends React.Component {
-    // Get the answer info
-    // Make a question review component like a question component but you cant select
-    //loop through all of them
-
     constructor(props) {
         super(props);
         this.state = {
@@ -16,7 +11,8 @@ class QuizReview extends React.Component {
             questionIndex: 0,
             score: 0,
             activeReview: true,
-            answerData: null
+            answerData: null,
+            reviewComplete: false
         };
         this.onNextQuestion = this.onNextQuestion.bind(this);
     }
@@ -31,18 +27,17 @@ class QuizReview extends React.Component {
 
     onNextQuestion() {
         let qi = this.state.questionIndex;
-        if(qi !== this.state.quizData.length){
-            this.setState({questionIndex: qi + 1});
+        if (qi === this.state.quizData.questions.length - 1) {
+            this.setState({reviewComplete: true});
         }
+        this.setState({questionIndex: qi + 1});
     }
 
     render() {
-        let title, question;
+        let question;
         let currentQuestion = this.state.questionIndex;
         let quizId;
-        if (this.state.quizData) {
-            title = <h1>{this.state.quizData.quizName}</h1>
-            //    get the quiz info from local storage
+        if (this.state.quizData && !this.state.reviewComplete) {
             quizId = this.state.quizData.quizId;
             let allQuizResults = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
             let quiz = allQuizResults[quizId];
@@ -53,6 +48,8 @@ class QuizReview extends React.Component {
                                        correctAnswer={questionInfo.answer}
                                        nextQuestionReview={this.onNextQuestion}
                                        image={questionInfo.image}/>
+        } else if (this.state.reviewComplete) {
+            question = <Navigate to='/result'/>
         }
 
         return (

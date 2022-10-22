@@ -1,7 +1,6 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import Question from "../components/Question";
-import Result from "../components/Result";
 import { Navigate } from "react-router-dom";
 
 class QuestionList extends React.Component {
@@ -67,7 +66,6 @@ class QuestionList extends React.Component {
             window.localStorage.setItem("currentScore", JSON.stringify(this.state.score));
             window.localStorage.setItem("questionCount", JSON.stringify(this.state.quizLength));
             result = <Navigate to='/result' />
-            {/*result = <Result numberOfQuestions={this.state.quizLength}/>*/}
         }
         return (
             <div>

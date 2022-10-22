@@ -2,7 +2,6 @@ import React from "react";
 import {Link} from "react-router-dom";
 
 class Result extends React.Component {
-
     getOriginalResult() {
         let quizList = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
         let quizId = JSON.parse(window.localStorage.getItem("quizId"));
@@ -27,7 +26,6 @@ class Result extends React.Component {
             }
         }
         return correctCount + "/" + answerList.length;
-
     }
 
     getResultMessage(score, questionCount) {
@@ -46,7 +44,6 @@ class Result extends React.Component {
     render() {
         let score = JSON.parse(window.localStorage.getItem("currentScore"));
         let questionCount = JSON.parse(window.localStorage.getItem("questionCount"));
-
         let message = this.getResultMessage(score, questionCount);
         let original = this.getOriginalResult();
         return (

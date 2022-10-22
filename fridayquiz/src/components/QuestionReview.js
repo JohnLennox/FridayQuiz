@@ -1,5 +1,4 @@
 import React from "react";
-import AnswerOption from "./AnswerOption";
 import AnswerReview from "./AnswerReview";
 
 class QuestionReview extends React.Component {
