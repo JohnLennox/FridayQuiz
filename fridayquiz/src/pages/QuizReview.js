@@ -42,12 +42,16 @@ class QuizReview extends React.Component {
             let allQuizResults = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
             let quiz = allQuizResults[quizId];
             let questionInfo = quiz[currentQuestion];
-            question = <QuestionReview question={questionInfo.question}
-                                       options={questionInfo.options}
-                                       selectedAnswer={questionInfo.selectedAnswer}
-                                       correctAnswer={questionInfo.answer}
-                                       nextQuestionReview={this.onNextQuestion}
-                                       image={questionInfo.image}/>
+            if (questionInfo === undefined) {
+                question = <Navigate to='/result'/>
+            } else {
+                question = <QuestionReview question={questionInfo.question}
+                                           options={questionInfo.options}
+                                           selectedAnswer={questionInfo.selectedAnswer}
+                                           correctAnswer={questionInfo.answer}
+                                           nextQuestionReview={this.onNextQuestion}
+                                           image={questionInfo.image}/>
+            }
         } else if (this.state.reviewComplete) {
             question = <Navigate to='/result'/>
         }
