@@ -14,9 +14,9 @@ class QuizHome extends React.Component {
             .then(text => {
                 this.setState({quizData: JSON.parse(text)})
             });
-        if(window.localStorage.getItem("localStorageCleared") == null){
+        if(window.localStorage.getItem("storageCleared") == null){
             window.localStorage.clear();
-            window.localStorage.setItem("localStorageCleared", "true");
+            window.localStorage.setItem("storageCleared", "true");
         }
     }
 

@@ -1,79 +1,79 @@
 {
-  "quizName": "Friday Quiz",
+  "quizName": "Halloween Quiz",
   "quizAuthor": "John Lennox",
   "quizId": 1,
-  "quizDate" : "14/10/2022",
-  "quizImage" : "https://d1ymz67w5raq8g.cloudfront.net/Pictures/480xany/6/5/5/509655_shutterstock_1506580442_769367.jpg",
+  "quizDate" : "28/10/2022",
+  "quizImage" : "https://mm.aiircdn.com/305/5b607ad92ee2b.jpg",
   "questions": [
     {
       "questionId": 1,
-      "image": "https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg",
-      "Question": "On which social network are you most likely to have a friend named Tom",
-      "options": ["Myspace","Twitter","Facebook","Bebo"],
-      "answer": "Myspace"
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ5ZGVmZmQtYjU4My00MWJhLWIxM2YtNWY4MGFhZWU1NzU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "Question": "The Bates Motel is the prequel to which classic horror film?",
+      "options": ["Psycho","The Shining","The Last Man on Earth","The Birds"],
+      "answer": "Psycho"
     },
     {
       "questionId": 2,
-      "image": "https://img.freepik.com/premium-vector/skeleton-cartoon-mascot-hold-halloween-pumpkin_9645-845.jpg",
-      "Question": "How many bones are in the human body?",
-      "options": ["186","196","206","216"],
-      "answer": "206"
+      "image": "https://m.media-amazon.com/images/I/91dqIILPZvL.jpg",
+      "Question": "In the film adaptation of The Witches, what does the grand witch plan to turn the children into?",
+      "options": ["Rats","Mice","Cats","Scarecrows"],
+      "answer": "Mice"
     },
     {
       "questionId": 3,
-      "image": "https://images.pond5.com/temperature-gauge-animation-070342299_prevstill.jpeg",
-      "Question": "At which temperature are Celsius and Fahrenheit equal?",
-      "options": ["-40","-27","-13","0"],
-      "answer": "-40"
+      "image": "https://i.insider.com/616dc13041af0d00193f2236?width=480&format=jpeg",
+      "Question": "What is the name of the hotel in 'The Shining'?",
+      "options": ["The Bates Motel","The Overlook","Fawlty Towers","The Dolphin Hotel"],
+      "answer": "The Overlook"
     },
     {
-    "questionId": 4,
-      "image": "https://www.pixalytics.com/wp-content/uploads/2016/01/16899602_ml.jpg",
-      "Question": "What was the name of the first man-made satellite?",
-      "options": ["Sputnik 1","Sputnik 2","Explorer 1","Voyager"],
-      "answer": "Sputnik 1"
+      "questionId": 4,
+      "image": "https://news.unl.edu/sites/default/files/media/frankenstein-630x400.jpg",
+      "Question": "Who wrote Frankenstein?",
+      "options": ["Mary Shelly","Ann Radcliffe","Arthur Conan Doyle","Robert Louis Stevenson"],
+      "answer": "Mary Shelly"
     },
     {
-    "questionId": 5,
-      "image": "https://www.nasa.gov/images/content/744726main_mercury7.jpg",
-      "Question": "What was the name of the first American in space?",
-      "options": ["Neil Armstrong","John Glenn","Alan Shephard", "Michael Collins"],
-      "answer": "Alan Shephard"
+      "questionId": 5,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-simon-pegg-.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["John Bishop","Simon Pegg","Rupert Grint","Chris Martin"],
+      "answer": "Simon Pegg"
     },
     {
-    "questionId": 6,
-      "image": "https://i.dailymail.co.uk/1s/2019/10/29/14/20320992-7625529-Cara_a_five_year_old_125lb_Bengal_tiger_has_been_fitted_with_a_g-a-8_1572358357911.jpg",
-      "Question": "How many teeth does an adult tiger have?",
-      "options": ["30","26","22","18"],
-      "answer": "30"
+      "questionId": 6,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/Adele-The-Mask-Cop-1024x535.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Adele","Jim Carey","Cher"],
+      "answer": "Adele"
     },
     {
-    "questionId": 7,
-      "image": "http://www.washingtonpost.com/news/animalia/wp-content/uploads/sites/56/2016/12/APTOPIX_Texas_Daily_Life-078fdTRIM1.jpg",
-      "Question": "Humans and Chimpanzees share roughly how much DNA?",
-      "options": ["86%","88%","96%","98%"],
-      "answer": "98%"
+      "questionId": 7,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-channing-tatum.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Ryan Reynolds","Ryan Gosling","Channing Tatum","Zac Efron"],
+      "answer": "Channing Tatum"
     },
     {
-    "questionId": 8,
-      "image": "https://www.telegraph.co.uk/multimedia/archive/03415/billgates_3415111b.jpg",
-      "Question": "Which University did Bill Gates drop out of?",
-      "options": ["Princeton","Yale","Cornell","Harvard"],
-      "answer": "Harvard"
+      "questionId": 8,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/Best-Halloween-Costumes-emily-ratajowski.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Kendall Jenner","Selena Gomez","Miley Cyrus","Emily Ratajowski"],
+      "answer": "Emily Ratajowski"
     },
     {
-    "questionId": 9,
-      "image": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/08/tux.jpg",
-      "Question": "Tux the penguin is the mascot of which OS",
-      "options": ["Android", "iOS", "Windows", "Linux"],
-      "answer": "Linux"
+      "questionId": 9,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/adam-lambert.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Adam Levine","Adam Lambert","Adam Sandler","Adam Driver"],
+      "answer": "Adam Lambert"
     },
     {
-    "questionId": 10,
-      "image": "https://imageio.forbes.com/blogs-images/gordonkelly/files/2016/09/Screenshot-2016-09-08-at-03.05.05-1200x695.jpg?height=411&width=711&fit=bounds",
-      "Question": "What did Apple remove from the iPhone 7 onwards?",
-      "options": ["Physical Home Button", "USB port", "3d touch", "The headphone jack"],
-      "answer": "The headphone jack"
+      "questionId": 10,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-the-rock-2012.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Dwayne Johnson","Arnold Schwarzenegger","Sylvester Stallone","John Cena"],
+      "answer": "Dwayne Johnson"
     }
   ]
 }
