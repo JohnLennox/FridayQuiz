@@ -1,7 +1,7 @@
 {
   "quizName": "Halloween Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 1,
+  "quizId": 0,
   "quizDate" : "28/10/2022",
   "quizImage" : "https://mm.aiircdn.com/305/5b607ad92ee2b.jpg",
   "questions": [
