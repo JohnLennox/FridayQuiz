@@ -1,0 +1,79 @@
+{
+  "quizName": "Friday Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 1,
+  "quizDate" : "11/11/2022",
+  "quizImage" : "https://charlesriverinteractive.com/wp-content/uploads/2018/06/quiztime-1.gif",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://digitalhub.fifa.com/transform/5c8cef88-ad95-4e69-84f5-afeae91f5595/Brand_Protection_FIFA-World-Cup-Official-Trophy-P4",
+      "Question": "What is the name of the world cup trophy?",
+      "options": ["FIFA World Cup Trophy","Jules Rimet Trophy","ballon d'or","Équipe du monde"],
+      "answer": "FIFA World Cup Trophy"
+    },
+    {
+      "questionId": 2,
+      "image": "https://img.bleacherreport.net/img/images/photos/002/565/053/hi-res-892461-brazil-celebrate-as-cafu-lfts-the-trophy-after-the-germany_crop_north.jpg?1382317469&w=3072&h=2048",
+      "Question": "When was the last time a non-european team won the world cup?",
+      "options": ["1998","2002","2006","2010"],
+      "answer": "2002"
+    },
+    {
+      "questionId": 3,
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2022/11/03153701/GettyImages-1306115756.jpg",
+      "Question": "Which sports team does this logo belong to?",
+      "options": ["Olympiques Lyonnais","Chelsea","Paris Saint-Germain","Paris FC"],
+      "answer": "Paris Saint-Germain"
+    },
+	    {
+      "questionId": 4,
+      "image": "https://www.citypng.com/public/uploads/small/11655676248dqa8cnvpsfyzdseuktfspautu2kixsbrc55fgkc6dkmfibdjj5ulh1rqcxlbe4wm1vfrax0vrzaqrtele7sf1cweypwnzagsnevw.png",
+      "Question": "Which national football team has this badge?",
+      "options": ["Kazakhstan","Netherlands","Spain","Kenya"],
+      "answer": "Netherlands"
+    },
+	    {
+      "questionId": 5,
+      "image": "https://i.pinimg.com/originals/8f/00/98/8f0098da046b3e0c1599cec913bda018.jpg",
+      "Question": "Which national football team has this badge?",
+      "options": ["Germany","Jordan","Jamaica","Japan"],
+      "answer": "Japan"
+    },
+	    {
+      "questionId": 6,
+      "image": "https://encycolorpedia.com/teams/football/international/portugal.png",
+      "Question": "Which national football team has this badge?",
+      "options": ["Poland","Paraguay","Portugal","Panama"],
+      "answer": "Portugal"
+    },
+	    {
+      "questionId": 7,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/2010_FIFA_World_Cup.svg",
+      "Question": "Who sang the official world cup song of 2010?",
+      "options": ["Shakira","Rhianna","Beyonce","Madonna"],
+      "answer": "Shakira"
+    },
+	    {
+      "questionId": 8,
+      "image": "https://cdn.riddle.com/embeds/v2/images/q_80,c_fill,w_960,h_540/6e6/6e6fe2d8e26ee81afede4e68a957f017.jpg",
+      "Question": "Who won the Golden Boot at the 2018 World Cup in Russia? ",
+      "options": ["Harry Kane","Kylian Mbappe","Karim Benzema","Luca Modric"],
+      "answer": "Harry Kane"
+    },
+	    {
+      "questionId": 9,
+      "image": "https://phantom-marca.unidadeditorial.es/763cf064d3801fd40664139bacd53080/resize/1320/f/jpg/assets/multimedia/imagenes/2022/10/26/16668136918688.jpg",
+      "Question": "Where will the 2026 world cup take place?",
+      "options": ["North America","South America","Europe","Asia"],
+      "answer": "North America"
+    },
+	    {
+      "questionId": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Uruguay_goal_v_argentina_1930.jpg",
+      "Question": "In which country was the first world cup held?",
+      "options": ["England","Argentina","Italy","Uruguay"],
+      "answer": "Uruguay"
+    }
+  ]
+}

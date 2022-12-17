@@ -1,0 +1,79 @@
+{
+  "quizName": "Halloween Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 1,
+  "quizDate" : "28/10/2022",
+  "quizImage" : "https://mm.aiircdn.com/305/5b607ad92ee2b.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ5ZGVmZmQtYjU4My00MWJhLWIxM2YtNWY4MGFhZWU1NzU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "Question": "The Bates Motel is the prequel to which classic horror film?",
+      "options": ["Psycho","The Shining","The Last Man on Earth","The Birds"],
+      "answer": "Psycho"
+    },
+    {
+      "questionId": 2,
+      "image": "https://m.media-amazon.com/images/I/91dqIILPZvL.jpg",
+      "Question": "In the film adaptation of The Witches, what does the grand witch plan to turn the children into?",
+      "options": ["Rats","Mice","Cats","Scarecrows"],
+      "answer": "Mice"
+    },
+    {
+      "questionId": 3,
+      "image": "https://i.insider.com/616dc13041af0d00193f2236?width=480&format=jpeg",
+      "Question": "What is the name of the hotel in 'The Shining'?",
+      "options": ["The Bates Motel","The Overlook","Fawlty Towers","The Dolphin Hotel"],
+      "answer": "The Overlook"
+    },
+    {
+      "questionId": 4,
+      "image": "https://news.unl.edu/sites/default/files/media/frankenstein-630x400.jpg",
+      "Question": "Who wrote Frankenstein?",
+      "options": ["Mary Shelly","Ann Radcliffe","Arthur Conan Doyle","Robert Louis Stevenson"],
+      "answer": "Mary Shelly"
+    },
+    {
+      "questionId": 5,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-simon-pegg-.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["John Bishop","Simon Pegg","Rupert Grint","Chris Martin"],
+      "answer": "Simon Pegg"
+    },
+    {
+      "questionId": 6,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/Adele-The-Mask-Cop-1024x535.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Adele","Jim Carey","Cher"],
+      "answer": "Adele"
+    },
+    {
+      "questionId": 7,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-channing-tatum.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Ryan Reynolds","Ryan Gosling","Channing Tatum","Zac Efron"],
+      "answer": "Channing Tatum"
+    },
+    {
+      "questionId": 8,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/Best-Halloween-Costumes-emily-ratajowski.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Kendall Jenner","Selena Gomez","Miley Cyrus","Emily Ratajowski"],
+      "answer": "Emily Ratajowski"
+    },
+    {
+      "questionId": 9,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/adam-lambert.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Adam Levine","Adam Lambert","Adam Sandler","Adam Driver"],
+      "answer": "Adam Lambert"
+    },
+    {
+      "questionId": 10,
+      "image": "https://www.dailyfeed.co.uk/wp-content/uploads/2019/09/celebrity-halloween-costumes-the-rock-2012.jpg",
+      "Question": "Who is this fancy dressed celebrity?",
+      "options": ["Dwayne Johnson","Arnold Schwarzenegger","Sylvester Stallone","John Cena"],
+      "answer": "Dwayne Johnson"
+    }
+  ]
+}
