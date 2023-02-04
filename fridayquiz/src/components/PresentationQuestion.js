@@ -6,6 +6,7 @@ class PresentationQuestion extends React.Component {
         super(props);
         this.state = {};
         this.next = this.next.bind(this);
+        this.previous = this.previous.bind(this);
     }
 
     componentDidMount() {
@@ -15,19 +16,28 @@ class PresentationQuestion extends React.Component {
         this.props.nextQuestionReview();
     }
 
+    previous = () => {
+        this.props.previousQuestionReview()
+    }
+
     render() {
+        let previous = <button style={buttonStyle} className="btn btn-primary" disabled={true} >Previous</button>;
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
         let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let correctAnswer = this.props.correctAnswer;
         let displayAnswer = this.props.showAnswers;
 
         let next = <button style={buttonStyle} onClick={this.next} className="btn btn-primary">Next</button>
+        if (this.props.questionIndex > 0) {
+            previous = <button style={buttonStyle} onClick={this.previous} className="btn btn-primary">Previous</button>
+        }
+
         const answers = this.props.options.map((item, index) => {
-                let correct,selected = false;
-                if(item === correctAnswer && displayAnswer){
+                let correct, selected = false;
+                if (item === correctAnswer && displayAnswer) {
                     correct = true;
                 }
-                return  <AnswerReview
+                return <AnswerReview
                     correctAnswer={correct}
                     selectedAnswer={selected}
                     key={index}
@@ -39,6 +49,7 @@ class PresentationQuestion extends React.Component {
                 {image}
                 {question}
                 {answers}
+                {previous}
                 {next}
             </div>
         )

@@ -15,6 +15,7 @@ class PresentationMode extends React.Component {
             endOfPresentation: false
         };
         this.onAnswerSubmit = this.onAnswerSubmit.bind(this)
+        this.onPreviousQuestion = this.onPreviousQuestion.bind(this)
     }
 
     componentDidMount() {
@@ -26,12 +27,9 @@ class PresentationMode extends React.Component {
         this.setState({questionIndex: 0})
     }
 
-    onNextQuestion() {
+    onPreviousQuestion() {
         let qi = this.state.questionIndex;
-        if (qi === this.state.quizData.questions.length - 1) {
-            this.setState({reviewComplete: true});
-        }
-        this.setState({questionIndex: qi + 1});
+        this.setState({questionIndex: qi - 1});
     }
 
     onAnswerSubmit() {
@@ -66,6 +64,8 @@ class PresentationMode extends React.Component {
             let questionInfo = this.state.quizData.questions[currentQuestion];
             question = <PresentationQuestion
                 nextQuestionReview={this.onAnswerSubmit}
+                previousQuestionReview = {this.onPreviousQuestion}
+                questionIndex ={currentQuestion}
                 options={questionInfo.options}
                 image={questionInfo.image}
                 correctAnswer={questionInfo.answer}
