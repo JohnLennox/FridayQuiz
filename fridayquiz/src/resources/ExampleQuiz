@@ -1,129 +1,129 @@
 {
-  "quizName": "Christmas Quiz!",
+  "quizName": "Not so Friday Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 2,
-  "quizDate": "20/12/2022",
-  "quizImage": "https://media.tenor.com/i8RuYFWoACgAAAAd/cheer-buddy.gif",
+  "quizId": 4,
+  "quizDate": "02/02/2023",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
   "questions": [
     {
       "questionId": 1,
-      "image": "http://www.threemoviebuffs.com/static/images/review_images/santaclause3theescapeclause1.jpg",
-      "Question": "Who is  the actor playing Santa in this image?",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/3/2021/04/Call-of-Duty.jpg-d196774.png",
+      "Question": "Which popular video game franchise has released games with the subtitles World At War and Black Ops?",
       "options": [
-        "Tim Allen",
-        "Ed Asner",
-        "Alex Baldwin",
-        "Richard Attenborough"
+        "Call of Duty",
+        "Battlefield",
+        "War Thunder",
+        "Valient Hearts"
       ],
-      "answer": "Tim Allen"
+      "answer": "Call of Duty"
     },
     {
       "questionId": 2,
-      "image": "https://static.wixstatic.com/media/b19cd0_399434e06268465faa85c022052cafea.png/v1/fit/w_1000%2Ch_692%2Cal_c/file.png",
-      "Question": "Who is  the actor playing Santa in this image?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/640px-Flag_of_Denmark.svg.png",
+      "Question": "What is the currency of Denmark?",
       "options": [
-        "Tim Allen",
-        "Ed Asner",
-        "Alex Baldwin",
-        "Richard Attenborough"
+        "Euro",
+        "Dollar",
+        "Krone",
+        "Pound"
       ],
-      "answer": "Richard Attenborough"
+      "answer": "Krone"
     },
     {
       "questionId": 3,
-      "image": "https://www.denofgeek.com/wp-content/uploads/2014/12/home-alone-maccauley-culkin.jpg?fit\u003d807%2C538",
-      "Question": "In Home Alone, where are the McCallisters going on holiday when they leave Kevin behind?",
+      "image": "https://d1gymyavdvyjgt.cloudfront.net/drive/images/uploads/headers/ws_cropper/1_0x0_790x520_0x520_smart-motorway-danger.jpg",
+      "Question": "Which country in the world is believed to have the most miles of motorway?",
       "options": [
-        "Miami",
-        "Rome",
-        "London",
-        "Paris"
+        "USA",
+        "China",
+        "Russia",
+        "India"
       ],
-      "answer": "Paris"
+      "answer": "China"
     },
     {
       "questionId": 4,
-      "image": "https://i.pinimg.com/originals/ab/af/2e/abaf2efe8981688cf83d76380d232c26.gif",
-      "Question": "Which country started the tradition of putting up a Christmas tree?",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/06/10/madonna.jpg?width=1200",
+      "Question": "In what decade was pop icon Madonna born?",
       "options": [
-        "Denmark",
-        "Germany",
-        "Austria",
-        "Finland"
+        "70s",
+        "60s",
+        "50s",
+        "40s"
       ],
-      "answer": "Germany"
+      "answer": "50s"
     },
     {
       "questionId": 5,
-      "image": "https://www.theladders.com/wp-content/uploads/the-grinch-teg-800x450.jpg",
-      "Question": "What is the Grinch\u0027s dog called?",
+      "image": "https://www.billboard.com/wp-content/uploads/media/the-beatles-1964-650a.jpg?w=650&h=430&crop=1",
+      "Question": "In what year did The Beatles split up?",
       "options": [
-        "Beethoven",
-        "Toto",
-        "Rover",
-        "Max"
+        "1966",
+        "1968",
+        "1970",
+        "1972"
       ],
-      "answer": "Max"
+      "answer": "1970"
     },
     {
       "questionId": 6,
-      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url\u003dhttps%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2006%2F11%2F184725__deck_l.jpg\u0026q\u003d60",
-      "Question": "In the 2006 film Deck The Halls what does Matthew Broderick\u0027s character (Steve Finch) do for a living?",
+      "image": "https://images.bauerhosting.com/legacy/empire-images/features/560ec04850e6c513721c379e/potter.jpg?q=80&w=850&ar=16:9&fit=crop&crop=top",
+      "Question": "Name the first actor to play Dumbledore in the Harry Potter films.",
       "options": [
-        "Doctor",
-        "Nurse",
-        "Optometrist",
-        "Dentist"
+        "Michael Gambon",
+        "Richard Harris",
+        "Ian McKellen",
+        "Michael Caine"
       ],
-      "answer": "Optometrist"
+      "answer": "Richard Harris"
     },
     {
       "questionId": 7,
-      "image": "https://assets-eu-01.kc-usercontent.com/559bb7d3-88a4-01c1-79a3-dd4d5b2d2bb0/629257db-5244-4195-8924-db216a4a9953/Stollen_Header.jpg",
-      "Question": "Stollen is a traditional fruit cake in which country?",
+      "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/62_36_1429634659.jpg?tr=w-800,h-600",
+      "Question": "Which southern Italian city is usually credited as the birthplace of the pizza?",
       "options": [
-        "Germany",
-        "Finland",
-        "USA",
-        "Australia"
+        "Pisa",
+        "Milan",
+        "Rome",
+        "Naples"
       ],
-      "answer": "Germany"
+      "answer": "Naples"
     },
     {
       "questionId": 8,
-      "image": "https://media.tenor.com/1OocHQyZC0cAAAAd/clark-griswold-turkey.gif",
-      "Question": "What is the most popular vegetarian alternative to a roast turkey?",
+      "image": "http://cdn.shopify.com/s/files/1/0516/6491/2583/products/1598344195203_2363x2363_7a339574-2f40-4273-a4f6-bce4642a995a.png?v=1610311467",
+      "Question": "What number is found in reference to their varieties on Heinz products?",
       "options": [
-        "Quorn Roast",
-        "Extra Brussel sprouts",
-        "A nut roast",
-        "Tofu Turkey (Tofurky)"
+        "47",
+        "52",
+        "57",
+        "62"
       ],
-      "answer": "A nut roast"
+      "answer": "57"
     },
     {
       "questionId": 9,
-      "image": "https://www.recipesmadeeasy.co.uk/wp-content/uploads/2018/11/easy-mince-pies-5-500x375.jpg",
-      "Question": "When making mince pies which way should you stir your mincemeat for good luck?",
+      "image": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-09/european-map_en_0.jpg?itok=UMorZ8mh",
+      "Question": "How many countries are there in the region of Europe? ",
       "options": [
-        "Clockwise",
-        "Anti Clockwise",
-        "Back and forth",
-        "All of the above"
+        "26",
+        "38",
+        "40",
+        "44"
       ],
-      "answer": "Clockwise"
+      "answer": "44"
     },
     {
       "questionId": 10,
-      "image": "https://www.royal.uk/sites/default/files/media/king_george_vi_xmas_speech_ww2.jpg",
-      "Question": "What time is the King’s speech traditionally broadcast on Christmas Day?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grand_piano_and_upright_piano.jpg/800px-Grand_piano_and_upright_piano.jpg",
+      "Question": "How many keys are there on a piano?",
       "options": [
-        "1pm",
-        "2pm",
-        "3pm",
-        "4pm"
+        "44",
+        "55",
+        "77",
+        "88"
       ],
-      "answer": "3pm"
+      "answer": "88"
     }
   ]
 }
