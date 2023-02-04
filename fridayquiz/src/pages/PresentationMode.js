@@ -52,7 +52,7 @@ class PresentationMode extends React.Component {
     }
 
     render() {
-        let title, question, result;
+        let title, question;
         let currentQuestion = this.state.questionIndex;
         if (this.state.questionIndex === -1 && this.state.quizData) {
             title = <h1>{this.state.quizData.quizName}</h1>

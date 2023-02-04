@@ -21,9 +21,9 @@ class PresentationQuestion extends React.Component {
     }
 
     render() {
-        let previous = <button style={buttonStyle} className="btn btn-primary" disabled={true} >Previous</button>;
+        let previous = <button style={buttonStyle} className="btn btn-primary" disabled={true}>Previous</button>;
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
-        let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
+        let image = <img className="img-fluid" style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let correctAnswer = this.props.correctAnswer;
         let displayAnswer = this.props.showAnswers;
 
@@ -45,12 +45,36 @@ class PresentationQuestion extends React.Component {
             }
         );
         return (
-            <div style={QuestionWrapper}>
-                {image}
-                {question}
-                {answers}
-                {previous}
-                {next}
+            <div style={QuestionWrapper} className="container">
+                <div className="row">
+                    {question}
+                </div>
+
+                <div style = {MainBody} className="row">
+                    <div className="col align-items-center">
+                        <div className="h-100 d-flex  align-items-center">
+                            {image}
+                        </div>
+                    </div>
+                    <div className="col">
+                        <table style={tableStyle}>
+                            <tbody>
+                            <tr>
+                                <td className="align-middle">{answers}</td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+                <div className="row fixed-bottom">
+                    <div className="col p-2">
+                        {previous}
+                    </div>
+                    <div className="col p-2">
+                        {next}
+                    </div>
+                </div>
             </div>
         )
     }
@@ -61,7 +85,17 @@ const QuestionWrapper = {
 }
 
 const ImageStyle = {
-    width: '60%'
+    width: '100%'
+}
+
+const MainBody = {
+    paddingTop: '5%',
+    paddingBottom: '5%'
+}
+
+const tableStyle = {
+    height: '100%',
+    width: '100%'
 }
 
 const QuestionText = {
@@ -69,7 +103,8 @@ const QuestionText = {
 }
 
 const buttonStyle = {
-    margin: '0.5rem'
+    margin: '0.5rem',
+    minWidth: '50%'
 }
 
 export default PresentationQuestion;

@@ -1,10 +1,6 @@
 import React from "react";
 
 class EndOfPresentationPage extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div style={EndOfPresentationPageWrapper}>
@@ -17,10 +13,6 @@ class EndOfPresentationPage extends React.Component {
 
 const EndOfPresentationPageWrapper = {
     minHeight: '100vh'
-}
-
-const buttonStyle = {
-    margin: '0.5rem'
 }
 
 export default EndOfPresentationPage;
