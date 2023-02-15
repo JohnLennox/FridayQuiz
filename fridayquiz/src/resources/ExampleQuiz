@@ -1,129 +1,126 @@
 {
-  "quizName": "Not so Friday Quiz",
+  "quizName": "Thursday Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 4,
-  "quizDate": "02/02/2023",
+  "quizId": 6,
+  "quizDate": "16/02/2023",
   "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
   "questions": [
     {
       "questionId": 1,
-      "image": "https://images.immediate.co.uk/production/volatile/sites/3/2021/04/Call-of-Duty.jpg-d196774.png",
-      "Question": "Which popular video game franchise has released games with the subtitles World At War and Black Ops?",
+      "image": "https://cdn.britannica.com/42/172742-138-B0830C03/overview-George-W-Bush.jpg?w\u003d800\u0026h\u003d450\u0026c\u003dcrop",
+      "Question": "Which state was George W. Bush the governor of until 2000?",
       "options": [
-        "Call of Duty",
-        "Battlefield",
-        "War Thunder",
-        "Valient Hearts"
+        "Florida",
+        "Georgia",
+        "Ohio",
+        "Texas"
       ],
-      "answer": "Call of Duty"
+      "answer": "Texas"
     },
     {
       "questionId": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/640px-Flag_of_Denmark.svg.png",
-      "Question": "What is the currency of Denmark?",
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a2fbbf96-8f75-4431-ac6a-43dbb346f543/snapshotimagehandler_1515582872.jpeg?h\u003d540\u0026w\u003d540",
+      "Question": "Which one of the following is NOT a type of filled pasta?",
       "options": [
-        "Euro",
-        "Dollar",
-        "Krone",
-        "Pound"
+        "Ravioli",
+        "Orzo",
+        "Tortellini",
+        "Mezzaluna"
       ],
-      "answer": "Krone"
+      "answer": "Mezzaluna"
     },
     {
       "questionId": 3,
-      "image": "https://d1gymyavdvyjgt.cloudfront.net/drive/images/uploads/headers/ws_cropper/1_0x0_790x520_0x520_smart-motorway-danger.jpg",
-      "Question": "Which country in the world is believed to have the most miles of motorway?",
+      "image": "https://images.everydayhealth.com/images/why-you-could-be-drinking-more-than-you-think-1440x810.jpg",
+      "Question": "During the American prohibition, what was the name given to the illegal taverns?",
       "options": [
-        "USA",
-        "China",
-        "Russia",
-        "India"
+        "Moonlighters",
+        "Prohibition pubs",
+        "Moonshines",
+        "Speakeasies"
       ],
-      "answer": "China"
+      "answer": "Speakeasies"
     },
     {
       "questionId": 4,
-      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/06/10/madonna.jpg?width=1200",
-      "Question": "In what decade was pop icon Madonna born?",
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/02/08172532/Screenshot-2023-02-08-at-17.25.21.png",
+      "Question": "What is the name of the American Football team with this logo?",
       "options": [
-        "70s",
-        "60s",
-        "50s",
-        "40s"
+        "Kansas City Arrows",
+        "Kansas City Chiefs",
+        "Kansas Chiefs"
       ],
-      "answer": "50s"
+      "answer": "Kansas City Chiefs"
     },
     {
       "questionId": 5,
-      "image": "https://www.billboard.com/wp-content/uploads/media/the-beatles-1964-650a.jpg?w=650&h=430&crop=1",
-      "Question": "In what year did The Beatles split up?",
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/23162539/iStock-470796393.jpg",
+      "Question": "Which Chinese zodiac sign does 2023 belong to?",
       "options": [
-        "1966",
-        "1968",
-        "1970",
-        "1972"
+        "Rooster",
+        "Rabbit",
+        "Tiger",
+        "Dragon"
       ],
-      "answer": "1970"
+      "answer": "Rabbit"
     },
     {
       "questionId": 6,
-      "image": "https://images.bauerhosting.com/legacy/empire-images/features/560ec04850e6c513721c379e/potter.jpg?q=80&w=850&ar=16:9&fit=crop&crop=top",
-      "Question": "Name the first actor to play Dumbledore in the Harry Potter films.",
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/05163914/GettyImages-167861280.jpg",
+      "Question": "Which of these is a Jay-Z album?",
       "options": [
-        "Michael Gambon",
-        "Richard Harris",
-        "Ian McKellen",
-        "Michael Caine"
+        "5:55",
+        "4:44",
+        "6:66"
       ],
-      "answer": "Richard Harris"
+      "answer": "4:44"
     },
     {
       "questionId": 7,
-      "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/62_36_1429634659.jpg?tr=w-800,h-600",
-      "Question": "Which southern Italian city is usually credited as the birthplace of the pizza?",
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/23163155/GettyImages-1246353130.jpg",
+      "Question": "What did Rishi Sunak receive a fine for last week?",
       "options": [
-        "Pisa",
-        "Milan",
-        "Rome",
-        "Naples"
+        "Not wearing a seatbelt in a moving car",
+        "Using his phone while driving",
+        "Not paying his TV license",
+        "Having a party"
       ],
-      "answer": "Naples"
+      "answer": "Not wearing a seatbelt in a moving car"
     },
     {
       "questionId": 8,
-      "image": "http://cdn.shopify.com/s/files/1/0516/6491/2583/products/1598344195203_2363x2363_7a339574-2f40-4273-a4f6-bce4642a995a.png?v=1610311467",
-      "Question": "What number is found in reference to their varieties on Heinz products?",
+      "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/12/15/w900X450/black_swan.JPG?w=400&dpr=2.6",
+      "Question": "Who is the actor in this movie poster?",
       "options": [
-        "47",
-        "52",
-        "57",
-        "62"
+        "Mila Kunis",
+        "Natalie Portman",
+        "Keira Knightley"
       ],
-      "answer": "57"
+      "answer": "Natalie Portman"
     },
     {
       "questionId": 9,
-      "image": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-09/european-map_en_0.jpg?itok=UMorZ8mh",
-      "Question": "How many countries are there in the region of Europe? ",
+      "image": "https://i.ytimg.com/vi/PNarYM5t4TA/maxresdefault.jpg",
+      "Question": "Who is the actor in this movie poster?",
       "options": [
-        "26",
-        "38",
-        "40",
-        "44"
+        "Andrew Garfield",
+        "Michael Cera",
+        "Jesse Eisenberg",
+        "Mark Zuckerberg"
       ],
-      "answer": "44"
+      "answer": "Jesse Eisenberg"
     },
     {
       "questionId": 10,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grand_piano_and_upright_piano.jpg/800px-Grand_piano_and_upright_piano.jpg",
-      "Question": "How many keys are there on a piano?",
+      "image": "https://i.etsystatic.com/20389566/r/il/7c2b43/2470652871/il_fullxfull.2470652871_b4bo.jpg",
+      "Question": "Who is the actor in this movie poster?",
       "options": [
-        "44",
-        "55",
-        "77",
-        "88"
+        "Ryan Reynolds",
+        "Chris Evans",
+        "Ryan Gosling",
+        "Ryan Christie"
       ],
-      "answer": "88"
+      "answer": "Ryan Gosling"
     }
   ]
 }
