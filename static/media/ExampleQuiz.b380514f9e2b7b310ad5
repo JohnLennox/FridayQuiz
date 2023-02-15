@@ -1,7 +1,7 @@
 {
   "quizName": "Thursday Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 6,
+  "quizId": 7,
   "quizDate": "16/02/2023",
   "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
   "questions": [
@@ -27,7 +27,7 @@
         "Tortellini",
         "Mezzaluna"
       ],
-      "answer": "Mezzaluna"
+      "answer": "Orzo"
     },
     {
       "questionId": 3,
@@ -78,7 +78,7 @@
     {
       "questionId": 7,
       "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/23163155/GettyImages-1246353130.jpg",
-      "Question": "What did Rishi Sunak receive a fine for last week?",
+      "Question": "What did Rishi Sunak most recently receive a fine for?",
       "options": [
         "Not wearing a seatbelt in a moving car",
         "Using his phone while driving",
