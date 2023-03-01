@@ -68,7 +68,12 @@ class QuizReview extends React.Component {
 const MainStyle = {
     backgroundColor: '#282c34',
     textAlign: 'center',
-    color: 'white'
+    color: 'white',
+    paddingLeft: '1.5 rem',
+    paddingRight: '1.5 rem',
+    marginTop: 0,
+    minHeight: '100vh'
+
 }
 
 export default QuizReview;

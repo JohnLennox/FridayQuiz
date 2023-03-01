@@ -68,13 +68,20 @@ class QuestionList extends React.Component {
             result = <Navigate to='/result' />
         }
         return (
-            <div>
+            <div style={QuestionListStyle}>
                 {title}
                 {question}
                 {result}
             </div>
         )
     }
+}
+
+const QuestionListStyle = {
+    paddingLeft: '1.5 rem',
+    paddingRight: '1.5 rem',
+    marginTop: 0,
+    minHeight: '100vh'
 }
 
 export default QuestionList;
