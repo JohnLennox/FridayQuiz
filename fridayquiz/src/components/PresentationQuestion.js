@@ -23,7 +23,10 @@ class PresentationQuestion extends React.Component {
     render() {
         let previous = <button style={buttonStyle} className="btn btn-primary" disabled={true}>Previous</button>;
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
-        let image = <img className="img-fluid" style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
+        let image = <img className="img-fluid" style={ImageOnlyStyle} src={(this.props.image)} alt="quiz logo"></img>
+        if (this.props.options.length > 1) {
+            image = <img className="img-fluid" style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
+        }
         let correctAnswer = this.props.correctAnswer;
         let displayAnswer = this.props.showAnswers;
 
@@ -63,6 +66,20 @@ class PresentationQuestion extends React.Component {
             );
         }
 
+        let imageBlock;
+
+        if (this.props.options.length > 1) {
+            imageBlock = (
+                <div className="h-100 d-flex  align-items-center">
+                    {image}
+                </div>
+            )
+        } else {
+            imageBlock = (<div className="h-100 align-items-center">
+                {image}
+            </div>)
+        }
+
         return (
             <div style={QuestionWrapper} className="container">
                 <div className="row">
@@ -70,9 +87,7 @@ class PresentationQuestion extends React.Component {
                 </div>
                 <div style={MainBody} className="row">
                     <div className="col align-items-center">
-                        <div className="h-100 d-flex  align-items-center">
-                            {image}
-                        </div>
+                        {imageBlock}
                     </div>
                     {answerBlock}
                 </div>
@@ -95,6 +110,10 @@ const QuestionWrapper = {
 
 const ImageStyle = {
     width: '100%'
+}
+
+const ImageOnlyStyle = {
+    width: '50%'
 }
 
 const MainBody = {
