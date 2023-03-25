@@ -19,14 +19,15 @@ class Question extends React.Component {
         this.setState({selectedAnswer: answer});
     }
 
-    saveSelectedAnswer = () => {
+    saveSelectedAnswer = (isCorrect) => {
         let answerInfo = {
             question: this.props.question,
             image: this.props.image,
             selectedAnswer: this.state.selectedAnswer,
             answer: this.props.answer,
             options: this.props.answers,
-            questionId: this.props.questionId
+            questionId: this.props.questionId,
+            correct: isCorrect
         }
 
         let allQuizResults = null;
@@ -67,12 +68,13 @@ class Question extends React.Component {
             return;
         }
 
-        this.saveSelectedAnswer();
-
         if (this.state.selectedAnswer === this.props.answer) {
             this.props.onAnswerSubmit(true)
+            this.saveSelectedAnswer(true);
+        } else {
+            this.props.onAnswerSubmit(false)
+            this.saveSelectedAnswer(false);
         }
-        this.props.onAnswerSubmit(false)
         this.setState({selectedAnswer: ''})
     }
 

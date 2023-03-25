@@ -21,7 +21,9 @@ class Result extends React.Component {
         }
 
         for (let i = 0; i < answerList.length; i++) {
-            if (answerList[i].answer === answerList[i].selectedAnswer) {
+            if (answerList[i].correct) {
+                correctCount++;
+            } else if (answerList[i].answer === answerList[i].selectedAnswer) {
                 correctCount++;
             }
         }

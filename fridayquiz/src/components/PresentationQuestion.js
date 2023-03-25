@@ -32,39 +32,49 @@ class PresentationQuestion extends React.Component {
             previous = <button style={buttonStyle} onClick={this.previous} className="btn btn-primary">Previous</button>
         }
 
-        const answers = this.props.options.map((item, index) => {
-                let correct, selected = false;
-                if (item === correctAnswer && displayAnswer) {
-                    correct = true;
+        let answers;
+        if (this.props.options.length > 1) {
+            answers = this.props.options.map((item, index) => {
+                    let correct, selected = false;
+                    if (item === correctAnswer && displayAnswer) {
+                        correct = true;
+                    }
+                    return <AnswerReview
+                        correctAnswer={correct}
+                        selectedAnswer={selected}
+                        key={index}
+                        answer={item}/>
                 }
-                return <AnswerReview
-                    correctAnswer={correct}
-                    selectedAnswer={selected}
-                    key={index}
-                    answer={item}/>
-            }
-        );
+            );
+        }
+
+        let answerBlock;
+        if (this.props.options.length > 1) {
+            answerBlock = (
+                <div className="col">
+                    <table style={tableStyle}>
+                        <tbody>
+                        <tr>
+                            <td className="align-middle">{answers}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            );
+        }
+
         return (
             <div style={QuestionWrapper} className="container">
                 <div className="row">
                     {question}
                 </div>
-                <div style = {MainBody} className="row">
+                <div style={MainBody} className="row">
                     <div className="col align-items-center">
                         <div className="h-100 d-flex  align-items-center">
                             {image}
                         </div>
                     </div>
-                    <div className="col">
-                        <table style={tableStyle}>
-                            <tbody>
-                            <tr>
-                                <td className="align-middle">{answers}</td>
-                            </tr>
-                            </tbody>
-                        </table>
-
-                    </div>
+                    {answerBlock}
                 </div>
                 <div className="row fixed-bottom">
                     <div className="col p-2">

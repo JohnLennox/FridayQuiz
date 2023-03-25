@@ -18,14 +18,15 @@ class QuestionText extends React.Component {
         this.setState({selectedAnswer: answer});
     }
 
-    saveSelectedAnswer = () => {
+    saveSelectedAnswer = (isCorrect) => {
         let answerInfo = {
             question: this.props.question,
             image: this.props.image,
             selectedAnswer: this.state.selectedAnswer,
             answer: this.props.answer,
             options: this.props.answers,
-            questionId: this.props.questionId
+            questionId: this.props.questionId,
+            correct: isCorrect
         }
 
         let allQuizResults = null;
@@ -66,27 +67,30 @@ class QuestionText extends React.Component {
             return;
         }
 
-        this.saveSelectedAnswer();
-
         let userAnswer = this.state.selectedAnswer.toLowerCase();
         let answer = this.props.answer.toLowerCase();
         let variance = this.props.variance;
 
-        if (variance){
+        if (variance) {
             userAnswer = Number(userAnswer);
             variance = Number(variance);
             answer = Number(answer);
 
-            if(userAnswer >= answer - variance && userAnswer <= answer + variance){
+            if (userAnswer >= answer - variance && userAnswer <= answer + variance) {
                 this.props.onAnswerSubmit(true);
+                this.saveSelectedAnswer(true);
+                this.setState({selectedAnswer: ''})
                 return;
             }
         }
 
         if (userAnswer === answer) {
             this.props.onAnswerSubmit(true)
+            this.saveSelectedAnswer(true);
+        } else {
+            this.props.onAnswerSubmit(false)
+            this.saveSelectedAnswer(false);
         }
-        this.props.onAnswerSubmit(false)
         this.setState({selectedAnswer: ''})
     }
 
@@ -98,7 +102,7 @@ class QuestionText extends React.Component {
             <div style={QuestionWrapper}>
                 {image}
                 {question}
-                <input type="text" onChange={(e) => this.setAnswer(e.target.value)}/>
+                <input type="text" value={this.state.selectedAnswer} onChange={(e) => this.setAnswer(e.target.value)}/>
                 {submit}
             </div>
         )
