@@ -67,8 +67,8 @@ class QuestionText extends React.Component {
             return;
         }
 
-        let userAnswer = this.state.selectedAnswer.toLowerCase();
-        let answer = this.props.answer.toLowerCase();
+        let userAnswer = this.state.selectedAnswer.toLowerCase().trim();
+        let answer = this.props.answer.toLowerCase().trim();
         let variance = this.props.variance;
 
         if (variance) {
