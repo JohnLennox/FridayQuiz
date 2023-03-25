@@ -20,6 +20,7 @@ class QuestionReview extends React.Component {
         let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let selectedAnswer = this.props.selectedAnswer;
         let correctAnswer = this.props.correctAnswer;
+        let selectedInList = false;
 
         let next = <button style={buttonStyle} onClick={this.next} className="btn btn-primary">Next</button>
         const answers = this.props.options.map((item, index) => {
@@ -28,6 +29,7 @@ class QuestionReview extends React.Component {
                 correct = true;
             }
             if(item === selectedAnswer){
+                selectedInList = true;
                 selected = true;
             }
             return  <AnswerReview
@@ -37,6 +39,15 @@ class QuestionReview extends React.Component {
                 answer={item}/>
             }
         );
+        if (!selectedInList){
+            answers.push(
+                <AnswerReview
+                    correctAnswer={false}
+                    selectedAnswer={true}
+                    key={answers.length + 1}
+                    answer={"Your answer: " + selectedAnswer}/>
+            )
+        }
         return (
             <div style={QuestionWrapper}>
                 {image}

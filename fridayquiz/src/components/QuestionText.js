@@ -70,6 +70,18 @@ class QuestionText extends React.Component {
 
         let userAnswer = this.state.selectedAnswer.toLowerCase();
         let answer = this.props.answer.toLowerCase();
+        let variance = this.props.variance;
+
+        if (variance){
+            userAnswer = Number(userAnswer);
+            variance = Number(variance);
+            answer = Number(answer);
+
+            if(userAnswer >= answer - variance && userAnswer <= answer + variance){
+                this.props.onAnswerSubmit(true);
+                return;
+            }
+        }
 
         if (userAnswer === answer) {
             this.props.onAnswerSubmit(true)

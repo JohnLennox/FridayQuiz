@@ -61,6 +61,7 @@ class QuestionList extends React.Component {
                     question={questionInfo.Question}
                     questionId={questionInfo.questionId}
                     quizId={this.state.quizData.quizId}
+                    variance={questionInfo.variance}
                 />
             }else {
 
