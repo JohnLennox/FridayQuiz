@@ -2,6 +2,7 @@ import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import Question from "../components/Question";
 import { Navigate } from "react-router-dom";
+import QuestionText from "../components/QuestionText";
 
 class QuestionList extends React.Component {
     constructor(props) {
@@ -51,15 +52,28 @@ class QuestionList extends React.Component {
         if (this.state.quizData && this.state.activeQuiz) {
             title = <h1>{this.state.quizData.quizName}</h1>
             let questionInfo = this.state.quizData.questions[currentQuestion];
-            question = <Question
-                onAnswerSubmit={this.onAnswerSubmit}
-                answers={questionInfo.options}
-                image={questionInfo.image}
-                answer={questionInfo.answer}
-                question={questionInfo.Question}
-                questionId={questionInfo.questionId}
-                quizId={this.state.quizData.quizId}
-            />
+            if (questionInfo.questionType === "TEXT"){
+                question = <QuestionText
+                    onAnswerSubmit={this.onAnswerSubmit}
+                    answers={questionInfo.options}
+                    image={questionInfo.image}
+                    answer={questionInfo.answer}
+                    question={questionInfo.Question}
+                    questionId={questionInfo.questionId}
+                    quizId={this.state.quizData.quizId}
+                />
+            }else {
+
+                question = <Question
+                    onAnswerSubmit={this.onAnswerSubmit}
+                    answers={questionInfo.options}
+                    image={questionInfo.image}
+                    answer={questionInfo.answer}
+                    question={questionInfo.Question}
+                    questionId={questionInfo.questionId}
+                    quizId={this.state.quizData.quizId}
+                />
+            }
         } else if(!this.state.activeQuiz) {
             question = null;
             window.localStorage.setItem("quizId", JSON.stringify(quizId));

@@ -1,8 +1,7 @@
 import React from "react";
-import AnswerOption from "./AnswerOption";
 import {checkForQuiz, checkForQuestion} from "./Util";
 
-class Question extends React.Component {
+class QuestionText extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -63,13 +62,16 @@ class Question extends React.Component {
 
     submitAnswer = () => {
         if (this.state.selectedAnswer === '') {
-            alert("Please select an answer");
+            alert("Please enter an answer");
             return;
         }
 
         this.saveSelectedAnswer();
 
-        if (this.state.selectedAnswer === this.props.answer) {
+        let userAnswer = this.state.selectedAnswer.toLowerCase();
+        let answer = this.props.answer.toLowerCase();
+
+        if (userAnswer === answer) {
             this.props.onAnswerSubmit(true)
         }
         this.props.onAnswerSubmit(false)
@@ -77,18 +79,14 @@ class Question extends React.Component {
     }
 
     render() {
-        let question = <h2 style={QuestionText}>{this.props.question}</h2>
+        let question = <h2 style={QuestionTextStyle}>{this.props.question}</h2>
         let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let submit = <button style={buttonStyle} onClick={this.submitAnswer} className="btn btn-primary">Submit</button>
-        const answers = this.props.answers.map((item, index) =>
-            <AnswerOption selectedAnswer={this.state.selectedAnswer} setAnswer={this.setAnswer} key={index}
-                          answer={item}></AnswerOption>
-        );
         return (
             <div style={QuestionWrapper}>
                 {image}
                 {question}
-                {answers}
+                <input type="text" onChange={(e) => this.setAnswer(e.target.value)}/>
                 {submit}
             </div>
         )
@@ -103,7 +101,7 @@ const ImageStyle = {
     width: '60%'
 }
 
-const QuestionText = {
+const QuestionTextStyle = {
     margin: '1rem'
 }
 
@@ -111,4 +109,4 @@ const buttonStyle = {
     margin: '0.5rem'
 }
 
-export default Question;
+export default QuestionText;
