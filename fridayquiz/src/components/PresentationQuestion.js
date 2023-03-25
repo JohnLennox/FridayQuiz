@@ -49,7 +49,6 @@ class PresentationQuestion extends React.Component {
                 <div className="row">
                     {question}
                 </div>
-
                 <div style = {MainBody} className="row">
                     <div className="col align-items-center">
                         <div className="h-100 d-flex  align-items-center">
