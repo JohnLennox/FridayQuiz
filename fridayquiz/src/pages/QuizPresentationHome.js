@@ -28,7 +28,7 @@ class QuizPresentationHome extends React.Component {
         let QRimage;
         if (this.state.quizData) {
             QRimage = <div className={"text-center"}><img style={ImageStyle} src={QrCode} alt="quiz logo"></img></div>
-            title = <h1 style={titleStyle}>JOHN {this.state.quizData.quizName}</h1>
+            title = <h1 style={titleStyle}>{this.state.quizData.quizName}</h1>
             author = <h3 style={authorStyle}>Created by: {this.state.quizData.quizAuthor}</h3>
             date = <small style={dateStyle}>{this.state.quizData.quizDate}</small>
         }
