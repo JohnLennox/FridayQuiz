@@ -36,7 +36,7 @@ class PresentationQuestion extends React.Component {
         }
 
         let answers;
-        if (this.props.options.length >= 1) {
+        if (this.props.options.length > 1 || (this.props.options.length === 1 && displayAnswer)) {
             answers = this.props.options.map((item, index) => {
                     let correct, selected = false;
                     if (item === correctAnswer && displayAnswer) {
@@ -52,7 +52,7 @@ class PresentationQuestion extends React.Component {
         }
 
         let answerBlock;
-        if (this.props.options.length >= 1) {
+        if (this.props.options.length > 1 || (this.props.options.length === 1 && displayAnswer)) {
             answerBlock = (
                 <div className="col">
                     <table style={tableStyle}>
