@@ -1,0 +1,126 @@
+{
+  "quizName": "Thursday Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 7,
+  "quizDate": "13/04/2023",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://cdn.britannica.com/42/172742-138-B0830C03/overview-George-W-Bush.jpg?w\u003d800\u0026h\u003d450\u0026c\u003dcrop",
+      "Question": "Which state was George W. Bush the governor of until 2000?",
+      "options": [
+        "Florida",
+        "Georgia",
+        "Ohio",
+        "Texas"
+      ],
+      "answer": "Texas"
+    },
+    {
+      "questionId": 2,
+      "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/a2fbbf96-8f75-4431-ac6a-43dbb346f543/snapshotimagehandler_1515582872.jpeg?h\u003d540\u0026w\u003d540",
+      "Question": "Which one of the following is NOT a type of filled pasta?",
+      "options": [
+        "Ravioli",
+        "Orzo",
+        "Tortellini",
+        "Mezzaluna"
+      ],
+      "answer": "Orzo"
+    },
+    {
+      "questionId": 3,
+      "image": "https://images.everydayhealth.com/images/why-you-could-be-drinking-more-than-you-think-1440x810.jpg",
+      "Question": "During the American prohibition, what was the name given to the illegal taverns?",
+      "options": [
+        "Moonlighters",
+        "Prohibition pubs",
+        "Moonshines",
+        "Speakeasies"
+      ],
+      "answer": "Speakeasies"
+    },
+    {
+      "questionId": 4,
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/02/08172532/Screenshot-2023-02-08-at-17.25.21.png",
+      "Question": "What is the name of the American Football team with this logo?",
+      "options": [
+        "Kansas City Arrows",
+        "Kansas City Chiefs",
+        "Kansas Chiefs"
+      ],
+      "answer": "Kansas City Chiefs"
+    },
+    {
+      "questionId": 5,
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/23162539/iStock-470796393.jpg",
+      "Question": "Which Chinese zodiac sign does 2023 belong to?",
+      "options": [
+        "Rooster",
+        "Rabbit",
+        "Tiger",
+        "Dragon"
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "questionId": 6,
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/05163914/GettyImages-167861280.jpg",
+      "Question": "Which of these is a Jay-Z album?",
+      "options": [
+        "5:55",
+        "4:44",
+        "6:66"
+      ],
+      "answer": "4:44"
+    },
+    {
+      "questionId": 7,
+      "image": "https://m0.joe.co.uk/wp-content/uploads/2023/01/23163155/GettyImages-1246353130.jpg",
+      "Question": "What did Rishi Sunak most recently receive a fine for?",
+      "options": [
+        "Not wearing a seatbelt in a moving car",
+        "Using his phone while driving",
+        "Not paying his TV license",
+        "Having a party"
+      ],
+      "answer": "Not wearing a seatbelt in a moving car"
+    },
+    {
+      "questionId": 8,
+      "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/12/15/w900X450/black_swan.JPG?w=400&dpr=2.6",
+      "Question": "Who is the actor in this movie poster?",
+      "options": [
+        "Mila Kunis",
+        "Natalie Portman",
+        "Keira Knightley"
+      ],
+      "answer": "Natalie Portman"
+    },
+    {
+      "questionId": 9,
+      "image": "https://i.ytimg.com/vi/PNarYM5t4TA/maxresdefault.jpg",
+      "Question": "Who is the actor in this movie poster?",
+      "options": [
+        "Andrew Garfield",
+        "Michael Cera",
+        "Jesse Eisenberg",
+        "Mark Zuckerberg"
+      ],
+      "answer": "Jesse Eisenberg"
+    },
+    {
+      "questionId": 10,
+      "image": "https://i.etsystatic.com/20389566/r/il/7c2b43/2470652871/il_fullxfull.2470652871_b4bo.jpg",
+      "Question": "Who is the actor in this movie poster?",
+      "options": [
+        "Ryan Reynolds",
+        "Chris Evans",
+        "Ryan Gosling",
+        "Ryan Christie"
+      ],
+      "answer": "Ryan Gosling"
+    }
+  ]
+}
