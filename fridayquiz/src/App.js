@@ -8,6 +8,7 @@ import QuestionList from "./pages/QuestionList";
 import Result from "./components/Result";
 import PresentationMode from "./pages/PresentationMode";
 import QuizPresentationHome from "./pages/QuizPresentationHome";
+import ResultGraph from "./components/ResultsGraph";
 
 class App extends React.Component {
     constructor(props) {
@@ -21,6 +22,7 @@ class App extends React.Component {
                 <HashRouter>
                     <Routes>
                         <Route path="/" element={<QuizHome/>}/>
+                        <Route path="/test" element={<ResultGraph/>}/>
                         <Route path="/question" element={<QuestionList/>}/>
                         <Route path="/review" element={<QuizReview/>}/>
                         <Route path="/result" element={<Result/>}/>

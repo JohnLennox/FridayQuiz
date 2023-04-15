@@ -1,5 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
+import ResultGraph from "./ResultsGraph";
 
 class Result extends React.Component {
     getOriginalResult() {
@@ -49,17 +50,30 @@ class Result extends React.Component {
         let message = this.getResultMessage(score, questionCount);
         let original = this.getOriginalResult();
         return (
-            <div style={HeightWrapper}>
-                <h1 style={ScoreStyle}>You scored: {score}/{questionCount}</h1>
-                <h1 style={ScoreStyle}>Your original score was: {original}</h1>
-                <h2 style={MessageStyle}>{message}</h2>
-                <Link to={"/"}>
-                    <button className="btn btn-primary">Try again?</button>
-                </Link>
+            <div className="container" style={HeightWrapper}>
+                <div className="row">
+                    <h1 style={ScoreStyle}>You scored: {score}/{questionCount}</h1>
+                    <h1 style={ScoreStyle}>Your original score was: {original}</h1>
+                    <h2 style={MessageStyle}>{message}</h2>
+                </div>
                 <br></br>
-                <Link to={"/review"}>
-                    <button style={ButtonStyle} className="btn btn-primary">View results?</button>
-                </Link>
+                <div>
+                <h2>Score History</h2>
+                <ResultGraph/>
+                </div>
+
+                <div className="row">
+                    <div className="col">
+                        <Link to={"/"}>
+                            <button className="btn btn-primary">Try again?</button>
+                        </Link>
+                    </div>
+                    <div className="col">
+                        <Link to={"/review"}>
+                            <button className="btn btn-primary">View results?</button>
+                        </Link>
+                    </div>
+                </div>
             </div>
         )
     }
@@ -74,11 +88,11 @@ const ButtonStyle = {
 }
 
 const MessageStyle = {
-    padding: '0.5rem'
+    padding: '0.1rem'
 }
 
 const ScoreStyle = {
-    padding: '0.5rem'
+    padding: '0.1rem'
 }
 
 export default Result;
