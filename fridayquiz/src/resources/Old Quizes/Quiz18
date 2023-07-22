@@ -1,0 +1,93 @@
+{
+  "quizName": "Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 16,
+  "quizDate": "05/05/2023",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://www.cheatsheet.com/wp-content/uploads/2020/11/Princess-Elizabeth-Prince-Philip-the-Queen-Mother-and-King-George-VI-1.jpg",
+      "Question": "Which British king was the father of Queen Elizabeth II?",
+      "options": [
+        "King Edward VII",
+        "King George V",
+        "King George VI",
+        "King Henry VIII"
+      ],
+      "answer": "King George VI"
+    },
+    {
+      "questionId": 2,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2015/03/Henry-VIII-wives-22e9225.jpg?quality=90&resize=980,654",
+      "Question": "Which British monarch famously had six wives?",
+      "options": [
+        "King George III",
+        "King Henry VIII",
+        "Queen Victoria",
+        "King James I"
+      ],
+      "answer": "King Henry VIII"
+    },
+    {
+      "questionId": 3,
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0BA1/production/_127877920_gettyimages-169908015-1.jpg",
+      "Question": "Which of these monarchs reigned for longest?",
+      "options": [
+        "Queen Elizabeth I",
+        "Queen Victoria",
+        "Queen Anne",
+        "Queen Mary II"
+      ],
+      "answer": "Queen Victoria"
+    },
+    {
+      "questionId": 4,
+      "image": "https://media.vanityfair.com/photos/62c7494d6fc874e76e022c1e/master/w_2560%2Cc_limit/Edward-Albert-Windsor.jpg",
+      "Question": "What was the name of the British monarch who famously abdicated the throne in 1936?",
+      "options": [
+        "King George V",
+        "King Edward VIII",
+        "King George VI",
+        "King Edward VII"
+      ],
+      "answer": "King Edward VIII"
+    },
+    {
+      "questionId": 5,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/buckingham-palace-interior-colours-1649706188.jpg",
+      "Question": "What is the name of the British royal palace that is the official residence of the monarch?",
+      "options": [
+        "Windsor Castle",
+        "Buckingham Palace",
+        "Kensington Palace",
+        "Hampton Court Palace"
+      ],
+      "answer": "Buckingham Palace"
+    },
+    {
+      "questionId": 6,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/charles-lead-645629983011f.jpg",
+      "Question": "What was transported to England for the King to sit on during the coronation? ",
+      "options": [
+        "A Pillow",
+        "A Stone",
+        "A Chair",
+        "A Stool"
+      ],
+      "answer": "A Stone"
+    },
+    {
+      "questionId": 7,
+      "image": "https://blog.historicenvironment.scot/wp-content/uploads/2016/07/honours-of-scotland-1024x770.jpg",
+      "Question": "To what does 'Scone' refer in the name Stone of Scone?",
+      "options": [
+        "A village in Scotland",
+        "A candle holder",
+        "A dessert",
+        "A statue"
+      ],
+      "answer": "A village in Scotland"
+    }
+  ]
+}

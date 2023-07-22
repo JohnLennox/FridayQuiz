@@ -1,128 +1,129 @@
 {
-  "quizName": "Euro Quiz",
+  "quizName": "TV Shows Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 12,
-  "quizDate": "31/03/2023",
+  "quizId": 17,
+  "quizDate": "21/07/2023",
   "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
-   "questions": [
-     {
-       "questionId": 1,
-       "image": "https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/464_464/1623388886.jpg",
-       "Question": "Which country has won the most UEFA Euro championships?",
-       "options": [
-         "France",
-         "Spain",
-         "Germany",
-         "Italy"
-       ],
-       "answer": "Germany"
-     },
-     {
-       "questionId": 2,
-       "image": "https://cdn.mos.cms.futurecdn.net/GtTLUXowGgrYusDtsG8PiA.jpg",
-       "Question": "In which year was the first UEFA Euro championship held?",
-       "options": [
-         "1958",
-         "1960",
-         "1962",
-         "1964"
-       ],
-       "answer": "1960"
-     },
-     {
-       "questionId": 3,
-       "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1169x505:1171x503)/origin-imgresizer.eurosport.com/2021/06/24/3160087-64757468-2560-1440.jpg",
-       "Question": "Who is the all-time top scorer in the UEFA Euro championship?",
-       "options": [
-         "Cristiano Ronaldo",
-         "Michel Platini",
-         "Thierry Henry",
-         "Zlatan Ibrahimovic"
-       ],
-       "answer": "Michel Platini"
-     },
-     {
-       "questionId": 4,
-       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/UEFA_Euro_2016_Logo.svg/1200px-UEFA_Euro_2016_Logo.svg.png",
-       "Question": "Which country won the UEFA Euro championship in 2016?",
-       "options": [
-         "Portugal",
-         "France",
-         "Spain",
-         "Italy"
-       ],
-       "answer": "Portugal"
-     },
-     {
-       "questionId": 5,
-       "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/UEFA_Euro_2008_Logo.svg",
-       "Question": "Who won the UEFA Euro championship in 2008?",
-       "options": [
-         "Spain",
-         "Germany",
-         "Italy",
-         "France"
-       ],
-       "answer": "Spain"
-     },
-     {
-       "questionId": 6,
-       "image": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2022/03/25103357/England-after-losing-Euro-2020-final-to-Italy.jpg",
-       "Question": "Which country has reached the final of the UEFA Euro championship the most times without winning it?",
-       "options": [
-         "Belgium",
-         "Netherlands",
-         "Portugal",
-         "France"
-       ],
-       "answer": "Netherlands"
-     },
-     {
-       "questionId": 7,
-       "image": "https://www.stadiumguide.com/wp-content/uploads/stadedefrance_top2.jpg",
-       "Question": "Which country has hosted the UEFA Euro championship the most times?",
-       "options": [
-         "Germany",
-         "Italy",
-         "France",
-         "Spain"
-       ],
-       "answer": "Italy"
-     },
-     {
-       "questionId": 8,
-       "image": "https://i.guim.co.uk/img/media/0046fd6a0f07dd7edf9262710d82723207ea231c/762_723_3260_1957/master/3260.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7eca322ce81d6c54022eff94b265f310",
-       "Question": "Which country won the first-ever UEFA Euro championship that they hosted?",
-       "options": [
-         "France",
-         "Spain",
-         "Italy",
-         "Belgium"
-       ],
-       "answer": "France"
-     },
-     {
-       "questionId": 9,
-       "image": "https://thumbs.gfycat.com/ComplicatedObedientAfricanharrierhawk-size_restricted.gif",
-       "variance": 10,
-       "questionType": "TEXT",
-       "Question": "How many goals were scored at Euro 2016 across the 51 matches played? (+/- 10)",
-       "options": [
-         "108"
-       ],
-       "answer": "108"
-     },
-     {
-       "questionId": 10,
-       "image": "https://i0.wp.com/cultofcalcio.com/wp-content/uploads/2021/05/Capture-53.jpg?fit=1200%2C675&ssl=1",
-       "Question": "Who scored the winning goal for Spain in the final of the UEFA Euro championship in 2008?",
-       "options": [
-         "Fernando Torres",
-         "David Villa",
-         "Xavi",
-         "Andres Iniesta"
-       ],
-       "answer": "Fernando Torres"
-     }
-   ]
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/04/friends-feature-image.jpg",
+      "Question": "In the TV show 'Friends', what is the name of Ross's second wife?",
+      "options": [
+        "Emily",
+        "Carol",
+        "Janice",
+        "Rachel"
+      ],
+      "answer": "Emily"
+    },
+    {
+      "questionId": 2,
+      "image": "https://www.januarymedia.co.uk/files/television/arrested-development-january-media.jpg",
+      "Question": "Which TV show follows the lives of the Bluth family?",
+      "options": [
+        "Arrested Development",
+        "The Office",
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine"
+      ],
+      "answer": "Arrested Development"
+    },
+    {
+      "questionId": 3,
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/b/bf/Kings_Landing.jpg",
+      "Question": "Which TV show is set in the fictional continents of Westeros and Essos?",
+      "options": [
+        "Stranger Things",
+        "Breaking Bad",
+        "Game of Thrones",
+        "The Walking Dead"
+      ],
+      "answer": "Game of Thrones"
+    },
+    {
+      "questionId": 4,
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/1200/675/7bf0dc1d-bryan-cranston-breaking-bad-season-5.jpg?ve=1&tl=1",
+      "Question": "What is the name of the drug empire built by Walter White in the TV show 'Breaking Bad'?",
+      "options": [
+        "The Cartel",
+        "The Family",
+        "Los Pollos Hermanos",
+        "Heisenberg's Empire"
+      ],
+      "answer": "Heisenberg's Empire"
+    },
+    {
+      "questionId": 5,
+      "image": "https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg?format=jpg&width=960",
+      "Question": "In the tv show Silo, how many levels are there in the silo?",
+      "options": [
+        "144",
+        "109",
+        "220",
+        "74"
+      ],
+      "answer": "144"
+    },
+    {
+      "questionId": 6,
+      "image": "https://occ-0-37-778.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV5lteI3eHet1nPBQKC_uEChESjqQfYpRwMWLR0wULt52odnxQtG69JNFDj9N4maZWJWDFZyi2sc1YzZ8mKE4Ajmt7Btva1CnWagGbYXVMp3t4OETM4LwiD70dHu-qWUbBAesQ.jpg?r=c68",
+      "Question": "In 'Stranger Things', what is the name of the parallel dimension inhabited by the Demogorgon?",
+      "options": [
+        "The Shadow Realm",
+        "The Netherworld",
+        "The Upside Down",
+        "The Underworld"
+      ],
+      "answer": "The Upside Down"
+    },
+    {
+      "questionId": 7,
+      "image": "https://m.economictimes.com/thumb/msid-72135830,width-1200,height-900,resizemode-4,imgsize-245182/methamphetamine_breaking-bad_istock.jpg",
+      "Question": "Which TV show features a high school teacher who starts cooking methamphetamine after being diagnosed with cancer?",
+      "options": [
+        "Better Call Saul",
+        "Narcos",
+        "Breaking Bad",
+        "Weeds"
+      ],
+      "answer": "Breaking Bad"
+    },
+    {
+      "questionId": 8,
+      "image": "https://i.guim.co.uk/img/media/96cc5ac4dba00667b9e2b6133fc284c1792d66c6/0_29_2065_1239/master/2065.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6acb1e9d89cdc3822aab0455f2fbe132",
+      "Question": "Which TV show is a mockumentary-style sitcom that depicts the everyday work lives of office employees?",
+      "options": [
+        "Brooklyn Nine-Nine",
+        "The Office",
+        "Parks and Recreation",
+        "Modern Family"
+      ],
+      "answer": "The Office"
+    },
+    {
+      "questionId": 9,
+      "image": "https://www.indiewire.com/wp-content/uploads/2019/04/Game-of-Thrones-main-titles.png",
+      "Question": "In 'Game of Thrones', who is known as the 'Mother of Dragons'?",
+      "options": [
+        "Cersei Lannister",
+        "Arya Stark",
+        "Sansa Stark",
+        "Daenerys Targaryen"
+      ],
+      "answer": "Daenerys Targaryen"
+    },
+    {
+      "questionId": 10,
+      "image": "https://i2-prod.mylondon.news/incoming/article17246720.ece/ALTERNATES/s1200c/3_Only-Fools-And-Horses-S3.jpg",
+      "Question": "What is the name of Del Boy's younger brother in the TV show 'Only Fools and Horses'?",
+      "options": [
+        "Rodney Trotter",
+        "Uncle Albert",
+        "Trigger",
+        "Boycie"
+      ],
+      "answer": "Rodney Trotter"
+    }
+  ]
 }
