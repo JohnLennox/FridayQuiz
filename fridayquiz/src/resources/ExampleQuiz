@@ -1,129 +1,130 @@
 {
-  "quizName": "TV Shows Quiz",
+  "quizName": "Combined General Knowledge Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 17,
-  "quizDate": "21/07/2023",
+  "quizId": 18,
+  "quizDate": "28/07/2023",
   "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
   "questions": [
     {
       "questionId": 1,
-      "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/04/friends-feature-image.jpg",
-      "Question": "In the TV show 'Friends', what is the name of Ross's second wife?",
+      "image": "https://images.everydayhealth.com/images/heart-health/oxygen-bars-energy-boost-or-health-risk-rm-722x406.jpg",
+      "Question": "What is the chemical symbol for the element oxygen?",
       "options": [
-        "Emily",
-        "Carol",
-        "Janice",
-        "Rachel"
+        "O",
+        "C",
+        "H",
+        "N"
       ],
-      "answer": "Emily"
+      "answer": "O"
     },
     {
       "questionId": 2,
-      "image": "https://www.januarymedia.co.uk/files/television/arrested-development-january-media.jpg",
-      "Question": "Which TV show follows the lives of the Bluth family?",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2018/05/painting-ideas-3-1.jpg",
+      "Question": "Which famous painting is also known as 'La Gioconda'?",
       "options": [
-        "Arrested Development",
-        "The Office",
-        "Parks and Recreation",
-        "Brooklyn Nine-Nine"
+        "The Starry Night",
+        "The Scream",
+        "Mona Lisa",
+        "The Last Supper"
       ],
-      "answer": "Arrested Development"
+      "answer": "Mona Lisa"
     },
     {
       "questionId": 3,
-      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/b/bf/Kings_Landing.jpg",
-      "Question": "Which TV show is set in the fictional continents of Westeros and Essos?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg",
+      "Question": "What is the tallest mountain in the world?",
       "options": [
-        "Stranger Things",
-        "Breaking Bad",
-        "Game of Thrones",
-        "The Walking Dead"
+        "Mount Kilimanjaro",
+        "Mount Everest",
+        "Mount McKinley",
+        "Mount Fuji"
       ],
-      "answer": "Game of Thrones"
+      "answer": "Mount Everest"
     },
     {
       "questionId": 4,
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/1200/675/7bf0dc1d-bryan-cranston-breaking-bad-season-5.jpg?ve=1&tl=1",
-      "Question": "What is the name of the drug empire built by Walter White in the TV show 'Breaking Bad'?",
+      "image": "https://images.unsplash.com/photo-1603299515818-82b7e687a789?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmlzaW5nJTIwc3VufGVufDB8fDB8fHww&w=1000&q=80",
+      "Question": "Which country is known as the 'Land of the Rising Sun'?",
       "options": [
-        "The Cartel",
-        "The Family",
-        "Los Pollos Hermanos",
-        "Heisenberg's Empire"
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
       ],
-      "answer": "Heisenberg's Empire"
+      "answer": "Japan"
     },
     {
       "questionId": 5,
-      "image": "https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg?format=jpg&width=960",
-      "Question": "In the tv show Silo, how many levels are there in the silo?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Solar_System_true_color.jpg/1200px-Solar_System_true_color.jpg",
+      "Question": "Which planet is often referred to as the 'Red Planet'?",
       "options": [
-        "144",
-        "109",
-        "220",
-        "74"
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
       ],
-      "answer": "144"
+      "answer": "Mars"
     },
     {
       "questionId": 6,
-      "image": "https://occ-0-37-778.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV5lteI3eHet1nPBQKC_uEChESjqQfYpRwMWLR0wULt52odnxQtG69JNFDj9N4maZWJWDFZyi2sc1YzZ8mKE4Ajmt7Btva1CnWagGbYXVMp3t4OETM4LwiD70dHu-qWUbBAesQ.jpg?r=c68",
-      "Question": "In 'Stranger Things', what is the name of the parallel dimension inhabited by the Demogorgon?",
+      "image": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/b2e4507538dd38a5b8f8dc2fcb2a3af5a0d79b26/big-7e30589952aaf03a70a63d7ca5d70313.jpg",
+      "Question": "What is the capital city of Bhutan?",
       "options": [
-        "The Shadow Realm",
-        "The Netherworld",
-        "The Upside Down",
-        "The Underworld"
+        "Thimphu",
+        "Kathmandu",
+        "Dhaka",
+        "Male"
       ],
-      "answer": "The Upside Down"
+      "answer": "Thimphu"
     },
     {
       "questionId": 7,
-      "image": "https://m.economictimes.com/thumb/msid-72135830,width-1200,height-900,resizemode-4,imgsize-245182/methamphetamine_breaking-bad_istock.jpg",
-      "Question": "Which TV show features a high school teacher who starts cooking methamphetamine after being diagnosed with cancer?",
+      "image": "https://www.versobooks.com/cdn/shop/articles/immanuel-kant-3e8cdb504e54db4797e7c5f5e46f0d0d.jpg?v=1677640244",
+      "Question": "Which philosopher wrote the famous work 'Critique of Pure Reason'?",
       "options": [
-        "Better Call Saul",
-        "Narcos",
-        "Breaking Bad",
-        "Weeds"
+        "Friedrich Nietzsche",
+        "Immanuel Kant",
+        "John Locke",
+        "Jean-Jacques Rousseau"
       ],
-      "answer": "Breaking Bad"
+      "answer": "Immanuel Kant"
     },
     {
       "questionId": 8,
-      "image": "https://i.guim.co.uk/img/media/96cc5ac4dba00667b9e2b6133fc284c1792d66c6/0_29_2065_1239/master/2065.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6acb1e9d89cdc3822aab0455f2fbe132",
-      "Question": "Which TV show is a mockumentary-style sitcom that depicts the everyday work lives of office employees?",
+      "image": "https://www.diphex.com/assets/uploaded/images/news/cropped/screenshot-2020-09-29-at-105501.png",
+      "Question": "What is the chemical formula for sulfuric acid?",
       "options": [
-        "Brooklyn Nine-Nine",
-        "The Office",
-        "Parks and Recreation",
-        "Modern Family"
+        "H2SO4",
+        "NaCl",
+        "C6H12O6",
+        "CO2"
       ],
-      "answer": "The Office"
+      "answer": "H2SO4"
     },
     {
       "questionId": 9,
-      "image": "https://www.indiewire.com/wp-content/uploads/2019/04/Game-of-Thrones-main-titles.png",
-      "Question": "In 'Game of Thrones', who is known as the 'Mother of Dragons'?",
+      "image": "https://www.piqosity.com/wp-content/uploads/2022/12/Depositphotos_400945552_L-e1658434781329-1024x599.jpg",
+      "Question": "Which Greek mathematician is often referred to as the 'Father of Geometry'?",
       "options": [
-        "Cersei Lannister",
-        "Arya Stark",
-        "Sansa Stark",
-        "Daenerys Targaryen"
+        "Euclid",
+        "Pythagoras",
+        "Archimedes",
+        "Aristotle"
       ],
-      "answer": "Daenerys Targaryen"
+      "answer": "Euclid"
     },
     {
       "questionId": 10,
-      "image": "https://i2-prod.mylondon.news/incoming/article17246720.ece/ALTERNATES/s1200c/3_Only-Fools-And-Horses-S3.jpg",
-      "Question": "What is the name of Del Boy's younger brother in the TV show 'Only Fools and Horses'?",
+      "image": "https://www.nationsonline.org/map_small/africa-political-map-1056px.jpg",
+      "Question": "Which African country was formerly known as Abyssinia?",
       "options": [
-        "Rodney Trotter",
-        "Uncle Albert",
-        "Trigger",
-        "Boycie"
+        "Ethiopia",
+        "Kenya",
+        "Mali",
+        "Egypt"
       ],
-      "answer": "Rodney Trotter"
+      "answer": "Ethiopia"
     }
   ]
 }
+
