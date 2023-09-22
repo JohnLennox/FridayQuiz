@@ -1,0 +1,129 @@
+{
+  "quizName": "Landmarks Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 20,
+  "quizDate": "11/08/2023",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://assets.terrapass.com/wp-content/uploads/2022/12/Ozone-Depletion-Space-View-of-Earth-and-Ozone-Layer-scaled.jpeg",
+      "Question": "Which gas is responsible for the Earths ozone layer depletion?",
+      "options": [
+        "Carbon Dioxide",
+        "Oxygen",
+        "Methane",
+        "Chlorofluorocarbons (CFCs)"
+      ],
+      "answer": "Chlorofluorocarbons (CFCs)"
+    },
+    {
+      "questionId": 2,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2022/06/GettyImages-541074915-ed8014f.jpg",
+      "Question": "Who is the author of the novel 1984?",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "F. Scott Fitzgerald"
+      ],
+      "answer": "George Orwell"
+    },
+    {
+      "questionId": 3,
+      "image": "https://www.universetoday.com/wp-content/uploads/2008/05/jupitervenus.jpg",
+      "Question": "Which planet was also known as the Morning Star or Evening Star?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Venus"
+    },
+    {
+      "questionId": 4,
+      "image": "https://learnenglishteens.britishcouncil.org/sites/teens/files/field/image/rs6098_thinkstockphotos-147023558-hig.jpg",
+      "Question": "What is the smallest prime number?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "questionId": 5,
+      "image": "https://cdn.britannica.com/06/171306-050-C88DD752/Aurora-borealis-peninsula-Snaefellsnes-Iceland-March-2013.jpg",
+      "Question": "Which country is known as the Land of Fire and Ice?",
+      "options": [
+        "Iceland",
+        "Greenland",
+        "Norway",
+        "Finland"
+      ],
+      "answer": "Iceland"
+    },
+    {
+      "questionId": 6,
+      "image": "https://img.jagranjosh.com/images/2022/December/6122022/types-of-desert.jpg",
+      "Question": "What is the largest desert in the world by area?",
+      "options": [
+        "Sahara Desert",
+        "Arabian Desert",
+        "Gobi Desert",
+        "Antarctica"
+      ],
+      "answer": "Antarctica"
+    },
+    {
+      "questionId": 7,
+      "image": "https://api-www.louvre.fr/sites/default/files/2020-12/la-joconde-salle-des-etats.jpg",
+      "Question": "Who painted the Mona Lisa?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "questionId": 8,
+      "image": "https://i.insider.com/60220282cca90200129b723d?width=1200&format=jpeg",
+      "Question": "What is the chemical symbol for silver?",
+      "options": [
+        "Si",
+        "Sv",
+        "Ag",
+        "Au"
+      ],
+      "answer": "Ag"
+    },
+    {
+      "questionId": 9,
+      "image": "https://i.natgeofe.com/n/61efbd13-52cb-4913-8696-80281458492f/columbus-ship-GettyImages-517331824_4x3.jpg",
+      "Question": "In which year did Christopher Columbus first reach the Americas?",
+      "options": [
+        "1492",
+        "1507",
+        "1519",
+        "1526"
+      ],
+      "answer": "1492"
+    },
+    {
+      "questionId": 10,
+      "image": "https://homehealth-uk.com/wp/wp-content/uploads/the-human-body-diagram.jpg",
+      "Question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Heart",
+        "Brain",
+        "Skin"
+      ],
+      "answer": "Skin"
+    }
+  ]
+}
