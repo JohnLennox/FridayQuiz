@@ -1,0 +1,128 @@
+{
+  "quizName": "Landmarks Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 19,
+  "quizDate": "11/08/2023",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+   "questions": [
+    {
+      "questionId": 1,
+      "image": "https://asiasociety.org/sites/default/files/styles/1200w/public/A/angkorwat.jpg",
+      "Question": "The ancient temple complex Angkor Wat is located in which present-day country?",
+      "options": [
+        "Cambodia",
+        "Vietnam",
+        "Thailand",
+        "Indonesia"
+      ],
+      "answer": "Cambodia"
+    },
+    {
+      "questionId": 2,
+      "image": "https://www.travelandleisure.com/thmb/umcoSMJygYyG5OIYDdBPgnrJGLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/01-neuschwanstein-castle-bavaria-NEUSCHWANSTEIN0417-273a040698f24fc1ac22e717bb3f1f0c.jpg",
+      "Question": "Neuschwanstein Castle, an inspiration for Disney castles, is situated in which country?",
+      "options": [
+        "France",
+        "Luxembourg",
+        "Austria",
+        "Germany"
+      ],
+      "answer": "Germany"
+    },
+    {
+      "questionId": 3,
+      "image": "https://i.natgeofe.com/n/9558e0bf-0aaf-4b55-ba31-ec719464598a/2K0D1RY_4x3.jpg",
+      "Question": "Mont Saint-Michel is known for its abbey and is located in the Normandy region of which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy",
+        "Portugal"
+      ],
+      "answer": "France"
+    },
+    {
+      "questionId": 4,
+      "image": "https://www.english-heritage.org.uk/siteassets/home/learn/story-of-england/prehistory/feasting_crop.jpg?w=550&h=350&mode=crop&scale=both&cache=always&quality=60&anchor=&WebsiteVersion=20220831140117",
+      "Question": "Which famous ancient monument in England is believed to have been constructed around 2500 BC?",
+      "options": [
+        "Tower of London",
+        "Parthenon",
+        "Stonehenge",
+        "Hagia Sophia"
+      ],
+      "answer": "Stonehenge"
+    },
+    {
+      "questionId": 5,
+      "image": "https://news.artnet.com/app/news-upload/2018/08/GettyImages-165173201.jpg",
+      "Question": "The Great Sphinx of Giza is believed to represent which mythical creature with the body of a lion and the head of a human?",
+      "options": [
+        "Griffin",
+        "Sphinx",
+        "Centaur",
+        "Minotaur"
+      ],
+      "answer": "Sphinx"
+    },
+    {
+      "questionId": 6,
+      "image": "https://assets.editorial.aetnd.com/uploads/2009/11/gettyimages-1081719544.jpg",
+      "Question": "The Colosseum could hold up to approximately how many spectators?",
+      "options": [
+        "10,000",
+        "25,000",
+        "50,000",
+        "80,000"
+      ],
+      "answer": "50,000"
+    },
+    {
+      "questionId": 7,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2016/07/GettyImages-481614053-484c86d.jpg?quality=90&resize=980,654",
+      "Question": "The Great Wall of China was built primarily to protect against invasions from which group of nomadic people?",
+      "options": [
+        "Mongols",
+        "Vikings",
+        "Celts"
+      ],
+      "answer": "Mongols"
+    },
+    {
+      "questionId": 8,
+      "image": "https://th-thumbnailer.cdn-si-edu.com/FPdXnDw6slkjdmAVk_NLREQFwWQ=/1000x750/filters:no_upscale():focal(500x376:501x377)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/9c/0b9cbc6c-72f7-48ff-b4fc-9b6e6061832e/gettyimages-921707628.jpeg",
+      "Question": "The enigmatic Moai statues are found on Easter Island, which is a territory of which country?",
+      "options": [
+        "Chile",
+        "Argentina",
+        "Peru",
+        "Colombia"
+      ],
+      "answer": "Chile"
+    },
+    {
+      "questionId": 9,
+      "image": "https://i.natgeofe.com/n/69e2cf60-ad59-4d20-bdd1-dc96f40ab4e8/petra-world-heritage-jordan.jpg",
+      "Question": "The ancient city of Petra was a major trading hub along the caravan routes of which historical empire?",
+      "options": [
+        "Ottoman Empire",
+        "Byzantine Empire",
+        "Roman Empire",
+        "Mongol Empire"
+      ],
+      "answer": "Roman Empire"
+    },
+    {
+      "questionId": 10,
+      "image": "https://whc.unesco.org/uploads/thumbs/site_0707_0001-1200-630-20110920202629.jpg",
+      "Question": "The Potala Palace, a UNESCO World Heritage Site, was once the winter residence of spiritual leaders of which Tibetan school of Buddhism?",
+      "options": [
+        "Nyingma",
+        "Kagyu",
+        "Sakya",
+        "Gelug"
+      ],
+      "answer": "Gelug"
+    }
+  ]
+}

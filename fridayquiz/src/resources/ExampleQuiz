@@ -1,130 +1,129 @@
 {
-  "quizName": "Combined General Knowledge Quiz",
+  "quizName": "Music Quiz",
   "quizAuthor": "John Lennox",
-  "quizId": 18,
-  "quizDate": "28/07/2023",
+  "quizId": 23,
+  "quizDate": "17/11/2023",
   "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
   "questions": [
-    {
-      "questionId": 1,
-      "image": "https://images.everydayhealth.com/images/heart-health/oxygen-bars-energy-boost-or-health-risk-rm-722x406.jpg",
-      "Question": "What is the chemical symbol for the element oxygen?",
-      "options": [
-        "O",
-        "C",
-        "H",
-        "N"
-      ],
-      "answer": "O"
-    },
-    {
-      "questionId": 2,
-      "image": "https://mymodernmet.com/wp/wp-content/uploads/2018/05/painting-ideas-3-1.jpg",
-      "Question": "Which famous painting is also known as 'La Gioconda'?",
-      "options": [
-        "The Starry Night",
-        "The Scream",
-        "Mona Lisa",
-        "The Last Supper"
-      ],
-      "answer": "Mona Lisa"
-    },
-    {
-      "questionId": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg",
-      "Question": "What is the tallest mountain in the world?",
-      "options": [
-        "Mount Kilimanjaro",
-        "Mount Everest",
-        "Mount McKinley",
-        "Mount Fuji"
-      ],
-      "answer": "Mount Everest"
-    },
-    {
-      "questionId": 4,
-      "image": "https://images.unsplash.com/photo-1603299515818-82b7e687a789?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmlzaW5nJTIwc3VufGVufDB8fDB8fHww&w=1000&q=80",
-      "Question": "Which country is known as the 'Land of the Rising Sun'?",
-      "options": [
-        "China",
-        "Japan",
-        "South Korea",
-        "Thailand"
-      ],
-      "answer": "Japan"
-    },
-    {
-      "questionId": 5,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Solar_System_true_color.jpg/1200px-Solar_System_true_color.jpg",
-      "Question": "Which planet is often referred to as the 'Red Planet'?",
-      "options": [
-        "Mars",
-        "Venus",
-        "Mercury",
-        "Jupiter"
-      ],
-      "answer": "Mars"
-    },
-    {
-      "questionId": 6,
-      "image": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/b2e4507538dd38a5b8f8dc2fcb2a3af5a0d79b26/big-7e30589952aaf03a70a63d7ca5d70313.jpg",
-      "Question": "What is the capital city of Bhutan?",
-      "options": [
-        "Thimphu",
-        "Kathmandu",
-        "Dhaka",
-        "Male"
-      ],
-      "answer": "Thimphu"
-    },
-    {
-      "questionId": 7,
-      "image": "https://www.versobooks.com/cdn/shop/articles/immanuel-kant-3e8cdb504e54db4797e7c5f5e46f0d0d.jpg?v=1677640244",
-      "Question": "Which philosopher wrote the famous work 'Critique of Pure Reason'?",
-      "options": [
-        "Friedrich Nietzsche",
-        "Immanuel Kant",
-        "John Locke",
-        "Jean-Jacques Rousseau"
-      ],
-      "answer": "Immanuel Kant"
-    },
-    {
-      "questionId": 8,
-      "image": "https://www.diphex.com/assets/uploaded/images/news/cropped/screenshot-2020-09-29-at-105501.png",
-      "Question": "What is the chemical formula for sulfuric acid?",
-      "options": [
-        "H2SO4",
-        "NaCl",
-        "C6H12O6",
-        "CO2"
-      ],
-      "answer": "H2SO4"
-    },
-    {
-      "questionId": 9,
-      "image": "https://www.piqosity.com/wp-content/uploads/2022/12/Depositphotos_400945552_L-e1658434781329-1024x599.jpg",
-      "Question": "Which Greek mathematician is often referred to as the 'Father of Geometry'?",
-      "options": [
-        "Euclid",
-        "Pythagoras",
-        "Archimedes",
-        "Aristotle"
-      ],
-      "answer": "Euclid"
-    },
-    {
-      "questionId": 10,
-      "image": "https://www.nationsonline.org/map_small/africa-political-map-1056px.jpg",
-      "Question": "Which African country was formerly known as Abyssinia?",
-      "options": [
-        "Ethiopia",
-        "Kenya",
-        "Mali",
-        "Egypt"
-      ],
-      "answer": "Ethiopia"
-    }
-  ]
+                 {
+                   "questionId": 1,
+                   "image": "https://media.tatler.com/photos/64564e134b0c1dd7448416bf/master/w_1600%2Cc_limit/1252754712",
+                   "Question": "Who is known as the \u0027King of Pop\u0027?",
+                   "options": [
+                     "Michael Jackson",
+                     "Elvis Presley",
+                     "Stevie Wonder",
+                     "Joseph Simmons"
+                   ],
+                   "answer": "Michael Jackson"
+                 },
+                 {
+                   "questionId": 2,
+                   "image": "https://faroutmagazine.co.uk/static/uploads/1/2020/12/A-peek-behind-the-artwork-of-Pink-Floyd-album-Dark-Side-of-the-Moon.jpg",
+                   "Question": "Which band recorded the album \u0027The Dark Side of the Moon\u0027?",
+                   "options": [
+                     "The Beatles",
+                     "Led Zeppelin",
+                     "Pink Floyd",
+                     "The Rolling Stones"
+                   ],
+                   "answer": "Pink Floyd"
+                 },
+                 {
+                   "questionId": 3,
+                   "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
+                   "Question": "Who is the lead vocalist of the band \u0027Queen\u0027?",
+                   "options": [
+                     "Roger Taylor",
+                     "Freddie Mercury",
+                     "Brian May",
+                     "John Deacon"
+                   ],
+                   "answer": "Freddie Mercury"
+                 },
+                 {
+                   "questionId": 4,
+                   "image": "https://1000logos.net/wp-content/uploads/2017/03/Nirvana-Logo.png",
+                   "Question": "Which song by Nirvana was a breakthrough hit in the 90s?",
+                   "options": [
+                     "Smells Like Teen Spirit",
+                     "Come As You Are",
+                     "Lithium",
+                     "Heart-Shaped Box"
+                   ],
+                   "answer": "Smells Like Teen Spirit"
+                 },
+                 {
+                   "questionId": 5,
+                   "image": "https://www.rhino.com/sites/g/files/g2000012691/files/styles/article_image/public/2021-02/Fleetwood%2BMac%2BRumours%2BAlternate.jpg?itok\u003di37PHQ-3",
+                   "Question": "Which band released the album \u0027Rumours\u0027 in 1977?",
+                   "options": [
+                     "The Eagles",
+                     "Fleetwood Mac",
+                     "The Rolling Stones",
+                     "Led Zeppelin"
+                   ],
+                   "answer": "Fleetwood Mac"
+                 },
+                 {
+                   "questionId": 6,
+                   "image": "https://i.guim.co.uk/img/media/8401c421f7a1a749a1d55ee92f606cdffe2f2982/0_509_4501_2701/master/4501.jpg?width\u003d465\u0026dpr\u003d1\u0026s\u003dnone",
+                   "Question": "In what year did the Beatles release their last single?",
+                   "options": [
+                     "1967",
+                     "1970",
+                     "1971",
+                     "2023"
+                   ],
+                   "answer": "2023"
+                 },
+                 {
+                   "questionId": 7,
+                   "image": "https://www.billboard.com/wp-content/uploads/2023/11/The-Beatles-Now-And-Then-Official-Music-Video-screenshot-2023-billboard-1548.jpg",
+                   "Question": "What is the name of the Beatles latest single?",
+                   "options": [
+                     "Dear Prudence",
+                     "Back in the USSR",
+                     "She loves you",
+                     "Now and Then"
+                   ],
+                   "answer": "Now and Then"
+                 },
+                 {
+                   "questionId": 8,
+                   "image": "https://hips.hearstapps.com/hmg-prod/images/thejoyofrummagingthroughrecordbins-index-1634329815.jpeg",
+                   "Question": "What is the best-selling album of all time?",
+                   "options": [
+                     "Thriller - Michael Jackson",
+                     "Back in Black - AC/DC",
+                     "The Dark Side of the Moon - Pink Floyd",
+                     "Led Zeppelin IV - Led Zeppelin"
+                   ],
+                   "answer": "Thriller - Michael Jackson"
+                 },
+                 {
+                   "questionId": 9,
+                   "image": "https://e3.365dm.com/23/11/1600x900/skynews-snoop-dogg-marijuana_6363036.jpg?20231116214506",
+                   "Question": "What is Snoop Dogg\u0027s real name?",
+                   "options": [
+                     "Calvin Cordozar Broadus Jr.",
+                     "Andre Romelle Young",
+                     "Marshall Bruce Mathers III",
+                     "Shawn Corey Carter"
+                   ],
+                   "answer": "Calvin Cordozar Broadus Jr."
+                 },
+                 {
+                   "questionId": 10,
+                   "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20140303__140307wl-miley-gaga2.jpg?w\u003d500",
+                   "Question": "What is Lady Gaga\u0027s real name?",
+                   "options": [
+                     "Stefani Joanne Angelina Germanotta",
+                     "Stephani Maria Sienna",
+                     "Rihanna Fenty",
+                     "Taylor Swift"
+                   ],
+                   "answer": "Stefani Joanne Angelina Germanotta"
+                 }
+               ]
 }
-
