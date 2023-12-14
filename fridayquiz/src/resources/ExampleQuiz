@@ -1,129 +1,45 @@
 {
-  "quizName": "Music Quiz",
+  "quizName": "Christmas Quiz!",
   "quizAuthor": "John Lennox",
-  "quizId": 23,
-  "quizDate": "17/11/2023",
-  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+  "quizId": 24,
+  "quizDate": "08/12/2023",
+  "quizImage": "https://media.tenor.com/i8RuYFWoACgAAAAd/cheer-buddy.gif",
   "questions": [
-                 {
-                   "questionId": 1,
-                   "image": "https://media.tatler.com/photos/64564e134b0c1dd7448416bf/master/w_1600%2Cc_limit/1252754712",
-                   "Question": "Who is known as the \u0027King of Pop\u0027?",
-                   "options": [
-                     "Michael Jackson",
-                     "Elvis Presley",
-                     "Stevie Wonder",
-                     "Joseph Simmons"
-                   ],
-                   "answer": "Michael Jackson"
-                 },
-                 {
-                   "questionId": 2,
-                   "image": "https://faroutmagazine.co.uk/static/uploads/1/2020/12/A-peek-behind-the-artwork-of-Pink-Floyd-album-Dark-Side-of-the-Moon.jpg",
-                   "Question": "Which band recorded the album \u0027The Dark Side of the Moon\u0027?",
-                   "options": [
-                     "The Beatles",
-                     "Led Zeppelin",
-                     "Pink Floyd",
-                     "The Rolling Stones"
-                   ],
-                   "answer": "Pink Floyd"
-                 },
-                 {
-                   "questionId": 3,
-                   "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
-                   "Question": "Who is the lead vocalist of the band \u0027Queen\u0027?",
-                   "options": [
-                     "Roger Taylor",
-                     "Freddie Mercury",
-                     "Brian May",
-                     "John Deacon"
-                   ],
-                   "answer": "Freddie Mercury"
-                 },
-                 {
-                   "questionId": 4,
-                   "image": "https://1000logos.net/wp-content/uploads/2017/03/Nirvana-Logo.png",
-                   "Question": "Which song by Nirvana was a breakthrough hit in the 90s?",
-                   "options": [
-                     "Smells Like Teen Spirit",
-                     "Come As You Are",
-                     "Lithium",
-                     "Heart-Shaped Box"
-                   ],
-                   "answer": "Smells Like Teen Spirit"
-                 },
-                 {
-                   "questionId": 5,
-                   "image": "https://www.rhino.com/sites/g/files/g2000012691/files/styles/article_image/public/2021-02/Fleetwood%2BMac%2BRumours%2BAlternate.jpg?itok\u003di37PHQ-3",
-                   "Question": "Which band released the album \u0027Rumours\u0027 in 1977?",
-                   "options": [
-                     "The Eagles",
-                     "Fleetwood Mac",
-                     "The Rolling Stones",
-                     "Led Zeppelin"
-                   ],
-                   "answer": "Fleetwood Mac"
-                 },
-                 {
-                   "questionId": 6,
-                   "image": "https://i.guim.co.uk/img/media/8401c421f7a1a749a1d55ee92f606cdffe2f2982/0_509_4501_2701/master/4501.jpg?width\u003d465\u0026dpr\u003d1\u0026s\u003dnone",
-                   "Question": "In what year did the Beatles release their last single?",
-                   "options": [
-                     "1967",
-                     "1970",
-                     "1971",
-                     "2023"
-                   ],
-                   "answer": "2023"
-                 },
-                 {
-                   "questionId": 7,
-                   "image": "https://www.billboard.com/wp-content/uploads/2023/11/The-Beatles-Now-And-Then-Official-Music-Video-screenshot-2023-billboard-1548.jpg",
-                   "Question": "What is the name of the Beatles latest single?",
-                   "options": [
-                     "Dear Prudence",
-                     "Back in the USSR",
-                     "She loves you",
-                     "Now and Then"
-                   ],
-                   "answer": "Now and Then"
-                 },
-                 {
-                   "questionId": 8,
-                   "image": "https://hips.hearstapps.com/hmg-prod/images/thejoyofrummagingthroughrecordbins-index-1634329815.jpeg",
-                   "Question": "What is the best-selling album of all time?",
-                   "options": [
-                     "Thriller - Michael Jackson",
-                     "Back in Black - AC/DC",
-                     "The Dark Side of the Moon - Pink Floyd",
-                     "Led Zeppelin IV - Led Zeppelin"
-                   ],
-                   "answer": "Thriller - Michael Jackson"
-                 },
-                 {
-                   "questionId": 9,
-                   "image": "https://e3.365dm.com/23/11/1600x900/skynews-snoop-dogg-marijuana_6363036.jpg?20231116214506",
-                   "Question": "What is Snoop Dogg\u0027s real name?",
-                   "options": [
-                     "Calvin Cordozar Broadus Jr.",
-                     "Andre Romelle Young",
-                     "Marshall Bruce Mathers III",
-                     "Shawn Corey Carter"
-                   ],
-                   "answer": "Calvin Cordozar Broadus Jr."
-                 },
-                 {
-                   "questionId": 10,
-                   "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20140303__140307wl-miley-gaga2.jpg?w\u003d500",
-                   "Question": "What is Lady Gaga\u0027s real name?",
-                   "options": [
-                     "Stefani Joanne Angelina Germanotta",
-                     "Stephani Maria Sienna",
-                     "Rihanna Fenty",
-                     "Taylor Swift"
-                   ],
-                   "answer": "Stefani Joanne Angelina Germanotta"
-                 }
-               ]
+    {
+      "questionId": 1,
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/Tim-Allen-The-Santa-Clauses-Still-DisneyPlus-Publicity-H-2022.jpg?w=1296",
+      "Question": "Who is  the actor playing Santa in this image?",
+      "options": [
+        "Tim Allen",
+        "Ed Asner",
+        "Alex Baldwin",
+        "Richard Attenborough"
+      ],
+      "answer": "Tim Allen"
+    },
+    {
+      "questionId": 2,
+      "image": "https://static.wixstatic.com/media/b19cd0_399434e06268465faa85c022052cafea.png/v1/fit/w_1000%2Ch_692%2Cal_c/file.png",
+      "Question": "Who is  the actor playing Santa in this image?",
+      "options": [
+        "Tim Allen",
+        "Ed Asner",
+        "Alex Baldwin",
+        "Richard Attenborough"
+      ],
+      "answer": "Richard Attenborough"
+    },
+    {
+      "questionId": 3,
+      "image": "https://media0.giphy.com/media/xUySTNgybuf4GBCjdK/giphy.gif",
+      "Question": "In Home Alone, where are the McCallisters going on holiday when they leave Kevin behind?",
+      "options": [
+        "Miami",
+        "Rome",
+        "London",
+        "Paris"
+      ],
+      "answer": "Paris"
+    }
+  ]
 }
