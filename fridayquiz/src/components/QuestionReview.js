@@ -1,6 +1,8 @@
 import React from "react";
 import AnswerReview from "./AnswerReview";
 
+const images = require.context('../resources/QuestionImages', false, /\.(png|jpe?g|svg)$/);
+
 class QuestionReview extends React.Component {
     constructor(props) {
         super(props);
@@ -15,31 +17,41 @@ class QuestionReview extends React.Component {
         this.props.nextQuestionReview();
     }
 
+
     render() {
+        let imageLoc = "./" + this.props.image;
+        let imageSrc;
+        try {
+            imageSrc = images(imageLoc);
+        } catch (error) {
+            imageSrc = this.props.image;
+        }
+
+        let image = <img style={ImageStyle} src={imageSrc} alt="quiz logo"></img>
+
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
-        let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let selectedAnswer = this.props.selectedAnswer;
         let correctAnswer = this.props.correctAnswer;
         let selectedInList = false;
 
         let next = <button style={buttonStyle} onClick={this.next} className="btn btn-primary">Next</button>
         const answers = this.props.options.map((item, index) => {
-            let correct,selected = false;
-            if(item === correctAnswer){
-                correct = true;
-            }
-            if(item === selectedAnswer){
-                selectedInList = true;
-                selected = true;
-            }
-            return  <AnswerReview
-                correctAnswer={correct}
-                selectedAnswer={selected}
-                key={index}
-                answer={item}/>
+                let correct, selected = false;
+                if (item === correctAnswer) {
+                    correct = true;
+                }
+                if (item === selectedAnswer) {
+                    selectedInList = true;
+                    selected = true;
+                }
+                return <AnswerReview
+                    correctAnswer={correct}
+                    selectedAnswer={selected}
+                    key={index}
+                    answer={item}/>
             }
         );
-        if (!selectedInList){
+        if (!selectedInList) {
             answers.push(
                 <AnswerReview
                     correctAnswer={false}

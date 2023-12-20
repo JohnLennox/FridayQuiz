@@ -2,6 +2,8 @@ import React from "react";
 import AnswerOption from "./AnswerOption";
 import {checkForQuiz, checkForQuestion} from "./Util";
 
+const images = require.context('../resources/QuestionImages', false, /\.(png|jpe?g|svg)$/);
+
 class Question extends React.Component {
     constructor(props) {
         super(props);
@@ -79,8 +81,18 @@ class Question extends React.Component {
     }
 
     render() {
+        let imageLoc = "./" + this.props.image;
+        let imageSrc;
+        try {
+            imageSrc = images(imageLoc);
+        } catch (error) {
+            imageSrc = this.props.image;
+        }
+
+        let image = <img style={ImageStyle} src={imageSrc} alt="quiz logo"></img>
+
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
-        let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
+
         let submit = <button style={buttonStyle} onClick={this.submitAnswer} className="btn btn-primary">Submit</button>
         const answers = this.props.answers.map((item, index) =>
             <AnswerOption selectedAnswer={this.state.selectedAnswer} setAnswer={this.setAnswer} key={index}

@@ -1,6 +1,7 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import {Link} from "react-router-dom";
+import titleImage from "../resources/img_1.png";
 
 class QuizHome extends React.Component {
     constructor(props) {
@@ -26,7 +27,7 @@ class QuizHome extends React.Component {
         let date;
         let quizImage;
         if (this.state.quizData) {
-            quizImage = <div className={"text-center"}><img style={ImageStyle} src={(this.state.quizData.quizImage)}
+            quizImage = <div className={"text-center"}><img style={ImageStyle} src={titleImage}
                                                             alt="quiz logo"></img></div>
             title = <h1 style={titleStyle}>{this.state.quizData.quizName}</h1>
             author = <h3 style={authorStyle}>Created by: {this.state.quizData.quizAuthor}</h3>

@@ -1,5 +1,6 @@
 import React from "react";
 import AnswerReview from "./AnswerReview";
+const images = require.context('../resources/QuestionImages', false, /\.(png|jpe?g|svg)$/);
 
 class PresentationQuestion extends React.Component {
     constructor(props) {
@@ -23,9 +24,18 @@ class PresentationQuestion extends React.Component {
     render() {
         let previous = <button style={buttonStyle} className="btn btn-primary" disabled={true}>Previous</button>;
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
-        let image = <img className="img-fluid" style={ImageOnlyStyle} src={(this.props.image)} alt="quiz logo"></img>
+
+        let imageLoc = "./" + this.props.image;
+        let imageSrc;
+        try {
+            imageSrc = images(imageLoc);
+        } catch (error) {
+            imageSrc = this.props.image;
+        }
+
+        let image = <img className="img-fluid" style={ImageOnlyStyle} src={imageSrc} alt="quiz logo"></img>
         if (this.props.options.length > 1) {
-            image = <img className="img-fluid" style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
+            image = <img className="img-fluid" style={ImageStyle} src={imageSrc} alt="quiz logo"></img>
         }
         let correctAnswer = this.props.correctAnswer;
         let displayAnswer = this.props.showAnswers;
