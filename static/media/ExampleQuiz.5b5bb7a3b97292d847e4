@@ -93,21 +93,21 @@
       "Question": "Who composed The Four Seasons?"
     },
     {
-    "questionId": 7,
-    "image": "image7.jpg",
-    "Question": "What is the title of Ed Sheeran's debut studio album, released in 2011?",
-    "options": ["Divide", "Multiply", "Plus", "Subtract"],
-    "imageDescription": "A young male singer-songwriter with an acoustic guitar, capturing the early days of his music career.",
-    "answer": "Plus"
+      "questionId": 7,
+      "image": "image7.jpg",
+      "Question": "What is the title of Ed Sheeran's debut studio album, released in 2011?",
+      "options": ["Divide", "Multiply", "Plus", "Subtract"],
+      "imageDescription": "A young male singer-songwriter with an acoustic guitar, capturing the early days of his music career.",
+      "answer": "Plus"
     },
     {
-    "questionId": 8,
-    "image": "image8.jpg",
-    "Question": "Which year did Guns N' Roses release their debut album 'Appetite for Destruction'?",
-    "options": ["1987", "1985", "1989", "1991"],
-    "imageDescription": "A rock band performing energetically on stage, with a lead singer holding a microphone and a guitarist playing a solo.",
-    "answer": "1987"
-    }
+      "questionId": 8,
+      "image": "image8.jpg",
+      "Question": "Which year did Guns N' Roses release their debut album 'Appetite for Destruction'?",
+      "options": ["1987", "1985", "1989", "1991"],
+      "imageDescription": "A rock band performing energetically on stage, with a lead singer holding a microphone and a guitarist playing a solo.",
+      "answer": "1987"
+    },
     {
       "questionId": 9,
       "image": "image9.jpg",
