@@ -1,0 +1,149 @@
+{
+  "quizName": "General Knowledge Mastery",
+  "quizAuthor": "chatgpt",
+  "quizId": 35,
+  "quizDate": "01/02/2024",
+  "quizImage": "https://media.tenor.com/i8RuYFWoACgAAAAd/cheer-buddy.gif",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Ernest Hemingway",
+        "Herman Melville",
+        "Mark Twain",
+        "Stephen King"
+      ],
+      "answer": "Herman Melville",
+      "imageDescription": "Rough waves of the sea with a giant white whale breaching the water\u0027s surface.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who wrote the novel \u0027Moby Dick\u0027?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent Van Gogh",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci",
+      "imageDescription": "A close up of the Mona Lisa\u0027s enigmatic smile.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who painted the \u0027Mona Lisa\u0027?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "1889"
+      ],
+      "answer": "1889",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": "5",
+      "Question": "In what year was the Eiffel Tower completed? (+/- 5)"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Galileo Galilei"
+      ],
+      "answer": "Albert Einstein",
+      "imageDescription": "A picture of an equation on a blackboard with relativity theory symbols.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who is the author of the theory of relativity?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "answer": "Canberra",
+      "imageDescription": "A panoramic view of the Australian Parliament House in Canberra.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the capital of Australia?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "206"
+      ],
+      "answer": "206",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "How many bones are there in an adult human body?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Pluto",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "answer": "Mars",
+      "imageDescription": "A red planet seen against a black, star-filled sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Thames",
+        "Mississippi"
+      ],
+      "answer": "Nile",
+      "imageDescription": null,
+      "variance": "1",
+      "Question": "What is the longest river in the world?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "8848"
+      ],
+      "answer": "8848",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": "500",
+      "Question": "What\u0027s the height of Mount Everest in meters? (+/- 500)"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Niels Bohr",
+        "Max Planck",
+        "Albert Einstein",
+        "Ernest O. Lawrence"
+      ],
+      "answer": "Albert Einstein",
+      "imageDescription": "A gold medal embossed with the face of Alfred Nobel on a blue background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who won the Nobel Prize for Physics in 1921?"
+    }
+  ]
+}

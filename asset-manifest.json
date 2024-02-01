@@ -1,25 +1,22 @@
 {
   "files": {
     "main.css": "/FridayQuiz/static/css/main.49b7ef7b.css",
-    "main.js": "/FridayQuiz/static/js/main.4f16e45d.js",
+    "main.js": "/FridayQuiz/static/js/main.9417c1f4.js",
     "static/js/787.78194230.chunk.js": "/FridayQuiz/static/js/787.78194230.chunk.js",
-    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.b08cf66433d510a252b8.jpg",
+    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.b2f463dbebb2e1c66e52.jpg",
+    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.3ab143d7b74f1bc789ba.jpg",
+    "static/media/image9.jpg": "/FridayQuiz/static/media/image9.b3070e3ca9daa482ecb2.jpg",
+    "static/media/image6.jpg": "/FridayQuiz/static/media/image6.2a281465f5373ff9060c.jpg",
     "static/media/img.png": "/FridayQuiz/static/media/img.437b4df81c5e43224ef7.png",
-    "static/media/image7.jpg": "/FridayQuiz/static/media/image7.291607c1cbf9cebbbdb6.jpg",
-    "static/media/image5.jpg": "/FridayQuiz/static/media/image5.6f4458163f6bc5c1f1eb.jpg",
-    "static/media/image2.jpg": "/FridayQuiz/static/media/image2.3ac6f904a91af54928ef.jpg",
-    "static/media/image4.jpg": "/FridayQuiz/static/media/image4.33a7c6d22a5951048301.jpg",
-    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.be5e4f321396e8026921.jpg",
-    "static/media/image9.jpg": "/FridayQuiz/static/media/image9.9b456f075ea244f3245c.jpg",
-    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.61934f1fe416a84c9f96.jpg",
-    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.5b5bb7a3b97292d847e4",
+    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.571d55f3348fa539a9e6.jpg",
+    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.c0d18160b45bba8f78a1",
     "index.html": "/FridayQuiz/index.html",
     "main.49b7ef7b.css.map": "/FridayQuiz/static/css/main.49b7ef7b.css.map",
-    "main.4f16e45d.js.map": "/FridayQuiz/static/js/main.4f16e45d.js.map",
+    "main.9417c1f4.js.map": "/FridayQuiz/static/js/main.9417c1f4.js.map",
     "787.78194230.chunk.js.map": "/FridayQuiz/static/js/787.78194230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.4f16e45d.js"
+    "static/js/main.9417c1f4.js"
   ]
 }
