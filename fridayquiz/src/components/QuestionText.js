@@ -1,6 +1,8 @@
 import React from "react";
 import {checkForQuiz, checkForQuestion} from "./Util";
 
+const images = require.context('../resources/QuestionImages', false, /\.(png|jpe?g|svg)$/);
+
 class QuestionText extends React.Component {
     constructor(props) {
         super(props);
@@ -95,8 +97,18 @@ class QuestionText extends React.Component {
     }
 
     render() {
+        let imageLoc = "./" + this.props.image;
+        let imageSrc;
+        try {
+            imageSrc = images(imageLoc);
+        } catch (error) {
+            imageSrc = this.props.image;
+        }
+
+        let image = <img style={ImageStyle} src={imageSrc} alt="quiz logo"></img>
+
+
         let question = <h2 style={QuestionTextStyle}>{this.props.question}</h2>
-        let image = <img style={ImageStyle} src={(this.props.image)} alt="quiz logo"></img>
         let submit = <button style={buttonStyle} onClick={this.submitAnswer} className="btn btn-primary">Submit</button>
         return (
             <div style={QuestionWrapper}>

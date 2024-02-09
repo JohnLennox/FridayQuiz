@@ -1,7 +1,7 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import {Link} from "react-router-dom";
-import titleImage from "../resources/img_1.png";
+import titleImage from "../resources/img.png";
 
 class QuizHome extends React.Component {
     constructor(props) {
