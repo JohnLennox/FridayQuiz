@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/FridayQuiz/static/css/main.49b7ef7b.css",
-    "main.js": "/FridayQuiz/static/js/main.9417c1f4.js",
+    "main.js": "/FridayQuiz/static/js/main.4d207973.js",
     "static/js/787.78194230.chunk.js": "/FridayQuiz/static/js/787.78194230.chunk.js",
-    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.b2f463dbebb2e1c66e52.jpg",
-    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.3ab143d7b74f1bc789ba.jpg",
-    "static/media/image9.jpg": "/FridayQuiz/static/media/image9.b3070e3ca9daa482ecb2.jpg",
-    "static/media/image6.jpg": "/FridayQuiz/static/media/image6.2a281465f5373ff9060c.jpg",
     "static/media/img.png": "/FridayQuiz/static/media/img.437b4df81c5e43224ef7.png",
-    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.571d55f3348fa539a9e6.jpg",
-    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.c0d18160b45bba8f78a1",
+    "static/media/image4.jpg": "/FridayQuiz/static/media/image4.ecb1a3200713ace1fd80.jpg",
+    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.a85522dc4cd05e79403d.jpg",
+    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.09e415d6c0be737571d8.jpg",
+    "static/media/image7.jpg": "/FridayQuiz/static/media/image7.f1feaf7c28a1aa3f6097.jpg",
+    "static/media/image10.jpg": "/FridayQuiz/static/media/image10.3723b2139a260c0bdabf.jpg",
+    "static/media/image6.jpg": "/FridayQuiz/static/media/image6.46581e71865abfbdf009.jpg",
+    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.af6c155261e83e8f422d.jpg",
+    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.843ccbb8d86e17daef05",
     "index.html": "/FridayQuiz/index.html",
     "main.49b7ef7b.css.map": "/FridayQuiz/static/css/main.49b7ef7b.css.map",
-    "main.9417c1f4.js.map": "/FridayQuiz/static/js/main.9417c1f4.js.map",
+    "main.4d207973.js.map": "/FridayQuiz/static/js/main.4d207973.js.map",
     "787.78194230.chunk.js.map": "/FridayQuiz/static/js/787.78194230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.9417c1f4.js"
+    "static/js/main.4d207973.js"
   ]
 }
