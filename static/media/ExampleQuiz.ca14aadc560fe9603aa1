@@ -1,0 +1,147 @@
+{
+  "quizName": "London and Harry Potter Trivia",
+  "quizAuthor": "ChatGPT",
+  "quizId": 41,
+  "quizDate": "07/03/2024",
+  "quizImage": "https://cdn.pixabay.com/photo/2015/12/12/15/30/harry-potter-1089791_960_720.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Three Broomsticks",
+        "The Leaky Cauldron",
+        "Hog\u0027s Head",
+        "Madam Rosmerta\u0027s"
+      ],
+      "answer": "The Leaky Cauldron",
+      "imageDescription": "A classic British pub with old wooden exterior and wizards \u0026 witches stirring their drinks with magic wands",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of the pub/bar that leads to Diagon Alley in London?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "5 British pounds"
+      ],
+      "answer": "5 British pounds",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "What is the value of a Galleon in Muggle money?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Tom Felton",
+        "Ralph Fiennes",
+        "Gary Oldman",
+        "Alan Rickman"
+      ],
+      "answer": "Ralph Fiennes",
+      "imageDescription": "Harry Potter and Voldemort locked in a fierce wand duel, their spells clashing in a brilliant flash",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who was the actor that played \u0027Voldemort\u0027 in the Harry Potter series?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Paddington Station",
+        "Kings Cross Station",
+        "Victoria Station",
+        "Liverpool Street Station"
+      ],
+      "answer": "Kings Cross Station",
+      "imageDescription": "A young wizard disappearing into a brick-wall between platforms 9 and 10",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which of these London stations has a platform 9 3/4?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Hogwarts",
+        "Diagon Alley",
+        "Kings Cross Station",
+        "The Burrow"
+      ],
+      "answer": "Kings Cross Station",
+      "imageDescription": "A bustling train platform with a family of red-headed wizards talking to a young boy with glasses",
+      "questionType": null,
+      "variance": null,
+      "Question": "In the books, where does Harry first meet the Weasleys?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "8787892"
+      ],
+      "answer": "8787892",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": "1000000",
+      "Question": "What is the population of London as of 2021? (+/- 1000000)"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Cruciatus Curse",
+        "Imperius Curse",
+        "Avada Kedavra",
+        "Expelliarmus"
+      ],
+      "answer": "Imperius Curse",
+      "imageDescription": "A wizard commanding another person with a flick of his wand, the blue light controlling the person’s movements",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which of the Unforgivable Curses controls another\u0027s actions?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "1666"
+      ],
+      "answer": "1666",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "When was the Great Fire of London? (Year only) "
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Felix Felicis",
+        "Polyjuice Potion",
+        "Wolfsbane Potion",
+        "Veritaserum"
+      ],
+      "answer": "Felix Felicis",
+      "imageDescription": "A small vial of golden, shimmering liquid, held by Harry while a curious Hermoine watches",
+      "questionType": null,
+      "variance": null,
+      "Question": "In the Half-Blood Prince, Harry borrows a book where he learns about \u0027Liquid Luck.\u0027 What is the actual name of this potion?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "310"
+      ],
+      "answer": "310",
+      "imageDescription": null,
+      "questionType": "TEXT",
+      "variance": "10",
+      "Question": "What is the height of London\u0027s tallest building, The Shard? (+/- 10)"
+    }
+  ]
+}
