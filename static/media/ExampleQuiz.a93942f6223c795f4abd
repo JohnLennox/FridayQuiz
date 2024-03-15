@@ -24,13 +24,13 @@
       "questionId": 2,
       "image": "image2.jpg",
       "options": [
-        "5 British pounds"
+        "5"
       ],
-      "answer": "5 British pounds",
+      "answer": "5",
       "imageDescription": null,
       "questionType": "TEXT",
       "variance": null,
-      "Question": "What is the value of a Galleon in Muggle money?"
+      "Question": "What is the value of a Galleon in Muggle money? (to the nearest £)"
     },
     {
       "questionId": 3,
@@ -141,7 +141,7 @@
       "imageDescription": null,
       "questionType": "TEXT",
       "variance": "10",
-      "Question": "What is the height of London\u0027s tallest building, The Shard? (+/- 10)"
+      "Question": "What is the height of London\u0027s tallest building, The Shard in meters? (+/- 10)"
     }
   ]
 }
