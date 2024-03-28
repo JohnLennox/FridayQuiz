@@ -1,0 +1,147 @@
+{
+  "quizName": "Easter and Chocolate Extravaganza",
+  "quizAuthor": "chatgpt",
+  "quizId": 45,
+  "quizDate": "27/03/2024",
+  "quizImage": "https://media.tenor.com/i8RuYFWoACgAAAAd/cheer-buddy.gif",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Switzerland",
+        "Belgium",
+        "Mexico",
+        "France"
+      ],
+      "answer": "Mexico",
+      "imageDescription": "A chocolate bar originating from its home country",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the origin country of chocolate?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Netherlands",
+        "Germany",
+        "France",
+        "USA"
+      ],
+      "answer": "Germany",
+      "imageDescription": "An Easter Bunny hopping in a field in its country of origin",
+      "questionType": null,
+      "variance": null,
+      "Question": "The tradition of the Easter Bunny originated from which country?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "230"
+      ],
+      "answer": "230",
+      "imageDescription": "A chocolate bar with a calorie count floating above it",
+      "questionType": "TEXT",
+      "variance": "50",
+      "Question": "How many calories does an average chocolate bar have? (+/- 50)"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Easter Bunny",
+        "Easter Egg",
+        "Easter Lamb",
+        "All of them"
+      ],
+      "answer": "All of them",
+      "imageDescription": "A cluster of Easter symbols each representing rebirth",
+      "questionType": null,
+      "variance": null,
+      "Question": "What symbolizes rebirth and is related to Easter?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "18th Century",
+        "19th Century",
+        "20th Century",
+        "17th Century"
+      ],
+      "answer": "19th Century",
+      "imageDescription": "A chocolate Easter egg with its year of production displayed",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what century was the first chocolate Easter egg produced?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "2007"
+      ],
+      "answer": "2007",
+      "imageDescription": "A huge group of people participating in the largest Easter egg hunt",
+      "questionType": "TEXT",
+      "variance": "2",
+      "Question": "In which year was the largest Easter egg hunt ever recorded? (+/- 2)"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "7200000"
+      ],
+      "answer": "7200000",
+      "imageDescription": "A monstrous pile of chocolate to represent tons of chocolate",
+      "questionType": "TEXT",
+      "variance": "500000",
+      "Question": "How many tons of chocolate are consumed worldwide each year? (+/- 500000)"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Good Friday",
+        "Easter Sunday",
+        "Palm Sunday",
+        "Ascension Day"
+      ],
+      "answer": "Easter Sunday",
+      "imageDescription": "The northern spring equinox with a full moon",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which Christian holiday is celebrated on the first Sunday after the first full moon following the northern spring equinox?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Cocoa beans"
+      ],
+      "answer": "Cocoa beans",
+      "imageDescription": "Three ingredients typically used to make traditional chocolate",
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "What is the main ingredient in traditional chocolate?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Paris",
+        "Strasbourg",
+        "Bayonne",
+        "Lille"
+      ],
+      "answer": "Bayonne",
+      "imageDescription": "A cityscape scene of a French city famous for making chocolate",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which French city is famous for it\u0027s chocolate making?"
+    }
+  ]
+}
