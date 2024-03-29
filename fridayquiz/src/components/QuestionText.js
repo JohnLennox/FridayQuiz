@@ -28,6 +28,7 @@ class QuestionText extends React.Component {
             answer: this.props.answer,
             options: this.props.answers,
             questionId: this.props.questionId,
+            variance: this.props.variance,
             correct: isCorrect
         }
 

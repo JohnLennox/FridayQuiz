@@ -40,7 +40,7 @@ class QuizReview extends React.Component {
         if (this.state.quizData && !this.state.reviewComplete) {
             quizId = this.state.quizData.quizId;
             let allQuizResults = JSON.parse(window.localStorage.getItem("FridayQuizResults"));
-            let quiz = allQuizResults[quizId];
+            let quiz = allQuizResults[quizId] ? allQuizResults[quizId] : allQuizResults[allQuizResults.length - 1];
             let questionInfo = quiz[currentQuestion];
             if (questionInfo === undefined) {
                 question = <Navigate to='/result'/>
@@ -50,6 +50,7 @@ class QuizReview extends React.Component {
                                            selectedAnswer={questionInfo.selectedAnswer}
                                            correctAnswer={questionInfo.answer}
                                            nextQuestionReview={this.onNextQuestion}
+                                           variance={questionInfo.variance}
                                            image={questionInfo.image}/>
             }
         } else if (this.state.reviewComplete) {

@@ -24,7 +24,12 @@ class ResultGraph extends React.Component {
         let historicStats = [];
         for (let i = 0; i < fridayQuizResults.length; i++) {
             if (fridayQuizResults[i]) {
-                historicStats.push(this.markQuiz(fridayQuizResults[i]));
+                historicStats.push(
+                    {
+                        id: i,
+                        score: this.markQuiz(fridayQuizResults[i])
+                    }
+                );
             }
         }
         return historicStats;
@@ -33,7 +38,12 @@ class ResultGraph extends React.Component {
     formatChartData(dataObject) {
         let labelContent = [];
         for (let i = 0; i < dataObject.length; i++) {
-            labelContent.push(dataObject[i] + '%')
+            labelContent.push("Quiz #" + dataObject[i].id);
+        }
+
+        let data = [];
+        for (let i = 0; i < dataObject.length; i++) {
+            data.push(dataObject[i].score)
         }
 
         return {
@@ -41,7 +51,7 @@ class ResultGraph extends React.Component {
             datasets: [
                 {
                     label: 'Scores',
-                    data: dataObject,
+                    data: data,
                     // backgroundColor: ['','',''],
                     borderWidth: 2
                 }
@@ -79,17 +89,6 @@ class ResultGraph extends React.Component {
             },
         }
     }
-}
-
-const MainStyle = {
-    backgroundColor: '#282c34',
-    textAlign: 'center',
-    color: 'white',
-    paddingLeft: '1.5 rem',
-    paddingRight: '1.5 rem',
-    marginTop: 0,
-    minHeight: '100vh'
-
 }
 
 export default ResultGraph;

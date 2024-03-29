@@ -1,7 +1,7 @@
 import React from "react";
 import jsonData from "../resources/ExampleQuiz";
 import Question from "../components/Question";
-import { Navigate } from "react-router-dom";
+import {Navigate} from "react-router-dom";
 import QuestionText from "../components/QuestionText";
 
 class QuestionList extends React.Component {
@@ -46,13 +46,13 @@ class QuestionList extends React.Component {
         let title, question, result;
         let currentQuestion = this.state.questionIndex;
         let quizId = "";
-        if(this.state.quizData){
+        if (this.state.quizData) {
             quizId = this.state.quizData.quizId;
         }
         if (this.state.quizData && this.state.activeQuiz) {
             title = <h1>{this.state.quizData.quizName}</h1>
             let questionInfo = this.state.quizData.questions[currentQuestion];
-            if (questionInfo.questionType === "TEXT"){
+            if (questionInfo.questionType === "TEXT") {
                 question = <QuestionText
                     onAnswerSubmit={this.onAnswerSubmit}
                     answers={questionInfo.options}
@@ -63,7 +63,7 @@ class QuestionList extends React.Component {
                     quizId={this.state.quizData.quizId}
                     variance={questionInfo.variance}
                 />
-            }else {
+            } else {
 
                 question = <Question
                     onAnswerSubmit={this.onAnswerSubmit}
@@ -75,12 +75,12 @@ class QuestionList extends React.Component {
                     quizId={this.state.quizData.quizId}
                 />
             }
-        } else if(!this.state.activeQuiz) {
+        } else if (!this.state.activeQuiz) {
             question = null;
             window.localStorage.setItem("quizId", JSON.stringify(quizId));
             window.localStorage.setItem("currentScore", JSON.stringify(this.state.score));
             window.localStorage.setItem("questionCount", JSON.stringify(this.state.quizLength));
-            result = <Navigate to='/result' />
+            result = <Navigate to='/result'/>
         }
         return (
             <div style={QuestionListStyle}>

@@ -28,13 +28,12 @@ class QuestionReview extends React.Component {
         }
 
         let image = <img style={ImageStyle} src={imageSrc} alt="quiz logo"></img>
-
         let question = <h2 style={QuestionText}>{this.props.question}</h2>
         let selectedAnswer = this.props.selectedAnswer;
         let correctAnswer = this.props.correctAnswer;
         let selectedInList = false;
-
         let next = <button style={buttonStyle} onClick={this.next} className="btn btn-primary">Next</button>
+
         const answers = this.props.options.map((item, index) => {
                 let correct, selected = false;
                 if (item === correctAnswer) {
@@ -51,14 +50,36 @@ class QuestionReview extends React.Component {
                     answer={item}/>
             }
         );
+
         if (!selectedInList) {
-            answers.push(
-                <AnswerReview
-                    correctAnswer={false}
-                    selectedAnswer={true}
-                    key={answers.length + 1}
-                    answer={"Your answer: " + selectedAnswer}/>
-            )
+            if (this.props.variance) {
+                if (selectedAnswer > (correctAnswer - this.props.variance)
+                    && selectedAnswer < (correctAnswer + this.props.variance)) {
+                    answers.push(
+                        <AnswerReview
+                            correctAnswer={true}
+                            selectedAnswer={true}
+                            key={answers.length + 1}
+                            answer={"Your answer: " + selectedAnswer}/>
+                    )
+                } else {
+                    answers.push(
+                        <AnswerReview
+                            correctAnswer={false}
+                            selectedAnswer={true}
+                            key={answers.length + 1}
+                            answer={"Your answer: " + selectedAnswer}/>
+                    )
+                }
+            } else {
+                answers.push(
+                    <AnswerReview
+                        correctAnswer={false}
+                        selectedAnswer={true}
+                        key={answers.length + 1}
+                        answer={"Your answer: " + selectedAnswer}/>
+                )
+            }
         }
         return (
             <div style={QuestionWrapper}>
