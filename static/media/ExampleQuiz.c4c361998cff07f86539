@@ -1,0 +1,54 @@
+{
+  "quizName": "Friday Night Reels: A Cinema Quiz",
+  "quizAuthor": "ChatGPT",
+  "quizDate": "31/03/2024",
+  "quizId": 65,
+  "questions": [
+    {
+      "questionId": 1,
+      "Question": "In what year did the classic film 'Gone With The Wind' release?",
+      "questionType": "TEXT",
+      "options": ["1939"],
+      "variance": 0,
+      "image": "",
+      "imageDescription": "Movie poster of Gone With The Wind, highlighting the main characters of Scarlett O'Hara and Rhett Butler with the backdrop of a vibrant sunset.",
+      "answer": "1939"
+    },
+    {
+      "questionId": 2,
+      "Question": "Which of these films did NOT win an Academy Award for Best Picture?",
+      "questionType": null,
+      "options": ["The Godfather", "Forrest Gump", "Goodfellas", "The Shape of Water"],
+      "image": "",
+      "imageDescription": "A collage featuring movie posters of all the four listed films: The Godfather, Forrest Gump, Goodfellas, and The Shape of Water.",
+      "answer": "Goodfellas"
+    },
+    {
+      "questionId": 3,
+      "Question": "In the nightmarish world of 'Pan's Labyrinth', what is the name of the the grotesque creature with eyes in its hands?",
+      "questionType": "TEXT",
+      "options": ["The Pale Man"],
+      "image": "",
+      "imageDescription": "A chilling representation of the grotesque creature known as The Pale Man from the film Pan's Labyrinth. It is depicted sitting at a table with its eyes in the palms of its hands.",
+      "answer": "The Pale Man"
+    },
+    {
+      "questionId": 4,
+      "Question": "Which actor was the original choice to play Rick Blaine in the 1942 film 'Casablanca' before Humphrey Bogart was cast?",
+      "questionType": "TEXT",
+      "options": ["George Raft"],
+      "image": "",
+      "imageDescription": "A black and white picture of George Raft, a classic Hollywood actor known for his iconic presence in the film noir genre, next to the movie poster of Casablanca.",
+      "answer": "George Raft"
+    },
+    {
+      "questionId": 5,
+      "Question": "According to the 1994 film 'Forrest Gump', 'Life is like a...'?",
+      "questionType": "TEXT",
+      "options": ["Box of chocolates"],
+      "image": "",
+      "imageDescription": "An illustrative scene from the film Forrest Gump showing the character Forrest sitting on a park bench, holding a box of chocolates.",
+      "answer": "Box of chocolates"
+    }
+  ]
+}
