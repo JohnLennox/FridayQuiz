@@ -51,8 +51,17 @@ class QuestionReview extends React.Component {
             }
         );
 
-        if (!selectedInList) {
-            if (this.props.variance) {
+        if(!selectedInList && !this.props.variance) {
+            answers.push(
+                <AnswerReview
+                    correctAnswer={false}
+                    selectedAnswer={true}
+                    key={answers.length + 1}
+                    answer={"Your answer: " + selectedAnswer}/>
+            )
+        }
+
+        if (!selectedInList && this.props.variance) {
                 if (selectedAnswer > (correctAnswer - this.props.variance)
                     && selectedAnswer < (correctAnswer + this.props.variance)) {
                     answers.push(
@@ -71,15 +80,6 @@ class QuestionReview extends React.Component {
                             answer={"Your answer: " + selectedAnswer}/>
                     )
                 }
-            } else {
-                answers.push(
-                    <AnswerReview
-                        correctAnswer={false}
-                        selectedAnswer={true}
-                        key={answers.length + 1}
-                        answer={"Your answer: " + selectedAnswer}/>
-                )
-            }
         }
         return (
             <div style={QuestionWrapper}>
