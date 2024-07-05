@@ -1,0 +1,101 @@
+{
+  "quizName": "Free at Last: A Quiz on Independence Days Worldwide",
+  "quizAuthor": "ChatGPT",
+  "quizId": 60,
+  "quizDate": "05/07/2024",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": ["4th July 1776", "14th July 1789", "26th January 1950", "1st October 1949"],
+      "answer": "4th July 1776",
+      "imageDescription": "Description: An old parchment with the words 'United States Declaration of Independence, July 4, 1776' on it.",
+      "Question": "When did the United States achieve independence?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": ["France", "Netherlands", "Russia", "United Kingdom"],
+      "answer": "United Kingdom",
+      "imageDescription": "Description: A maple leaf clad in the colors of the Canadian flag lies atop a historical documentation of Canada's independence from the United Kingdom.",
+      "questionType": null,
+      "variance": null,
+      "Question": "From whom did Canada get its independence?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": ["15th August 1947", "26th January 1950", "2nd October 1948", "30th January 1948"],
+      "answer": "15th August 1947",
+      "imageDescription": "Description: A depiction of the Indian flag waving proudly against the backdrop of India's majestic landmarks, symbolizing its independence on August 15, 1947.",
+      "Question": "What is the Independence Day date of India?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": ["Spain", "Brazil", "Angola", "Cape Verde"],
+      "answer": "Brazil",
+      "imageDescription": "Description: A historical painting portraying Brazil's declaration of independence from Portugal on September 7, 1822.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country gained its independence from Portugal on September 7, 1822?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": ["1944", "1945", "1946", "1947"],
+      "answer": "1946",
+      "imageDescription": "Description: A scene of jubilant crowds waving Filipino flags, celebrating the announcement of their nation's independence, sometime around the year 1946.",
+      "Question": "In which year did the Philippines achieve independence?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": ["Tunisia", "Egypt", "Finland", "Greece"],
+      "answer": "Finland",
+      "imageDescription": "Description: An historic image of Finland's independence day, memorializing their freedom from the Ottoman Empire.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country celebrating independence on December 6th was once ruled by the Russian Empire?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": ["France", "Italy", "No one, it never lost its sovereignty", "United Kingdom"],
+      "answer": "No one, it never lost its sovereignty",
+      "imageDescription": "Description: An antique Ethiopian national emblem, symbolizing the country's historic sovereignty and its standing among the few countries that never lost their independence.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who did Ethiopia gain independence from?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": ["Estonia", "Belarus", "Ukraine", "Kazakhstan"],
+      "answer": "Ukraine",
+      "imageDescription": "Description: A historic collage featuring key moments from Ukraine's independence journey, culminating on August 24, 1991.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which Eastern European country gained independence on August 24, 1991?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": ["6th August 1962", "15th August 1962", "30th January 1962", "26th January 1962"],
+      "answer": "6th August 1962",
+      "imageDescription": "Description: A dynamic image of the Jamaican flag intertwined with its cultural symbols, marking the nation's independence on August 6, 1962.",
+      "Question": "What is the independence day of Jamaica?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": ["Rwanda", "South Africa", "Congo", "Nigeria"],
+      "answer": "Congo",
+      "imageDescription": "Description: A compelling image reenacting Congo's declaration of freedom from Belgium on June 30, 1960, encapsulated by vibrant animations of its cultural emblems.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which African nation received independence from Belgium on June 30, 1960?"
+    }
+  ]
+}
