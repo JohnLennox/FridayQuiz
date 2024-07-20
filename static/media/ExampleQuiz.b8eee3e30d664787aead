@@ -1,0 +1,147 @@
+{
+  "quizName": "Einstein or Oak Tree? Scientific and Natural Conundrums",
+  "quizAuthor": "ChatGPT",
+  "quizId": 62,
+  "quizDate": "20/07/2024",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "answer": "Hydrogen",
+      "imageDescription": "A periodic table with the first element highlighted",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the first element on the periodic table?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Albert Einstein"
+      ],
+      "answer": "Albert Einstein",
+      "imageDescription": "A black and white portrait of Albert Einstein, renowned physicist",
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "Who is often called the \u0027father of modern physics\u0027?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Venus",
+        "Saturn",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": "Mars",
+      "imageDescription": "A high-resolution image of Mars, showing its reddish surface",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which planet is known as the \u0027red planet\u0027?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "1 x 10^6",
+        "1 x 10^9",
+        "1 x 10^12",
+        "1 x 10^15"
+      ],
+      "answer": "1 x 10^9",
+      "imageDescription": "A collage of different storage devices: hard disks, SSDs, Pen drives, CDs, all measured in gigabytes",
+      "questionType": "null",
+      "variance": null,
+      "Question": "In scientific notation, how much is a 'giga' (as in gigabyte)?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Metallic bond",
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond"
+      ],
+      "answer": "Covalent bond",
+      "imageDescription": "A schematic diagram of a covalent bond, with atoms sharing electrons",
+      "questionType": null,
+      "variance": null,
+      "Question": "What type of bond involves the sharing of electron pairs between atoms?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "DNA"
+      ],
+      "answer": "DNA",
+      "imageDescription": "A 3D rendering of a DNA double helix structure",
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "What is the more common term for \u0027Deoxyribonucleic acid\u0027?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Gel",
+        "Granular",
+        "Foam",
+        "Plasma"
+      ],
+      "answer": "Plasma",
+      "imageDescription": "An image of a plasma globe, with streaks of light meeting the touch of a hand",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the fourth phase of matter, alongside solid, liquid, and gas?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "2.537"
+      ],
+      "answer": "2.537",
+      "imageDescription": "Image of the Andromeda Galaxy observed from an advanced telescope, studding the night sky",
+      "questionType": "TEXT",
+      "variance": "0.2",
+      "Question": "What is the distance in millions of light-years to the Andromeda Galaxy, within a variance of ±0.2 million?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Deciduous",
+        "Evergreen",
+        "Succulent",
+        "Perennial"
+      ],
+      "answer": "Deciduous",
+      "imageDescription": "An image showing the transition of a deciduous tree through the four seasons",
+      "questionType": null,
+      "variance": null,
+      "Question": "In botany, plants that lose their leaves annually are categorized as what?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Hydrogen"
+      ],
+      "answer": "Hydrogen",
+      "imageDescription": "A representation of the sun, showing layers and the burning core featuring nuclear fusion",
+      "questionType": "TEXT",
+      "variance": null,
+      "Question": "What is the primary gas that all stars, including the sun, primarily burn in their cores to maintain their luminosity?"
+    }
+  ]
+}
