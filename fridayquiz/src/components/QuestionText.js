@@ -112,11 +112,18 @@ class QuestionText extends React.Component {
         let question = <h2 style={QuestionTextStyle}>{this.props.question}</h2>
         let submit = <button style={buttonStyle} onClick={this.submitAnswer} className="btn btn-primary">Submit</button>
         return (
-            <div style={QuestionWrapper}>
-                {image}
-                {question}
-                <input type="text" value={this.state.selectedAnswer} onChange={(e) => this.setAnswer(e.target.value)}/>
-                {submit}
+            <div className="container">
+                <div style={QuestionWrapper} className="row align-items-center">
+                    <div className="col-md-6 align-items-center">
+                        {image}
+                    </div>
+                    <div className="col-md-6">
+                        {question}
+                        <input type="text" value={this.state.selectedAnswer}
+                               onChange={(e) => this.setAnswer(e.target.value)}/>
+                        {submit}
+                    </div>
+                </div>
             </div>
         )
     }

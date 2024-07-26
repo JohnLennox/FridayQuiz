@@ -10,8 +10,6 @@ class QuestionReview extends React.Component {
         this.next = this.next.bind(this);
     }
 
-    componentDidMount() {
-    }
 
     next = () => {
         this.props.nextQuestionReview();
@@ -51,7 +49,7 @@ class QuestionReview extends React.Component {
             }
         );
 
-        if(!selectedInList && !this.props.variance) {
+        if (!selectedInList && !this.props.variance) {
             answers.push(
                 <AnswerReview
                     correctAnswer={false}
@@ -62,31 +60,37 @@ class QuestionReview extends React.Component {
         }
 
         if (!selectedInList && this.props.variance) {
-                if (selectedAnswer > (correctAnswer - this.props.variance)
-                    && selectedAnswer < (correctAnswer + this.props.variance)) {
-                    answers.push(
-                        <AnswerReview
-                            correctAnswer={true}
-                            selectedAnswer={true}
-                            key={answers.length + 1}
-                            answer={"Your answer: " + selectedAnswer}/>
-                    )
-                } else {
-                    answers.push(
-                        <AnswerReview
-                            correctAnswer={false}
-                            selectedAnswer={true}
-                            key={answers.length + 1}
-                            answer={"Your answer: " + selectedAnswer}/>
-                    )
-                }
+            if (selectedAnswer > (correctAnswer - this.props.variance)
+                && selectedAnswer < (correctAnswer + this.props.variance)) {
+                answers.push(
+                    <AnswerReview
+                        correctAnswer={true}
+                        selectedAnswer={true}
+                        key={answers.length + 1}
+                        answer={"Your answer: " + selectedAnswer}/>
+                )
+            } else {
+                answers.push(
+                    <AnswerReview
+                        correctAnswer={false}
+                        selectedAnswer={true}
+                        key={answers.length + 1}
+                        answer={"Your answer: " + selectedAnswer}/>
+                )
+            }
         }
         return (
-            <div style={QuestionWrapper}>
-                {image}
-                {question}
-                {answers}
-                {next}
+            <div className="container">
+                <div style={QuestionWrapper} className="row align-items-center">
+                    <div className="col-md-6 align-items-center">
+                        {image}
+                    </div>
+                    <div className="col-md-6">
+                        {question}
+                        {answers}
+                        {next}
+                    </div>
+                </div>
             </div>
         )
     }

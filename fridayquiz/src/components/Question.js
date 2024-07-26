@@ -99,11 +99,17 @@ class Question extends React.Component {
                           answer={item}></AnswerOption>
         );
         return (
-            <div style={QuestionWrapper}>
-                {image}
-                {question}
-                {answers}
-                {submit}
+            <div className="container">
+            <div style={QuestionWrapper} className="row align-items-center">
+                <div className="col-md-6 align-items-center">
+                    {image}
+                </div>
+                <div className="col-md-6">
+                    {question}
+                    {answers}
+                    {submit}
+                </div>
+            </div>
             </div>
         )
     }

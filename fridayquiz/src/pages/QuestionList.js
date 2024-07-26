@@ -96,7 +96,8 @@ const QuestionListStyle = {
     paddingLeft: '1.5 rem',
     paddingRight: '1.5 rem',
     marginTop: 0,
-    minHeight: '100vh'
+    minHeight: '100vh',
+    // maxHeight: '90vh'
 }
 
 export default QuestionList;

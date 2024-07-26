@@ -57,9 +57,16 @@ class Result extends React.Component {
                     <h2 style={MessageStyle}>{message}</h2>
                 </div>
                 <br></br>
-                <div>
-                <h2>Score History</h2>
-                <ResultGraph/>
+                <div className="container">
+                    <div className="row">
+                        <h2>Score History</h2>
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-3"></div>
+                        <div className="col-lg-6"><ResultGraph/></div>
+                        <div className="col-lg-3"></div>
+
+                    </div>
                 </div>
 
                 <div className="row">
@@ -81,10 +88,6 @@ class Result extends React.Component {
 
 const HeightWrapper = {
     minHeight: '100vh'
-}
-
-const ButtonStyle = {
-    margin: '0.5rem'
 }
 
 const MessageStyle = {
