@@ -1,0 +1,159 @@
+{
+  "quizName": "The Torchbearer's Trivia: An Olympic Challenge",
+  "quizAuthor": "ChatGPT",
+  "quizId": 64,
+  "quizDate": "26/07/2024",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "United States",
+        "Greece",
+        "The Host Country",
+        "United Kingdom"
+      ],
+      "answer": "The Host Country",
+      "imageDescription": "A vibrant procession of athletes from different countries participating in the Parade of Nations.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country traditionally enters last in the Parade of Nations during the Opening Ceremony of the Olympics?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Athletes from the host country",
+        "The youngest athletes",
+        "Athletes from all participating countries",
+        "Athletes with the most medals"
+      ],
+      "answer": "Athletes from the host country",
+      "imageDescription": "Eight athletes carrying a large Olympic flag, they are proudly walking into a buzzing stadium.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which athletes are responsible for carrying the Olympic flag into the stadium during the opening ceremony?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "The five original countries that participated in the Olympics",
+        "The five continents of the world",
+        "The five founding members of the IOC",
+        "The five types of Olympic sports"
+      ],
+      "answer": "The five continents of the world",
+      "imageDescription": "Close-up of the Olympic logo featuring five interlocking colored rings on a white background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "The five interlocking rings of the Olympic logo represent what?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles",
+        "Larisa Latynina"
+      ],
+      "answer": "Michael Phelps",
+      "imageDescription": "An Olympic athlete holding multiple gold medals, proudly displaying them for the camera.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who is the most decorated Olympian of all time?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "United States",
+        "United Kingdom",
+        "Australia",
+        "Germany"
+      ],
+      "answer": "United States",
+      "imageDescription": "Crowd-filled stadium with beautiful decorations representing various Olympic Games, under a clear day sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country has hosted the Summer Olympics the most times?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "Athens",
+        "Paris",
+        "London",
+        "Berlin"
+      ],
+      "answer": "Athens",
+      "imageDescription": "Vintage photo of Athens city panorama in 1896, tricolor waving in the foreground.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Name the first city to host the modern Olympic Games in 1896."
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "answer": "60",
+      "imageDescription": "Close-up of a wooden Olympic podium with golden, silver, and bronze platforms against a blurred crowd.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How tall, in centimeters, is a standard Olympic podium? You can be off by up to 10 centimeters."
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Synchronized Swimming",
+        "Diving",
+        "Rowing",
+        "Equestrian"
+      ],
+      "answer": "Rowing",
+      "imageDescription": "Two athletes rowing intensively in a slim, sleek boat during an Olympic event.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which Olympic sport has athletes compete in 'Coxless Pairs' events?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Munich 1972",
+        "Montreal 1976",
+        "Mexico City 1968",
+        "Tokyo 1964"
+      ],
+      "answer": "Mexico City 1968",
+      "imageDescription": "A vintage poster of the 1968 Mexico City Olympics, capturing iconic visuals and vibrant colors.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which Olympic game was the first to introduce drug testing for athletes?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Japan",
+        "United States",
+        "China",
+        "Russia"
+      ],
+      "answer": "Japan",
+      "imageDescription": "A montage of judo athletes in action, with gold medals overlaid symbolizing victory.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which nation holds the most gold medals in the sport of Judo for the Summer Olympics?"
+    }
+  ]
+}
