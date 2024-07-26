@@ -40,11 +40,11 @@
       "image": "image3.jpg",
       "options": [
         "The five original countries that participated in the Olympics",
-        "The five continents of the world",
+        "The five inhabited 'continents' of the world",
         "The five founding members of the IOC",
         "The five types of Olympic sports"
       ],
-      "answer": "The five continents of the world",
+      "answer": "The five inhabited 'continents' of the world",
       "imageDescription": "Close-up of the Olympic logo featuring five interlocking colored rings on a white background.",
       "questionType": null,
       "variance": null,
