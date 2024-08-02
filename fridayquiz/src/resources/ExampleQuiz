@@ -1,159 +1,148 @@
 {
-  "quizName": "The Torchbearer's Trivia: An Olympic Challenge",
+  "quizName": "The One With The Quiz: A Friends Trivia Challenge",
   "quizAuthor": "ChatGPT",
-  "quizId": 64,
-  "quizDate": "26/07/2024",
-  "quizImage": null,
+  "quizDate": "02/08/2024",
+  "quizId": 66,
   "questions": [
     {
       "questionId": 1,
-      "image": "image1.jpg",
-      "options": [
-        "United States",
-        "Greece",
-        "The Host Country",
-        "United Kingdom"
-      ],
-      "answer": "The Host Country",
-      "imageDescription": "A vibrant procession of athletes from different countries participating in the Parade of Nations.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which country traditionally enters last in the Parade of Nations during the Opening Ceremony of the Olympics?"
+      "Question": "Who were the last Friends characters to find out about Monica and Chandler\u0027s relationship?",
+      "options": [
+        "Joey and Ross",
+        "Rachel and Joey",
+        "Rachel and Ross",
+        "Ross and Phoebe"
+      ],
+      "answer": "Ross and Phoebe",
+      "image": "https://static.independent.co.uk/2023/10/30/16/2G0MTKP-1.jpg",
+      "imageDescription": "Six friends sitting together on the Central Perk couch, discussing something interesting and humorous."
     },
     {
       "questionId": 2,
-      "image": "image2.jpg",
-      "options": [
-        "Athletes from the host country",
-        "The youngest athletes",
-        "Athletes from all participating countries",
-        "Athletes with the most medals"
-      ],
-      "answer": "Athletes from the host country",
-      "imageDescription": "Eight athletes carrying a large Olympic flag, they are proudly walking into a buzzing stadium.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which athletes are responsible for carrying the Olympic flag into the stadium during the opening ceremony?"
+      "Question": "What is Joey\u0027s favorite food?",
+      "options": [
+        "Pizza",
+        "Sandwiches",
+        "Pasta",
+        "Burgers"
+      ],
+      "answer": "Sandwiches",
+      "image": "https://media1.giphy.com/media/pyEDsTDy2aIR5SXkBD/giphy.gif?cid\u003d6c09b952e5j92d5pde0sq89812qvh2phxvk7utijm3inw8vx\u0026ep\u003dv1_gifs_search\u0026rid\u003dgiphy.gif\u0026ct\u003dg",
+      "imageDescription": "Joey Tribbiani sitting in Monica\u0027s kitchen, eagerly eating a slice of pizza while his friends watch, amused."
     },
     {
       "questionId": 3,
-      "image": "image3.jpg",
-      "options": [
-        "The five original countries that participated in the Olympics",
-        "The five continents of the world",
-        "The five founding members of the IOC",
-        "The five types of Olympic sports"
-      ],
-      "answer": "The five continents of the world",
-      "imageDescription": "Close-up of the Olympic logo featuring five interlocking colored rings on a white background.",
       "questionType": null,
-      "variance": null,
-      "Question": "The five interlocking rings of the Olympic logo represent what?"
+      "Question": "Whose work is described as being like \u0027Matisse from the waist down\u0027?",
+      "options": [
+        "Monica\u0027s",
+        "Chandler\u0027s",
+        "Rachel\u0027s",
+        "Phoebe\u0027s"
+      ],
+      "answer": "Phoebe\u0027s",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Friends_season_one_cast.jpg/330px-Friends_season_one_cast.jpg",
+      "imageDescription": "Phoebe Buffay showing her unconventional, abstract art to her friends in her quirky and colorful apartment."
     },
     {
       "questionId": 4,
-      "image": "image4.jpg",
-      "options": [
-        "Michael Phelps",
-        "Usain Bolt",
-        "Simone Biles",
-        "Larisa Latynina"
-      ],
-      "answer": "Michael Phelps",
-      "imageDescription": "An Olympic athlete holding multiple gold medals, proudly displaying them for the camera.",
       "questionType": null,
-      "variance": null,
-      "Question": "Who is the most decorated Olympian of all time?"
+      "Question": "What are Ross and Monica\u0027s parents\u0027 names?",
+      "options": [
+        "Jack and Judy Geller",
+        "Jack and Judy Green",
+        "Jack and Nora Geller",
+        "Jack and Sandra Geller"
+      ],
+      "answer": "Jack and Judy Geller",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/Friends-Jack-And-Judy-Geller-2.jpg",
+      "imageDescription": "Monica and Ross sitting in the living room with their parents, Jack and Judy Geller, enjoying a family gathering."
     },
     {
       "questionId": 5,
-      "image": "image5.jpg",
-      "options": [
-        "United States",
-        "United Kingdom",
-        "Australia",
-        "Germany"
-      ],
-      "answer": "United States",
-      "imageDescription": "Crowd-filled stadium with beautiful decorations representing various Olympic Games, under a clear day sky.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which country has hosted the Summer Olympics the most times?"
+      "Question": "What is the make of Joey\u0027s beloved car?",
+      "options": [
+        "Porsche",
+        "Ferrari",
+        "Corvette",
+        "Cadillac"
+      ],
+      "answer": "Porsche",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/06/10/topgear15.jpg?width\u003d1200",
+      "imageDescription": "Joey Tribbiani standing proudly beside his yellow Porsche parked in the streets of New York."
     },
     {
       "questionId": 6,
-      "image": "image6.jpg",
-      "options": [
-        "Athens",
-        "Paris",
-        "London",
-        "Berlin"
-      ],
-      "answer": "Athens",
-      "imageDescription": "Vintage photo of Athens city panorama in 1896, tricolor waving in the foreground.",
       "questionType": null,
-      "variance": null,
-      "Question": "Name the first city to host the modern Olympic Games in 1896."
+      "Question": "What is the full name of Joey\u0027s character in the soap opera \u0027Days of Our Lives\u0027?",
+      "options": [
+        "Dr. Drake Ramoray",
+        "Dr. Drake Ramore",
+        "Dr. Rick Ramoray",
+        "Dr. Nick Ramoray"
+      ],
+      "answer": "Dr. Drake Ramoray",
+      "image": "https://i.redd.it/ll7hkfmy61b91.jpg",
+      "imageDescription": "Scene from \u0027Days of Our Lives\u0027 where Joey Tribbiani is performing as Dr. Drake Ramoray in front of a backdrop of a hospital scene."
     },
     {
       "questionId": 7,
-      "image": "image7.jpg",
-      "options": [
-        "50",
-        "60",
-        "70",
-        "80"
-      ],
-      "answer": "60",
-      "imageDescription": "Close-up of a wooden Olympic podium with golden, silver, and bronze platforms against a blurred crowd.",
       "questionType": null,
-      "variance": null,
-      "Question": "How tall, in centimeters, is a standard Olympic podium? You can be off by up to 10 centimeters."
+      "Question": "What song makes Ross and Rachel\u0027s daughter, Emma, laugh for the first time?",
+      "options": [
+        "\u0027Smelly Cat\u0027",
+        "\u0027Yellow Submarine\u0027",
+        "\u0027Baby Got Back\u0027",
+        "\u0027I\u0027ll Be There For You\u0027"
+      ],
+      "answer": "\u0027Baby Got Back\u0027",
+      "image": "https://i.imgur.com/EVgBFgY.gif",
+      "imageDescription": "Scene showing Ross and Rachel in their living room, laughing and singing to their daughter."
     },
     {
       "questionId": 8,
-      "image": "image8.jpg",
-      "options": [
-        "Synchronized Swimming",
-        "Diving",
-        "Rowing",
-        "Equestrian"
-      ],
-      "answer": "Rowing",
-      "imageDescription": "Two athletes rowing intensively in a slim, sleek boat during an Olympic event.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which Olympic sport has athletes compete in 'Coxless Pairs' events?"
+      "Question": "How many roses did Ross send Emily?",
+      "options": [
+        "72",
+        "56",
+        "110",
+        "85"
+      ],
+      "answer": "72",
+      "image": "https://metro.co.uk/wp-content/uploads/2016/06/take-thee-rachel.jpg?quality\u003d90\u0026strip\u003dall",
+      "imageDescription": "Image of a bewildered Emily standing in a room filled with dozens of red roses sent by Ross Geller."
     },
     {
       "questionId": 9,
-      "image": "image9.jpg",
-      "options": [
-        "Munich 1972",
-        "Montreal 1976",
-        "Mexico City 1968",
-        "Tokyo 1964"
-      ],
-      "answer": "Mexico City 1968",
-      "imageDescription": "A vintage poster of the 1968 Mexico City Olympics, capturing iconic visuals and vibrant colors.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which Olympic game was the first to introduce drug testing for athletes?"
+      "Question": "Every week the TV Guide comes to Chandler and Joey\u0027s apartment. What name appears on the address label?",
+      "options": [
+        "Chandler Bing",
+        "Chanandler Ban",
+        "Chanandler Bong",
+        "Chandler Boing"
+      ],
+      "answer": "Chanandler Bong",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-08/17/16/asset/4ff0a073fb14/sub-buzz-746-1660754344-3.jpg",
+      "imageDescription": "Chandler holding a gift with an address label reading \u0027Chanandler Bong\u0027, looking bemused while Janice laughs."
     },
     {
       "questionId": 10,
-      "image": "image10.jpg",
-      "options": [
-        "Japan",
-        "United States",
-        "China",
-        "Russia"
-      ],
-      "answer": "Japan",
-      "imageDescription": "A montage of judo athletes in action, with gold medals overlaid symbolizing victory.",
       "questionType": null,
-      "variance": null,
-      "Question": "Which nation holds the most gold medals in the sport of Judo for the Summer Olympics?"
+      "Question": "What is the full name of Chandler\u0027s mom?",
+      "options": [
+        "Nora Tyler Bing",
+        "Nora Tyler Green",
+        "Nora Bing Tyler",
+        "Nora Geller Bing"
+      ],
+      "answer": "Nora Tyler Bing",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2UzODU1YTQtZGIzNS00ZDRhLTg0YzYtNTUxN2U3YjBmMzkxXkEyXkFqcGdeQXVyNDUxMDE3Mzk@._V1_.jpg",
+      "imageDescription": "Nora Tyler Bing, Chandler\u0027s mom, in a vibrant outfit, ready to embrace her son in a tight hug at a book signing event."
     }
   ]
 }
