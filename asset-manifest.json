@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FridayQuiz/static/css/main.49b7ef7b.css",
-    "main.js": "/FridayQuiz/static/js/main.ee9d3a62.js",
+    "main.js": "/FridayQuiz/static/js/main.3707df3b.js",
     "static/js/787.78194230.chunk.js": "/FridayQuiz/static/js/787.78194230.chunk.js",
     "static/media/img.png": "/FridayQuiz/static/media/img.437b4df81c5e43224ef7.png",
     "static/media/image10.jpg": "/FridayQuiz/static/media/image10.43e5f573bf901a7ce91a.jpg",
@@ -13,14 +13,14 @@
     "static/media/image7.jpg": "/FridayQuiz/static/media/image7.862804975f0e00dc0057.jpg",
     "static/media/image4.jpg": "/FridayQuiz/static/media/image4.3958f30edc5221c43368.jpg",
     "static/media/image8.jpg": "/FridayQuiz/static/media/image8.cb082a022bdcbeea98bd.jpg",
-    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.ff881c07f01236d98f67",
+    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.e4c8a51f406f31bd6ec4",
     "index.html": "/FridayQuiz/index.html",
     "main.49b7ef7b.css.map": "/FridayQuiz/static/css/main.49b7ef7b.css.map",
-    "main.ee9d3a62.js.map": "/FridayQuiz/static/js/main.ee9d3a62.js.map",
+    "main.3707df3b.js.map": "/FridayQuiz/static/js/main.3707df3b.js.map",
     "787.78194230.chunk.js.map": "/FridayQuiz/static/js/787.78194230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.ee9d3a62.js"
+    "static/js/main.3707df3b.js"
   ]
 }

@@ -1,0 +1,148 @@
+{
+  "quizName": "The One With The Quiz: A Friends Trivia Challenge",
+  "quizAuthor": "ChatGPT",
+  "quizDate": "02/08/2024",
+  "quizId": 66,
+  "questions": [
+    {
+      "questionId": 1,
+      "questionType": null,
+      "Question": "Who were the last Friends characters to find out about Monica and Chandler\u0027s relationship?",
+      "options": [
+        "Joey and Ross",
+        "Rachel and Joey",
+        "Rachel and Ross",
+        "Ross and Phoebe"
+      ],
+      "answer": "Ross and Phoebe",
+      "image": "https://static.independent.co.uk/2023/10/30/16/2G0MTKP-1.jpg",
+      "imageDescription": "Six friends sitting together on the Central Perk couch, discussing something interesting and humorous."
+    },
+    {
+      "questionId": 2,
+      "questionType": null,
+      "Question": "What is Joey\u0027s favorite food?",
+      "options": [
+        "Pizza",
+        "Sandwiches",
+        "Pasta",
+        "Burgers"
+      ],
+      "answer": "Pizza",
+      "image": "https://media1.giphy.com/media/pyEDsTDy2aIR5SXkBD/giphy.gif?cid\u003d6c09b952e5j92d5pde0sq89812qvh2phxvk7utijm3inw8vx\u0026ep\u003dv1_gifs_search\u0026rid\u003dgiphy.gif\u0026ct\u003dg",
+      "imageDescription": "Joey Tribbiani sitting in Monica\u0027s kitchen, eagerly eating a slice of pizza while his friends watch, amused."
+    },
+    {
+      "questionId": 3,
+      "questionType": null,
+      "Question": "Whose work is described as being like \u0027Matisse from the waist down\u0027?",
+      "options": [
+        "Monica\u0027s",
+        "Chandler\u0027s",
+        "Rachel\u0027s",
+        "Phoebe\u0027s"
+      ],
+      "answer": "Phoebe\u0027s",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Friends_season_one_cast.jpg/330px-Friends_season_one_cast.jpg",
+      "imageDescription": "Phoebe Buffay showing her unconventional, abstract art to her friends in her quirky and colorful apartment."
+    },
+    {
+      "questionId": 4,
+      "questionType": null,
+      "Question": "What are Ross and Monica\u0027s parents\u0027 names?",
+      "options": [
+        "Jack and Judy Geller",
+        "Jack and Judy Green",
+        "Jack and Nora Geller",
+        "Jack and Sandra Geller"
+      ],
+      "answer": "Jack and Judy Geller",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/Friends-Jack-And-Judy-Geller-2.jpg",
+      "imageDescription": "Monica and Ross sitting in the living room with their parents, Jack and Judy Geller, enjoying a family gathering."
+    },
+    {
+      "questionId": 5,
+      "questionType": null,
+      "Question": "What is the make of Joey\u0027s beloved car?",
+      "options": [
+        "Porsche",
+        "Ferrari",
+        "Corvette",
+        "Cadillac"
+      ],
+      "answer": "Porsche",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/06/10/topgear15.jpg?width\u003d1200",
+      "imageDescription": "Joey Tribbiani standing proudly beside his yellow Porsche parked in the streets of New York."
+    },
+    {
+      "questionId": 6,
+      "questionType": null,
+      "Question": "What is the full name of Joey\u0027s character in the soap opera \u0027Days of Our Lives\u0027?",
+      "options": [
+        "Dr. Drake Ramoray",
+        "Dr. Drake Ramore",
+        "Dr. Rick Ramoray",
+        "Dr. Nick Ramoray"
+      ],
+      "answer": "Dr. Drake Ramoray",
+      "image": "https://i.redd.it/ll7hkfmy61b91.jpg",
+      "imageDescription": "Scene from \u0027Days of Our Lives\u0027 where Joey Tribbiani is performing as Dr. Drake Ramoray in front of a backdrop of a hospital scene."
+    },
+    {
+      "questionId": 7,
+      "questionType": null,
+      "Question": "What song makes Ross and Rachel\u0027s daughter, Emma, laugh for the first time?",
+      "options": [
+        "\u0027Smelly Cat\u0027",
+        "\u0027Yellow Submarine\u0027",
+        "\u0027Baby Got Back\u0027",
+        "\u0027I\u0027ll Be There For You\u0027"
+      ],
+      "answer": "\u0027Baby Got Back\u0027",
+      "image": "https://i.imgur.com/EVgBFgY.gif",
+      "imageDescription": "Scene showing Ross and Rachel in their living room, laughing and singing to their daughter."
+    },
+    {
+      "questionId": 8,
+      "questionType": null,
+      "Question": "How many roses did Ross send Emily?",
+      "options": [
+        "72",
+        "56",
+        "110",
+        "85"
+      ],
+      "answer": "72",
+      "image": "https://metro.co.uk/wp-content/uploads/2016/06/take-thee-rachel.jpg?quality\u003d90\u0026strip\u003dall",
+      "imageDescription": "Image of a bewildered Emily standing in a room filled with dozens of red roses sent by Ross Geller."
+    },
+    {
+      "questionId": 9,
+      "questionType": null,
+      "Question": "Every week the TV Guide comes to Chandler and Joey\u0027s apartment. What name appears on the address label?",
+      "options": [
+        "Chandler Bing",
+        "Chanandler Ban",
+        "Chanandler Bong",
+        "Chandler Boing"
+      ],
+      "answer": "Chanandler Bong",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-08/17/16/asset/4ff0a073fb14/sub-buzz-746-1660754344-3.jpg",
+      "imageDescription": "Chandler holding a gift with an address label reading \u0027Chanandler Bong\u0027, looking bemused while Janice laughs."
+    },
+    {
+      "questionId": 10,
+      "questionType": null,
+      "Question": "What is the full name of Chandler\u0027s mom?",
+      "options": [
+        "Nora Tyler Bing",
+        "Nora Tyler Green",
+        "Nora Bing Tyler",
+        "Nora Geller Bing"
+      ],
+      "answer": "Nora Tyler Bing",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2UzODU1YTQtZGIzNS00ZDRhLTg0YzYtNTUxN2U3YjBmMzkxXkEyXkFqcGdeQXVyNDUxMDE3Mzk@._V1_.jpg",
+      "imageDescription": "Nora Tyler Bing, Chandler\u0027s mom, in a vibrant outfit, ready to embrace her son in a tight hug at a book signing event."
+    }
+  ]
+}
