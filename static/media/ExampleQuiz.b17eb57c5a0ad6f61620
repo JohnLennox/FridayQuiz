@@ -9,8 +9,8 @@
       "questionId": 1,
       "image": "image1.jpg",
       "options": [
-        "The fall of the Berlin Wall",
         "The signing of the Maastricht Treaty",
+        "The fall of the Berlin Wall",
         "The collapse of the Soviet Union"
       ],
       "answer": "The fall of the Berlin Wall",
@@ -18,14 +18,14 @@
       "questionType": null,
       "variance": null,
       "Question": "What significant event in 1989 symbolized the end of the Cold War in Europe?"
-    }
+    },
     {
       "questionId": 2,
       "image": "image2.jpg",
       "options": [
-        "Boudicca",
         "Catherine the Great",
-        "Elizabeth I"
+        "Elizabeth I",
+        "Boudicca"
       ],
       "answer": "Boudicca",
       "imageDescription": "A depiction of Boudicca, the fierce warrior queen of the Iceni tribe, leading a revolt against Roman rule in ancient Britain.",
