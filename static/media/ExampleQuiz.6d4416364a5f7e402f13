@@ -141,11 +141,11 @@
       "options": [
         "305"
       ],
-      "answer": "305",
+      "answer": "828",
       "imageDescription": "An artistic representation of a height measurement with skyscrapers in the background, emphasizing urban developments.",
       "questionType": "TEXT",
       "variance": "5",
-      "Question": "What was the height in meters of the tallest building in the world when it was completed, allowing a variance of ±5 meters?"
+      "Question": "What was the height in meters of the tallest building in the world when it was completed in 2009, allowing a variance of ±5 meters?"
     }
   ]
 }
