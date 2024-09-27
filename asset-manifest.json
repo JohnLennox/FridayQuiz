@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/FridayQuiz/static/css/main.49b7ef7b.css",
-    "main.js": "/FridayQuiz/static/js/main.c78afa46.js",
+    "main.js": "/FridayQuiz/static/js/main.dc42c5e3.js",
     "static/js/787.78194230.chunk.js": "/FridayQuiz/static/js/787.78194230.chunk.js",
     "static/media/img6.png": "/FridayQuiz/static/media/img6.92fd6640bdb44cdb1292.png",
     "static/media/image3.jpg": "/FridayQuiz/static/media/image3.35274657af7dc611d6e8.jpg",
+    "static/media/img.png": "/FridayQuiz/static/media/img.437b4df81c5e43224ef7.png",
     "static/media/image9.jpg": "/FridayQuiz/static/media/image9.bb3eeb97a690973e16c1.jpg",
     "static/media/image8.jpg": "/FridayQuiz/static/media/image8.ce39900b0d16e6482734.jpg",
     "static/media/image4.jpg": "/FridayQuiz/static/media/image4.2fb63bc93604f8668a71.jpg",
     "static/media/image10.jpg": "/FridayQuiz/static/media/image10.a769db793caa7641d1ac.jpg",
     "static/media/image5.jpg": "/FridayQuiz/static/media/image5.21fea110299920708614.jpg",
     "static/media/image6.jpg": "/FridayQuiz/static/media/image6.4d7812d0a239248e44d7.jpg",
-    "static/media/img.png": "/FridayQuiz/static/media/img.08e585899df03fbc986b.png",
     "static/media/image1.jpg": "/FridayQuiz/static/media/image1.a7b8f50646c0f80dc6ed.jpg",
     "static/media/image7.jpg": "/FridayQuiz/static/media/image7.dc1b6c178b69a99d6455.jpg",
     "static/media/image2.jpg": "/FridayQuiz/static/media/image2.a403d0c762dbe6f0af70.jpg",
     "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.e973e497eb4f298e5d7e",
     "index.html": "/FridayQuiz/index.html",
     "main.49b7ef7b.css.map": "/FridayQuiz/static/css/main.49b7ef7b.css.map",
-    "main.c78afa46.js.map": "/FridayQuiz/static/js/main.c78afa46.js.map",
+    "main.dc42c5e3.js.map": "/FridayQuiz/static/js/main.dc42c5e3.js.map",
     "787.78194230.chunk.js.map": "/FridayQuiz/static/js/787.78194230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.c78afa46.js"
+    "static/js/main.dc42c5e3.js"
   ]
 }
