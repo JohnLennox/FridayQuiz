@@ -60,8 +60,8 @@ class QuestionReview extends React.Component {
         }
 
         if (!selectedInList && this.props.variance) {
-            if (selectedAnswer > (correctAnswer - this.props.variance)
-                && selectedAnswer < (correctAnswer + this.props.variance)) {
+            if (selectedAnswer >= (correctAnswer - this.props.variance)
+                && selectedAnswer <= (correctAnswer + this.props.variance)) {
                 answers.push(
                     <AnswerReview
                         correctAnswer={true}

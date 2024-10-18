@@ -79,7 +79,7 @@ class QuestionText extends React.Component {
             variance = Number(variance);
             answer = Number(answer);
 
-            if (userAnswer >= answer - variance && userAnswer <= answer + variance) {
+            if (userAnswer >= (answer - variance) && userAnswer <= (answer + variance)) {
                 this.props.onAnswerSubmit(true);
                 this.saveSelectedAnswer(true);
                 this.setState({selectedAnswer: ''})
@@ -87,7 +87,7 @@ class QuestionText extends React.Component {
             }
         }
 
-        if (userAnswer === answer) {
+        if (userAnswer == answer) {
             this.props.onAnswerSubmit(true)
             this.saveSelectedAnswer(true);
         } else {
