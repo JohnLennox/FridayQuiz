@@ -78,7 +78,7 @@
       "imageDescription": "A chilling image of seven ominous Christmas ghost figures encircling a lonely, flickering candle.",
       "questionType": null,
       "variance": null,
-      "Question": "How many ghosts visit Ebenezer Scrooge in \u0027A Christmas Carol\u0027? (You can be off by 1)"
+      "Question": "How many ghosts visit Ebenezer Scrooge in \u0027A Christmas Carol\u0027?"
     },
     {
       "questionId": 6,
