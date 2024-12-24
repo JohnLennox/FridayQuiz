@@ -1,0 +1,151 @@
+{
+  "quizName": "Festive Fun: The Christmas and New Year Quiz",
+  "quizAuthor": "ChatGPT",
+  "quizId": 115,
+  "quizDate": "24/12/2024",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Santa Claus",
+        "Frosty the Snowman",
+        "Rudolph the Red-Nosed Reindeer"
+      ],
+      "answer": "Santa Claus",
+      "imageDescription": "A festive scene with a cozy fireplace, stockings hung up, and a plate of cookies ready for Santa.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who is traditionally known as the bringer of gifts on Christmas Eve in Western cultures?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "China",
+        "New Zealand",
+        "Australia",
+        "Japan"
+      ],
+      "answer": "New Zealand",
+      "imageDescription": "A vibrant celebration scene featuring fireworks lighting up the night sky during a New Year\u0027s Eve party.",
+      "questionType": null,
+      "variance": null,
+      "Question": "which of these countries sees the new year first?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Three Kings Day",
+        "Thanksgiving",
+        "New Year\u0027s Day"
+      ],
+      "answer": "Three Kings Day",
+      "imageDescription": "An illustration of a festive scene depicting the celebration of the Three Kings Day, with decorations and a cake.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which holiday is celebrated on January 6th, often marking the end of the Christmas season?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "4",
+        "12",
+        "3"
+      ],
+      "answer": "12",
+      "imageDescription": "An enchanting image featuring a beautifully decorated Christmas tree with vibrant ornaments and lights, hinting at the holiday spirit.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many days are there in the Christmas season, from December 25 to Epiphany (January 6)?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "1823",
+        "1776",
+        "1603"
+      ],
+      "answer": "1823",
+      "imageDescription": "An old book lying open with vintage illustrations, evoking a sense of history related to Christmas traditions.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year was the poem \u0027A Visit from St. Nicholas\u0027 published, popularizing the modern image of Santa Claus?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "2 million",
+        "5 million",
+        "7 million",
+        "9 million",
+        null
+      ],
+      "answer": "7 million",
+      "imageDescription": "A colorful assortment of various traditional Christmas cookies arranged on a festive plate.",
+      "variance": null,
+      "Question": "On average, how many million real Christmas trees are sold each year in the United Kingdom? "
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Jingle Bells",
+        "Silent Night",
+        "Last Christmas"
+      ],
+      "answer": "Jingle Bells",
+      "imageDescription": "A nostalgic setting featuring musicians playing holiday tunes, surrounded by festive decorations and lights.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the first song broadcast from space, played by astronauts in 1965 during a Christmas Eve broadcast?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Mistletoe",
+        "Pine",
+        "Holly"
+      ],
+      "answer": "Mistletoe",
+      "imageDescription": "A close-up of mistletoe hanging in a doorway with a blurred background of festive decorations and lights.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What plant is traditionally hung over doorways during Christmas, encouraging people to kiss underneath it?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "5",
+        "13",
+        "24",
+        "25"
+      ],
+      "answer": "24",
+      "imageDescription": "A charming scene depicting an advent calendar with little doors leading up to Christmas Day, full of surprises.",
+      "variance": "1",
+      "Question": "On what day of December is Christmas Eve celebrated?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Flowers"
+      ],
+      "answer": "Fruits",
+      "imageDescription": "An array of beautifully wrapped gifts alongside a festive centerpiece featuring seasonal fruits like oranges and pomegranates.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Traditionally, what was the main gift found inside stockings during Christmas in the 1800s?"
+    }
+  ]
+}
