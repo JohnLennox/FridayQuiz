@@ -1,0 +1,145 @@
+{
+  "quizName": "What\u0027s In a Name? Animal Edition!",
+  "quizAuthor": "ChatGPT",
+  "quizId": 119,
+  "quizDate": "17/01/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Hippopotamus",
+        "Elephant",
+        "Zebra"
+      ],
+      "answer": "Hippopotamus",
+      "imageDescription": "A serene river scene where a large hippopotamus partially submerged in water, with lush greenery in the background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which animal\u0027s name is derived from the Greek words meaning \u0027river horse\u0027?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Ostrich",
+        "Penguin",
+        "Dove"
+      ],
+      "answer": "Ostrich",
+      "imageDescription": "An African landscape featuring a tall ostrich striding across the sandy ground with sparse vegetation around.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which bird is known as the largest living species of bird and cannot fly?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Dolphin",
+        "Narwhal",
+        "Spermaceti whale"
+      ],
+      "answer": "Narwhal",
+      "imageDescription": "An arctic scene showing a narwhal swimming beneath the icy waters, with a visible spiral tusk and some floating ice in the background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which marine mammal is known for its long, spiral tusk that resembles a unicorn\u0027s horn?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "40"
+      ],
+      "answer": "40",
+      "imageDescription": "A chart showing various animal species with numerical labels, indicating a particularly notable count.",
+      "questionType": "TEXT",
+      "variance": "2",
+      "Question": "How many species of cat are currently recognized in the wild? You may be off by 2."
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Beluga",
+        "Orca",
+        "Dolphin"
+      ],
+      "answer": "Beluga",
+      "imageDescription": "A clear view of a beluga whale swimming in the Arctic waters with icebergs nearby.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which whale species is often referred to as the \u0027canary of the sea\u0027 due to its vocal abilities?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "Cuscus",
+        "Koala",
+        "Quokka"
+      ],
+      "answer": "Quokka",
+      "imageDescription": "A close-up of a quokka smiling in a natural setting, surrounded by native Australian flora.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which small marsupial, famous for its friendly demeanor, is often called the \u0027world\u0027s happiest animal\u0027?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Armadillo",
+        "Opossum",
+        "Alpaca"
+      ],
+      "answer": "Armadillo",
+      "imageDescription": "An armadillo curled up defensively in a grassy area, with patches of wildflowers blooming around it.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which animal is known for its armor-like shell and rolls into a ball as a defense mechanism?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Felis catus",
+        "Canis lupus",
+        "Ursus arctos"
+      ],
+      "answer": "Felis catus",
+      "imageDescription": "An artistic representation of a domestic cat lounging comfortably in a sunbeam, highlighting its playful nature.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the scientific name for the domestic cat?"
+    },
+    {
+      "questionId": 9,
+      "image": "https://www.dogster.com/wp-content/uploads/2024/03/Different-dogs-on-training-in-winter_Rita_Kochmarjova_Shutterstock-600x371.jpeg",
+      "options": [
+        "222"
+      ],
+      "answer": "222",
+      "imageDescription": "An illustrated globe showing the distribution of various animal species with numbers highlighting their counts.",
+      "questionType": "TEXT",
+      "variance": "15",
+      "Question": "How many breeds of dog are recognised by The Kennel Club? (+/- 15)"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Black Panther",
+        "Siamese Cat",
+        "Iberian Lynx"
+      ],
+      "answer": "Iberian Lynx",
+      "imageDescription": "A striking Iberian lynx wandering through a dense wooded area, showcasing its sharp ears and spotted fur.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which species is considered the world\u0027s most endangered cat?"
+    }
+  ]
+}
