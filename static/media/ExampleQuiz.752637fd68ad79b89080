@@ -1,0 +1,148 @@
+{
+  "quizName": "Firecrackers, Fortune \u0026 Fables: A Chinese New Year Quiz",
+  "quizAuthor": "ChatGPT",
+  "quizId": 123,
+  "quizDate": "24/01/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Year of the Tiger",
+        "Year of the Rat",
+        "Year of the Dragon"
+      ],
+      "answer": "Year of the Tiger",
+      "imageDescription": "A vibrant illustration featuring a tiger amidst traditional Chinese decorations symbolizing the zodiac sign.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In 2022, which animal represented the Chinese zodiac?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "15",
+        "16",
+        "14"
+      ],
+      "answer": "15",
+      "imageDescription": "A lively display of lanterns lit up during the Lantern Festival, marking the end of Chinese New Year celebrations.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many days does the Chinese New Year festival typically last?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "China",
+        "Vietnam",
+        "Korea"
+      ],
+      "answer": "Vietnam",
+      "imageDescription": "A beautiful scene depicting traditional Tet celebrations with vibrant flowers and family gatherings.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country also celebrates the Lunar New Year, known as Tet?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Jiaozi",
+        "Spring Rolls",
+        "Noodles"
+      ],
+      "answer": "Jiaozi",
+      "imageDescription": "An appetizing plate of jiaozi dumplings arranged beautifully, representing traditional food for the festivities.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of the traditional dumpling often eaten during Chinese New Year?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Red",
+        "Yellow",
+        "Gold"
+      ],
+      "answer": "Red",
+      "imageDescription": "A festive collection of red envelopes decorated intricately, symbolizing luck and prosperity.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the color that symbolizes good luck during Chinese New Year celebrations?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "1 million",
+        "700 thousand",
+        "300 thousand",
+        "100 thousand"
+      ],
+      "answer": "700 thousand",
+      "imageDescription": "An artistic rendering of a traditional Chinese temple, showcasing intricate architecture and vibrant colors.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In terms of the number of people, what was the highest recorded attendance for the Chinese New Year celebrations in London?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Zodiac Animals",
+        "Family Tree",
+        "Elements"
+      ],
+      "answer": "Zodiac Animals",
+      "imageDescription": "A compilation of the twelve zodiac animals beautifully illustrated together, depicting their unique characteristics.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What system is used to determine the animal for each year in the Chinese calendar?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Chinatown",
+        "Beijing",
+        "Hong Kong"
+      ],
+      "answer": "Hong Kong",
+      "imageDescription": "A bustling street scene in Hong Kong during the New Year, filled with decorations, lion dances, and crowds.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which city is famous for its spectacular fireworks during Chinese New Year celebrations?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Peking Duck",
+        "Dumplings",
+        "Fish"
+      ],
+      "answer": "Fish",
+      "imageDescription": "A traditional dinner table set for Chinese New Year with various festive foods, prominently featuring a whole fish.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What food is often served whole for the New Year celebration to symbolize surplus and prosperity?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Nian"
+      ],
+      "answer": "Nian",
+      "imageDescription": "A symbolic representation of the word \u0027Nian\u0027, featuring scenes of the monster being scared away, incorporating red and gold colors.",
+      "questionType": "TEXT",
+      "variance": "0",
+      "Question": "What is the name of the monster that is said to come out during the New Year celebrations, which people scare away?"
+    }
+  ]
+}
