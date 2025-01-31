@@ -1,0 +1,159 @@
+{
+  "quizName": "Ancient Wonders and Timeless Trivia",
+  "quizAuthor": "ChatGPT",
+  "quizId": 125,
+  "quizDate": "31/01/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "13.8 billion years",
+        "1.2 billion years",
+        "3.4 billion years",
+        "4.4 billion years"
+      ],
+      "answer": "4.4 billion years",
+      "imageDescription": "A photo of a geologist examining a layer of rock that tells the story of Earth\u0027s early formation.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the estimated age of the oldest rock found on Earth?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Greece",
+        "Egypt",
+        "China",
+        "India"
+      ],
+      "answer": "Egypt",
+      "imageDescription": "An aerial view of the Great Pyramid of Giza with the surrounding desert landscape.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which country is home to the oldest known pyramid, dating back to around 2630 BC?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Tennessee",
+        "California",
+        "Texas",
+        "Alabama"
+      ],
+      "answer": "California",
+      "imageDescription": "A majestic view of ancient trees in a state park, showcasing their towering heights and immense trunks.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Where can you find the oldest living trees in the world, known as Methuselah trees?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Helium"
+      ],
+      "answer": "Hydrogen",
+      "imageDescription": "A graphic representation of the elements in the universe, highlighting hydrogen as the most abundant element.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the oldest and most abundant element in the universe?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Mesopotamia",
+        "Egypt",
+        "Indus Valley",
+        "China"
+      ],
+      "answer": "Mesopotamia",
+      "imageDescription": "An artistic representation of the ancient Mesopotamian civilization with rivers, ziggurats, and early humans.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which ancient civilization, known as the ‘cradle of civilization’, was writing first developed?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "Astronomy",
+        "Mathematics",
+        "Medicine",
+        "Drama"
+      ],
+      "answer": "Astronomy",
+      "imageDescription": "A depiction of early astronomers observing the night sky with primitive telescopes and star charts.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What field of study was the basis for ancient Egyptians\u0027 understanding of time and the seasons?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "73 million years",
+        "250 million years",
+        "65 million years",
+        "500 million years"
+      ],
+      "answer": "65 million years",
+      "imageDescription": "A dramatic visualization of a meteor impact that changed the course of Earth\u0027s life, leading to the extinction of dinosaurs.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Approximately how many years ago did the dinosaurs go extinct?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "The Great Wall of China",
+        "Machu Picchu",
+        "Stonehenge",
+        "The Colosseum"
+      ],
+      "answer": "Stonehenge",
+      "imageDescription": "An enigmatic depiction of Stonehenge, with its monumental stones standing under a starry sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which prehistoric monument in England is believed to have been constructed around 3000 BC?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "The Sphinx",
+        "Colosseum",
+        "Acropolis",
+        "Timbuktu"
+      ],
+      "answer": "The Sphinx",
+      "imageDescription": "A captivating view of the Great Sphinx of Giza, with the pyramids in the background and the sun setting.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What structure is considered one of the oldest monumental sculptures, dating back to around 2500 BC?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "4.5 billion years",
+        "3.5 billion years",
+        "2.5 billion years",
+        "1.5 billion years"
+      ],
+      "answer": "4.5 billion years",
+      "imageDescription": "An artistic illustration of the early Earth, with molten landscapes and a developing atmosphere.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the estimated age of the Earth itself?"
+    }
+  ]
+}
