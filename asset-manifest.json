@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/FridayQuiz/static/css/main.49b7ef7b.css",
-    "main.js": "/FridayQuiz/static/js/main.f0474979.js",
+    "main.js": "/FridayQuiz/static/js/main.1d1359e7.js",
     "static/js/787.78194230.chunk.js": "/FridayQuiz/static/js/787.78194230.chunk.js",
     "static/media/img6.png": "/FridayQuiz/static/media/img6.92fd6640bdb44cdb1292.png",
     "static/media/img.png": "/FridayQuiz/static/media/img.437b4df81c5e43224ef7.png",
-    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.f9a00ee74e0f71ac6f56.jpg",
-    "static/media/image5.jpg": "/FridayQuiz/static/media/image5.ab6068d198d09f0c9a5b.jpg",
-    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.60eb612aabd79f661323.jpg",
-    "static/media/image4.jpg": "/FridayQuiz/static/media/image4.3e6ee7c719e7166a98e7.jpg",
-    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.f4ed069e3b33c38674e8.jpg",
-    "static/media/image6.jpg": "/FridayQuiz/static/media/image6.3e7d8669c96bdde1cd18.jpg",
-    "static/media/image10.jpg": "/FridayQuiz/static/media/image10.b28647b6c0d5ea33526c.jpg",
-    "static/media/image7.jpg": "/FridayQuiz/static/media/image7.758f03d3825c4ce3c03f.jpg",
-    "static/media/image2.jpg": "/FridayQuiz/static/media/image2.520972c9ddfb108204b2.jpg",
-    "static/media/image9.jpg": "/FridayQuiz/static/media/image9.aeb17382f50a89591b52.jpg",
-    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.5fde2292d35e2f6ab9b6",
+    "static/media/image8.jpg": "/FridayQuiz/static/media/image8.e4a55a678b18ac27c0cd.jpg",
+    "static/media/image4.jpg": "/FridayQuiz/static/media/image4.675342412aa302c96ca7.jpg",
+    "static/media/image5.jpg": "/FridayQuiz/static/media/image5.68ac070de137a99da85e.jpg",
+    "static/media/image1.jpg": "/FridayQuiz/static/media/image1.d8442fc7a821c06ffb0b.jpg",
+    "static/media/image9.jpg": "/FridayQuiz/static/media/image9.43f79949076d55856a5a.jpg",
+    "static/media/image7.jpg": "/FridayQuiz/static/media/image7.dd1fd9fc8b1a68398140.jpg",
+    "static/media/image2.jpg": "/FridayQuiz/static/media/image2.83d3e06078e52cc5b97e.jpg",
+    "static/media/image10.jpg": "/FridayQuiz/static/media/image10.2d15178ab8c2de729908.jpg",
+    "static/media/image6.jpg": "/FridayQuiz/static/media/image6.6ef68ff4094481d3c7e5.jpg",
+    "static/media/image3.jpg": "/FridayQuiz/static/media/image3.3d4ecd047d82e49e2f16.jpg",
+    "static/media/ExampleQuiz": "/FridayQuiz/static/media/ExampleQuiz.44fbb1de56a39dbc8877",
     "index.html": "/FridayQuiz/index.html",
     "main.49b7ef7b.css.map": "/FridayQuiz/static/css/main.49b7ef7b.css.map",
-    "main.f0474979.js.map": "/FridayQuiz/static/js/main.f0474979.js.map",
+    "main.1d1359e7.js.map": "/FridayQuiz/static/js/main.1d1359e7.js.map",
     "787.78194230.chunk.js.map": "/FridayQuiz/static/js/787.78194230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.f0474979.js"
+    "static/js/main.1d1359e7.js"
   ]
 }
