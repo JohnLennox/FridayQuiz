@@ -1,0 +1,153 @@
+{
+  "quizName": "Astro-Coding: A Galactic Software Quiz",
+  "quizAuthor": "ChatGPT",
+  "quizId": 135,
+  "quizDate": "19/02/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "5"
+      ],
+      "answer": "5",
+      "imageDescription": "A visual representation of the five planets visible to the naked eye in our solar system, surrounded by stars.",
+      "questionType": "TEXT",
+      "variance": "0",
+      "Question": "How many planets in our solar system are visible to the naked eye?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Saturn",
+        "Earth",
+        "Jupiter",
+        "Mars"
+      ],
+      "answer": "Saturn",
+      "imageDescription": "An artistic image of a beautiful ringed planet in the foreground, set against a backdrop of stars.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which planet is known for its prominent rings?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "Rust"
+      ],
+      "answer": "Python",
+      "imageDescription": "A stylized representation of a snake intertwined with code snippets, highlighting its popularity in programming.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which programming language is often associated with scientific computing and data analysis?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": "8",
+      "imageDescription": "A vibrant display of the eight phases of the moon, showcasing the lunar cycle against a night sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many recognized phases are there in the lunar cycle?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "Node.js",
+        "C#",
+        "Fortran",
+        "Swift"
+      ],
+      "answer": "Fortran",
+      "imageDescription": "An image of a classic programming book, with Fortran emblazoned on the cover, illustrating its historical significance.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which programming language is often considered one of the oldest and was primarily developed for scientific applications?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "9"
+      ],
+      "answer": "12",
+      "imageDescription": "A conceptual image showing an arranged set of 12 zodiac symbols representing celestial navigation.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In celestial navigation, how many zodiac signs are traditionally used?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "95"
+      ],
+      "answer": "95",
+      "imageDescription": "An abstract depiction of an astronomical observatory, showcasing telescopes under a starry night sky.",
+      "questionType": "TEXT",
+      "variance": "5",
+      "Question": "How many confirmed moons does Jupiter have as of October 2023? (±5)"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Los Angeles",
+        "Houston",
+        "Cape Canaveral",
+        "Baikonur"
+      ],
+      "answer": "Cape Canaveral",
+      "imageDescription": "An expansive view of a famous space launch site with rockets poised for takeoff against a clear blue sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of the most famous spacecraft launch site in the United States?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "A telescope",
+        "Launchpad",
+        "Space Shuttle",
+        "Space Station"
+      ],
+      "answer": "Space Shuttle",
+      "imageDescription": "An image showing the Space Shuttle lifting off, with smoke billowing underneath and flames roaring.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What was the name of NASA\u0027s spacecraft designed for reusable access to space?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Hubble Space Telescope",
+        "Kepler Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "answer": "James Webb Space Telescope",
+      "imageDescription": "An enigmatic depiction of a high-tech telescope with a golden mirror, positioned against the backdrop of deep space.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which telescope, launched in December 2021, is known for its advanced infrared capabilities?"
+    }
+  ]
+}
