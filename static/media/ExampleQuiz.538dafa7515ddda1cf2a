@@ -1,0 +1,121 @@
+{
+  "quizName": "Friday Quiz",
+  "quizAuthor": "John Lennox",
+  "quizId": 136,
+  "quizDate": "28/02/2025",
+  "quizImage": "https://static.vecteezy.com/system/resources/previews/003/206/208/original/quiz-time-neon-signs-style-text-free-vector.jpg",
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://www.windowslatest.com/wp-content/uploads/2018/04/Windows-XP.jpg",
+      "Question": "In which year was the Microsoft Windows XP operating system released?",
+      "options": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2001"
+    },
+    {
+      "questionId": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkf5LTiTXYSpBMNGAcxgSIy9XWxsZkTv27vQ&s",
+      "Question": "Which US state was Joe Exotic a.k.a. the Tiger King's G.W. Zoo based?",
+      "options": [
+        "Oklahoma",
+        "Florida",
+        "Kansas",
+        "Kentucky"
+      ],
+      "answer": "Oklahoma"
+    },{
+      "questionId": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1200px-Marvel_Logo.svg.png",
+      "Question": "What is the highest-grossing Marvel movie without the word 'Avengers' in the title?",
+      "options": [
+        "Spider-Man: No Way Home",
+        "Captain America: Civil War",
+        "Thor: Ragnarok",
+        "Ant-Man and the Wasp"
+      ],
+      "answer": "Spider-Man: No Way Home"
+    },{
+      "questionId": 4,
+      "image": "https://cdn.waterstones.com/images/00104552-420x280.jpeg",
+      "Question": "In Harry Potter, what is the name of the eldest Weasley sibling?",
+      "options": [
+        "Fred",
+        "Charlie",
+        "Percy",
+        "Bill"
+      ],
+      "answer": "Bill"
+    },{
+      "questionId": 5,
+      "image": "https://cdn.costumewall.com/wp-content/uploads/2017/03/cruella-de-vil.jpg",
+      "Question": "Who played Cruella de Vil in the 2021 live-action film about the 101 Dalmatians villain?",
+      "options": [
+        "Emma Stone",
+        "Emma Watson",
+        "Emma Thompson",
+        "Emma Roberts"
+      ],
+      "answer": "Emma Stone"
+    },{
+      "questionId": 6,
+      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2021/12/nic-cage-pic-e1639502562677.jpg?w=800",
+      "Question": "Pedro Pascal stars as the lead character in which original Disney+ series?",
+      "options": [
+        "The Book of Boba Fett",
+        "The Mandalorian",
+        "Obi-Wan Kenobi",
+        "Andor"
+      ],
+      "answer": "The Mandalorian"
+    },{
+      "questionId": 7,
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1268E/production/_119060457_0b8dc1cc-9085-4f95-8a51-37ea1241f83d.jpg",
+      "Question": "In which century did Rembrandt live?",
+      "options": [
+        "15th",
+        "16th",
+        "17th",
+        "18th"
+      ],
+      "answer": "17th"
+    },{
+      "questionId": 8,
+      "image": "https://cdn.londonandpartners.com/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/big-ben/big-ben-houses-of-parliament-shutterstock640x360jpg.jpg?h=360&w=640&la=en&hash=AE5224D40454F09CB83D0CE7E8DB02619EEB2AB7",
+      "Question": "What is the official name of the clock tower commonly referred to as Big Ben?",
+      "options": [
+        "Charles Tower",
+        "Victoria Tower",
+        "Elizabeth Tower",
+        "George Tower"
+      ],
+      "answer": "Elizabeth Tower"
+    },{
+      "questionId": 9,
+      "image": "https://ychef.files.bbci.co.uk/1280x720/p0gyh3lr.jpg",
+      "Question": "How many days was Queen Elizabeth’s uncle reign as Edward VIII before he abdicated?",
+      "options": [
+        "173",
+        "289",
+        "326",
+        "403"
+      ],
+      "answer": "326"
+    },{
+      "questionId": 10,
+      "image": "https://www.thisdayinmusic.com/wp-content/uploads/2018/05/definitely-maybe.jpg",
+      "Question": "What was the first single to be released by the band Oasis?",
+      "options": [
+        "Supersonic",
+        "Wonderwall",
+        "Live Forever",
+        "Stand by Me"
+      ],
+      "answer": "Supersonic"
+    }
+  ]
+}
