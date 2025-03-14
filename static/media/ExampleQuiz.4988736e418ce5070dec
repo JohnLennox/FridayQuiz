@@ -1,0 +1,154 @@
+{
+  "quizName": "It\u0027s Pi Day: Let’s Slice into Pi and Pies!",
+  "quizAuthor": "ChatGPT",
+  "quizId": 139,
+  "quizDate": "13/03/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "3.14",
+        "22/7",
+        "2.71"
+      ],
+      "answer": "3.14",
+      "imageDescription": "A visual representation of a circle with a highlighted circumference, illustrating the concept of Pi.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the most common approximation of Pi?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Cherry",
+        "Pumpkin",
+        "Banana Cream"
+      ],
+      "answer": "Cherry",
+      "imageDescription": "An appetizing image of a cherry pie with steam rising off it, showcasing delicious cherries and lattice crust.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which pie is typically associated with summer and often appears in festive gatherings?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Radius",
+        "Circumference",
+        "Diameter",
+        "Area"
+      ],
+      "answer": "Area",
+      "imageDescription": "A diagram highlighting the parts of a circle, including radius and circumference, with annotations.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In relation to a circle, what does Pi x (R*R) represent?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "The digits loop",
+        "its irrational nature",
+        "3.14",
+        "it is imaginary"
+      ],
+      "answer": "its irrational nature",
+      "imageDescription": "An explanation chart showing the value of Pi extending infinitely, emphasizing its non-repeating properties.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is a significant feature of Pi in relation to its decimal representation?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "8",
+        "7",
+        "6"
+      ],
+      "answer": "7",
+      "imageDescription": "A classic display of a slice of apple pie with a number 7 next to it, highlighting the number associated with the pie slices.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many basic slices are typically cut from a standard pie?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "March",
+        "April",
+        "May"
+      ],
+      "answer": "March",
+      "imageDescription": "A calendar page showing the month of March with a special highlight on the day of Pi Day, March 14.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which month does Pi Day fall?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Not defined",
+        "1",
+        "0",
+        "9.869"
+      ],
+      "answer": "1",
+      "imageDescription": "An illustration of a pie chart with one section empty, representing a mathematical concept that equates to zero.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the value of Pi raised to the power of zero?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Egypt",
+        "Rome",
+        "Greece",
+        "China"
+      ],
+      "answer": "Egypt",
+      "imageDescription": "An image showing various pies arranged in a display, with an undetermined pie weight floating near the background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the earliest civilization to have made pies?"
+    },
+    {
+      "questionId": 9,
+      "image": "https://www.jusrol.co.uk/wp-content/uploads/2020/11/Mini-Star-Topped-Mince-Pies-New.jpg",
+      "options": [
+        "59.21 seconds",
+        "52.21 seconds",
+        "20.56 seconds",
+        "31.98 seconds"
+      ],
+      "answer": "59.21 seconds",
+      "imageDescription": "A vibrant image of a table filled with different types of pies, showcasing a variety of flavors and colors.",
+      "questionType": null,
+      "variance": null,
+      "Question": "According to Guinness World Records, what is the fastest time to eat 3 mince pies?"
+    },
+    {
+      "questionId": 10,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/archimedes-greek-scholarly-engraving-b-n-f-colourized-photo-news-photo-1678293949.jpg",
+      "options": [
+        "Plato",
+        "Newton",
+        "Archimedes"
+      ],
+      "answer": "Archimedes",
+      "imageDescription": "A visually engaging representation of Pi with pie slices, drawing participants\u0027 attention to the approximation.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who was the first person to calculate an accurate estimation of pi?"
+    }
+  ]
+}
