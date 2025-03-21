@@ -132,9 +132,7 @@
       "questionId": 10,
       "image": "image10.jpg",
       "options": [
-        "40000",
-        "50000",
-        "60000"
+        "40000"
       ],
       "answer": "40000",
       "imageDescription": "A breathtaking view of the Giant\u0027s Causeway with its unique hexagonal basalt columns, against a stunning seascape.",
