@@ -1,0 +1,149 @@
+{
+  "quizName": "Galactic Giggles: A Sci-Fi Quiz Odyssey",
+  "quizAuthor": "ChatGPT",
+  "quizId": 143,
+  "quizDate": "28/03/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.jpg",
+      "options": [
+        "Dune",
+        "Neuromancer",
+        "Foundation"
+      ],
+      "answer": "Dune",
+      "imageDescription": "A visually striking portrayal of a desert planet with massive sand dunes and a giant sandworm surfacing, embodying the essence of an epic science fiction saga.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which 1965 science fiction novel by Frank Herbert features the desert planet of Arrakis?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.jpg",
+      "options": [
+        "Isaac Asimov",
+        "Arthur C. Clarke",
+        "Philip K. Dick"
+      ],
+      "answer": "Isaac Asimov",
+      "imageDescription": "An image showcasing a futuristic cityscape with robots and flying cars, reflecting the themes of innovation and artificial intelligence prominent in Asimov\u0027s works.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which author is known for the Robot series and the Three Laws of Robotics?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.jpg",
+      "options": [
+        "Gravitational Waves",
+        "Hyperspace Travel",
+        "Wormholes"
+      ],
+      "answer": "Wormholes",
+      "imageDescription": "A captivating visual of a twisting tunnel-like structure in space, illustrating a theoretical shortcut connecting two distant points in the universe.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What theoretical concept allows for shortcuts through space-time in science fiction?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.jpg",
+      "options": [
+        "Clones",
+        "Aliens",
+        "Droids"
+      ],
+      "answer": "Clones",
+      "imageDescription": "A futuristic lab filled with bioengineering equipment and tanks, hinting at the creation of clones and advanced technological experimentation.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In the \u0027Star Wars\u0027 franchise, what are the troops of the Galactic Republic also known as?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.jpg",
+      "options": [
+        "3025",
+        "2150",
+        "2300"
+      ],
+      "answer": "3025",
+      "imageDescription": "An imaginative view of a futuristic city skyline brimming with advanced architecture and vehicles, depicting a vision of life several centuries ahead.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year is the setting for the sci-fi series \u0027Battletech\u0027?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.jpg",
+      "options": [
+        "The Matrix",
+        "Inception",
+        "Blade Runner"
+      ],
+      "answer": "The Matrix",
+      "imageDescription": "A stylized image of a green digital rain cascading down over a cityscape, representing the virtual reality aspect of \u0027The Matrix\u0027.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which film features a dystopian future where humanity is unknowingly trapped inside a simulated reality?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.jpg",
+      "options": [
+        "Philip K. Dick",
+        "Arthur C. Clarke",
+        "H.G. Wells"
+      ],
+      "answer": "H.G. Wells",
+      "imageDescription": "An imaginative scene depicting a time machine, representing the pioneering concepts of time travel introduced in classic sci-fi literature.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which author wrote \u0027The Time Machine\u0027 and is often referred to as the father of science fiction?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.jpg",
+      "options": [
+        "Artificial Intelligence",
+        "Quantum Computing",
+        "Nanotechnology"
+      ],
+      "answer": "Artificial Intelligence",
+      "imageDescription": "A futuristic setting showcasing humanoid robots and intricate circuits, illustrating the intersection of technology and consciousness in modern sci-fi narratives.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What term describes machines or software designed to simulate human intelligence and decision-making?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.jpg",
+      "options": [
+        "Ender\u0027s Game",
+        "The Hunger Games",
+        "Divergent"
+      ],
+      "answer": "Ender\u0027s Game",
+      "imageDescription": "An intense scene of a young boy commanding a fleet of spaceships in a simulation, showcasing strategic warfare in an intergalactic setting.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which novel features a young boy being trained through video games to fight against an alien race?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.jpg",
+      "options": [
+        "Neuralink",
+        "Bioscience",
+        "Astrobiology"
+      ],
+      "answer": "Astrobiology",
+      "imageDescription": "A scientific lab with various samples from celestial bodies, showcasing the study of life beyond Earth in a modern research environment.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What field of science specifically studies the potential for life on planets beyond Earth?"
+    }
+  ]
+}
