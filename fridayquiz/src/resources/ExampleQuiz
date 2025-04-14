@@ -1,148 +1,159 @@
 {
-  "quizName": "Brain Grains: The Wholesome World of General Knowledge",
+  "quizName": "Egg-cellent Knowledge: Easter Edition",
   "quizAuthor": "ChatGPT",
-  "quizId": 97,
-  "quizDate": "18/10/2024",
+  "quizId": 151,
+  "quizDate": "10/04/2025",
   "quizImage": null,
   "questions": [
     {
       "questionId": 1,
       "image": "image1.jpg",
       "options": [
-        "Mercury",
-        "Mars",
-        "Earth"
+        "Easter Bunny",
+        "Easter Egg",
+        "Good Friday",
+        "Easter Parade"
       ],
-      "answer": "Mercury",
-      "imageDescription": "A graphic depicting the solar system highlighting Mercury, the closest planet to the sun.",
+      "answer": "Easter Bunny",
+      "imageDescription": "A whimsical illustration of a bunny surrounded by colorful Easter eggs in a spring setting.",
       "questionType": null,
       "variance": null,
-      "Question": "What is the closest planet to the Sun?"
+      "Question": "What is the folkloric character most associated with Easter celebrations?"
     },
     {
       "questionId": 2,
       "image": "image2.jpg",
       "options": [
-        "Berlin",
-        "Rome",
-        "Paris"
+        "France",
+        "Germany",
+        "Italy",
+        "United States"
       ],
-      "answer": "Berlin",
-      "imageDescription": "A picturesque view of the Brandenburg Gate in Berlin, a historical landmark in Germany.",
+      "answer": "Germany",
+      "imageDescription": "A scenic view of a traditional German town, with cobblestone streets and half-timbered houses, decorated for Easter.",
       "questionType": null,
       "variance": null,
-      "Question": "What is the capital of Germany?"
+      "Question": "Which country is credited with the origin of the Easter Bunny tradition?"
     },
     {
       "questionId": 3,
       "image": "image3.jpg",
       "options": [
-        "300"
+        "Hot Cross Buns",
+        "Chocolate Bunnies",
+        "Peeps",
+        "Cadbury Eggs"
       ],
-      "answer": "300",
-      "imageDescription": "An image of a classroom with students learning math, possibly preparing for a test.",
-      "questionType": "TEXT",
-      "variance": "2",
-      "Question": "What is the maximum number of points possible in a game of Ten Pin Bowling? (±2)"
+      "answer": "Hot Cross Buns",
+      "imageDescription": "An appetizing display of freshly baked hot cross buns, adorned with a cross on top, next to Easter decorations.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What traditional baked good is often associated with Good Friday?"
     },
     {
       "questionId": 4,
       "image": "image4.jpg",
       "options": [
-        "Hercules",
-        "Achilles",
-        "Odysseus"
+        "Passover",
+        "Easter Sunday",
+        "Pentecost",
+        "Ascension Day"
       ],
-      "answer": "Achilles",
-      "imageDescription": "A depiction of a Greek warrior in armor, representing a legendary hero from Greek mythology.",
+      "answer": "Passover",
+      "imageDescription": "An artistic representation of a Passover Seder plate with symbolic foods, set against a festive backdrop.",
       "questionType": null,
       "variance": null,
-      "Question": "Which Greek hero is known for his role in the Trojan War and has an invulnerable body except for his heel?"
+      "Question": "Easter is often closely linked with which Jewish festival?"
     },
     {
       "questionId": 5,
       "image": "image5.jpg",
       "options": [
-        "1912",
-        "1911",
-        "1905",
-        "1898"
+        "Pink",
+        "Brown",
+        "White",
+        "Blue"
       ],
-      "answer": "1911",
-      "imageDescription": "An artistic representation of the historic RMS Titanic before its ill-fated maiden voyage.",
+      "answer": "Brown",
+      "imageDescription": "A visually striking arrangement of different colored eggs, with one prominently brown egg among the others.",
       "questionType": null,
       "variance": null,
-      "Question": "In what year was the RMS Titanic launched?"
+      "Question": "What color is the most common for naturally laid chicken eggs?"
     },
     {
       "questionId": 6,
       "image": "image6.jpg",
       "options": [
-        "C",
-        "Java",
-        "Python"
+        "40 days",
+        "50 days",
+        "30 days",
+        "60 days"
       ],
-      "answer": "Java",
-      "imageDescription": "An image of a computer screen displaying Java code, symbolizing programming languages.",
+      "answer": "40 days",
+      "imageDescription": "A calendar marked with dates showing the duration of Lent, surrounded by symbolic Easter icons.",
       "questionType": null,
       "variance": null,
-      "Question": "Which programming language is known for its use in Android app development?"
+      "Question": "How many days is Lent observed in the Christian tradition before Easter?"
     },
     {
       "questionId": 7,
       "image": "image7.jpg",
       "options": [
-        "William Shakespeare",
-        "Charles Dickens",
-        "Mark Twain"
+        "Easter Monday",
+        "Good Friday",
+        "Easter Sunday",
+        "Palm Sunday"
       ],
-      "answer": "William Shakespeare",
-      "imageDescription": "A quill and parchment are placed on an antique table, representing classic literature and famous authors.",
+      "answer": "Easter Sunday",
+      "imageDescription": "A serene sunrise over a church on Easter Sunday, symbolizing hope and renewal.",
       "questionType": null,
       "variance": null,
-      "Question": "Who is often referred to as England\u0027s national poet and the Bard of Avon?"
+      "Question": "On which day do Christians celebrate the resurrection of Jesus?"
     },
     {
       "questionId": 8,
       "image": "image8.jpg",
       "options": [
-        "1776",
-        "1787",
-        "1783"
+        "1875",
+        "1925",
+        "1825",
+        "1682"
       ],
-      "answer": "1776",
-      "imageDescription": "A historic image of the signing of the Declaration of Independence in a colonial setting.",
+      "answer": "1682",
+      "imageDescription": "An aged book open to reveal the story of the Easter Bunny, resting on a textured antique table.",
       "questionType": null,
       "variance": null,
-      "Question": "In which year was the Declaration of Independence signed in the United States?"
+      "Question": "In which year was the first known written mention of the Easter Bunny?"
     },
     {
       "questionId": 9,
-      "image": "image9.jpg",
+      "image": "https://bmmagazine.co.uk/wp-content/uploads/2025/04/shutterstock_2594221461-scaled.jpg",
       "options": [
-        "The Scream",
-        "Starry Night",
-        "The Persistence of Memory"
+        "60 million",
+        "70 million",
+        "80 million",
+        "90 million"
       ],
-      "answer": "The Persistence of Memory",
-      "imageDescription": "An abstract representation of melting clocks set in a surreal landscape, symbolizing a famous art piece.",
+      "answer": "80 million",
+      "imageDescription": "An image depicting children participating in an egg rolling contest on a grassy lawn during Easter.",
       "questionType": null,
       "variance": null,
-      "Question": "Which famous painting features melting clocks and was created by Salvador Dalí?"
+      "Question": "Approximately how many Easter Eggs are purchased in the UK each year? "
     },
     {
       "questionId": 10,
-      "image": "image10.jpg",
+      "image": "https://www.guinnessworldrecords.com/world-records/images/largest-chocolate-easter-egg-header.jpg",
       "options": [
-        "Titanic",
-        "Olympic",
-        "Britannic"
+        "72 kg",
+        "720 kg",
+        "7200 kg",
+        "72000 kg"
       ],
-      "answer": "Olympic",
-      "imageDescription": "A montage depicting three ocean liners, showcasing their grandeur and historical significance.",
+      "answer": "7200 kg",
+      "imageDescription": "A visual representation of a single decorated Easter egg on a vibrant background.",
       "questionType": null,
       "variance": null,
-      "Question": "Which of Titanic\u0027s sister ships survived the longest?"
+      "Question": "What is the weight of the world record holding Easter Egg? "
     }
   ]
 }
