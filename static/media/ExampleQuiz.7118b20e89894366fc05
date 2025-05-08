@@ -1,0 +1,158 @@
+{
+  "quizName": "Spring into Action: The Ultimate Garden \u0026 Produce Quiz",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": 159,
+  "quizDate": "07/05/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "Carrots",
+        "Parsnips",
+        "Leeks",
+        "Beetroot"
+      ],
+      "answer": "Leeks",
+      "imageDescription": "A verdant garden bed with various vegetables growing in neat rows, morning dew glistening on the leaves in early spring sunshine.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which vegetable, commonly planted in spring, belongs to the allium family and has long green stalks?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "Hardening off",
+        "Transplanting",
+        "Weathering",
+        "Acclimating"
+      ],
+      "answer": "Hardening off",
+      "imageDescription": "Young plant seedlings in trays on a sheltered patio, with gentle spring light filtering through trees above.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the process of gradually exposing indoor-grown seedlings to outdoor conditions called?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.png",
+      "options": [
+        "Daffodils",
+        "Crocuses",
+        "Tulips"
+      ],
+      "answer": "Crocuses",
+      "imageDescription": "A snow-dusted garden in early spring, with various dormant flower beds and early spring buds beginning to emerge.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which spring flower typically blooms first: daffodils, tulips, or crocuses?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "Aphids",
+        "Caterpillars",
+        "Beetles",
+        "Slugs"
+      ],
+      "answer": "Slugs",
+      "imageDescription": "A close-up of lush garden foliage with water droplets on leaves after spring rain, showing various textures and shapes.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What common garden pest, particularly active in spring, can be deterred using copper tape?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "Cherry",
+        "Apple",
+        "Pear",
+        "Plum"
+      ],
+      "answer": "Cherry",
+      "imageDescription": "A misty spring morning in an orchard, with trees in various stages of flowering, soft morning light filtering through branches.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which fruit tree commonly blooms in early spring with pink or white flowers before producing fruit?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "Garden fork",
+        "Trowel",
+        "Spade",
+        "Hoe"
+      ],
+      "answer": "Garden fork",
+      "imageDescription": "A rustic garden shed interior with various gardening tools arranged against a wall, warm sunlight streaming through a small window.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What essential spring gardening tool is used to break up soil and remove weeds, with a long handle and three prongs?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D",
+      "imageDescription": "Tomato plants growing in a greenhouse with varying stages of fruit development, some green, others beginning to ripen.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which vitamin is produced by ripening tomatoes when exposed to sunlight?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.png",
+      "options": [
+        "Primaries",
+        "Seedlings",
+        "Cotyledons",
+        "Sproutlings"
+      ],
+      "answer": "Cotyledons",
+      "imageDescription": "Multiple seed trays with young plants at different stages of growth, under gentle grow lights in a propagation setup.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the term for the first set of leaves that appear when a seed sprouts?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "Daisies",
+        "Sunflowers",
+        "Pansies",
+        "Marigolds"
+      ],
+      "answer": "Marigolds",
+      "imageDescription": "A diverse garden bed showing various flowers and vegetables growing together in harmony, with natural sunlight creating patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In companion planting, which flower is often planted near tomatoes to repel pests?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "96%",
+        "85%",
+        "90%",
+        "75%"
+      ],
+      "answer": "96%",
+      "imageDescription": "Fresh cucumbers growing on vines in a garden setting, with morning dew drops glistening on the green surfaces.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What percentage of water weight does a cucumber contain?"
+    }
+  ]
+}
