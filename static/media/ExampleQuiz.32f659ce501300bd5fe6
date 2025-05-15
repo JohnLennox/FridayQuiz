@@ -1,0 +1,160 @@
+{
+  "quizName": "Douze Points of Pure Eurovision Madness!",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": 163,
+  "quizDate": "15/05/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "1960",
+        "1956",
+        "1970",
+        "1965"
+      ],
+      "answer": "1956",
+      "imageDescription": "A black and white vintage microphone on stage with spotlights, capturing the essence of classic European broadcasting in the 1950s.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which year was the first Eurovision Song Contest held?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "7",
+      "imageDescription": "A golden trophy collection displayed on illuminated shelves, representing multiple victories.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many times has Ireland won Eurovision, making it the country with the most wins?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.png",
+      "options": [
+        "Waterloo",
+        "Rise Like a Phoenix",
+        "Heroes",
+        "Euphoria"
+      ],
+      "answer": "Waterloo",
+      "imageDescription": "A colorful 1970s disco stage with platform boots and glitter balls, capturing the glamorous era of pop music.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which ABBA song won Eurovision in 1974?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Germany",
+        "Italy",
+        "Spain"
+      ],
+      "answer": "United Kingdom",
+      "imageDescription": "Five European flags waving in the wind against a blue sky, representing major European nations.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which \u0027Big Five\u0027 country has gone the longest without a Eurovision win?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "Conchita Wurst",
+        "Salvador Sobral",
+        "Lordi",
+        "Dana International"
+      ],
+      "answer": "Lordi",
+      "imageDescription": "A dramatic concert stage with pyrotechnics and smoke effects, creating an intense atmosphere.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which band became the first hard rock act to win Eurovision in 2006?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "10"
+      ],
+      "answer": "12",
+      "imageDescription": "A scoreboard with numbers illuminated, showing various point allocations in different languages.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many points are awarded for the highest score in Eurovision voting?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "Japan",
+        "Australia",
+        "Canada",
+        "Morocco"
+      ],
+      "answer": "Australia",
+      "imageDescription": "A world map highlighting countries outside of Europe, with musical notes floating across continents.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which non-European country regularly participates in Eurovision despite not being in Europe?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.png",
+      "options": [
+        "Love Shine a Light",
+        "Save Your Kisses for Me",
+        "Making Your Mind Up",
+        "Boom Bang-a-Bang"
+      ],
+      "answer": "Love Shine a Light",
+      "imageDescription": "A 1990s stage setup with colorful lighting rigs and smoke machines, creating a nostalgic atmosphere.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which Katrina and the Waves song won Eurovision for the UK in 1997?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "French",
+        "Any language",
+        "Their native language",
+        "English"
+      ],
+      "answer": "Any language",
+      "imageDescription": "Multiple international dictionaries stacked together with musical notes floating around them.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Since 1999, in which language can contestants perform their songs?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "Cliff Richard",
+        "Julio Iglesias",
+        "Celine Dion",
+        "Johnny Logan"
+      ],
+      "answer": "Johnny Logan",
+      "imageDescription": "A male performer on stage with a microphone, wearing classic 1980s performance attire.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which artist has won Eurovision multiple times as a performer?"
+    }
+  ]
+}
