@@ -1,0 +1,158 @@
+{
+  "quizName": "Game, Set \u0026 Match: The Wimbledon Wisdom Challenge",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": "189",
+  "quizDate": "12/07/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "Yellow",
+        "Orange",
+        "Green",
+        "White"
+      ],
+      "answer": "Yellow",
+      "imageDescription": "Close-up of multiple tennis balls in motion against a blurred grass court background, focusing on their texture and movement.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What color are the traditional tennis balls used at Wimbledon?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "Raspberries",
+        "Strawberries",
+        "Blueberries"
+      ],
+      "answer": "Strawberries",
+      "imageDescription": "An elegant china plate with fresh cream and a traditional British afternoon tea setting, without revealing the specific fruit.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which fruit is famously associated with Wimbledon?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.png",
+      "options": [
+        "Blue",
+        "Any color",
+        "Cream",
+        "White"
+      ],
+      "answer": "White",
+      "imageDescription": "A close-up of pristine tennis attire hanging in a locker room, focusing on the fabric texture and professional setting.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the traditional dress code color for players at Wimbledon?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "1877",
+        "1901",
+        "1892",
+        "1856"
+      ],
+      "answer": "1877",
+      "imageDescription": "A Victorian-era illustration of a tennis court with people in period clothing watching a match from wooden stands.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which year was the first Wimbledon Championship held?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "Novak Djokovic",
+        "Roger Federer",
+        "Björn Borg",
+        "Pete Sampras"
+      ],
+      "answer": "Roger Federer",
+      "imageDescription": "An aerial view of Centre Court during a championship match, showing the iconic grass court and packed stands.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who holds the record for most men\u0027s singles titles at Wimbledon?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "Royal Court",
+        "Centre Court",
+        "Court One",
+        "Main Court"
+      ],
+      "answer": "Centre Court",
+      "imageDescription": "A dramatic architectural photograph of a famous tennis stadium with its retractable roof partially open, captured at sunset.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of Wimbledon\u0027s main show court?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "30",
+        "24",
+        "12",
+        "18"
+      ],
+      "answer": "18",
+      "imageDescription": "An aerial view of multiple pristine grass tennis courts, showing their perfect maintenance and geometric patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many grass courts are there at Wimbledon?"
+    },
+    {
+      "questionId": 8,
+      "image": "https://www.lta.org.uk/49f113/siteassets/news/2023/june/2013-andy-murray-wimbledon-trophy-centre-court.jpg",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "imageDescription": "A stylized sports logo design template showing various geometric shapes and patterns in green and purple colors.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many times did Andy Murray win Wimbledon?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "2012",
+        "2009",
+        "2005",
+        "2015"
+      ],
+      "answer": "2009",
+      "imageDescription": "A modern architectural detail of a large mechanical structure against a blue sky, focusing on engineering elements.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What year was the retractable roof added to Centre Court?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "Navy and Gold",
+        "Green and White",
+        "Purple and Green",
+        "Blue and White"
+      ],
+      "answer": "Purple and Green",
+      "imageDescription": "Close-up of elegant tournament badges and official merchandise displaying various color combinations and patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What are the official colors of the Wimbledon tournament?"
+    }
+  ]
+}
