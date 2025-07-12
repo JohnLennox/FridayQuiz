@@ -9,7 +9,6 @@ import Result from "./components/Result";
 import PresentationMode from "./pages/PresentationMode";
 import QuizPresentationHome from "./pages/QuizPresentationHome";
 import ResultGraph from "./components/ResultsGraph";
-import MoneyManager from "./pages/MoneyManager";
 
 class App extends React.Component {
     constructor(props) {
@@ -29,7 +28,6 @@ class App extends React.Component {
                         <Route path="/result" element={<Result/>}/>
                         <Route path="/presentation" element={<PresentationMode/>}/>
                         <Route path="/display" element={<QuizPresentationHome/>}/>
-                        <Route path="/MoneyManager" element={<MoneyManager/>}/>
                     </Routes>
                 </HashRouter>
             </div>

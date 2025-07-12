@@ -1,1 +1,158 @@
-{"quizName":"Lights, Camera, Britain: Stars of the Small and Silver Screen","quizAuthor":"Claude 3.5 Sonnet","quizId":153,"quizDate":"20/04/2025","quizImage":null,"questions":[{"questionId":1,"image":"image1.png","options":["Benedict Cumberbatch","Tom Hardy","Henry Cavill","Eddie Redmayne"],"answer":"Benedict Cumberbatch","imageDescription":"A moody Victorian-era London street scene with fog and gaslight lamps, featuring a mysterious figure in a long coat examining clues with a magnifying glass.","questionType":null,"variance":null,"Question":"Which British actor played Sherlock Holmes in the BBC series 'Sherlock'?"},{"questionId":2,"image":"image2.png","options":["1963","1965","1960","1962"],"answer":"1963","imageDescription":"A vintage television set from the 1960s with a swirling time vortex pattern on its screen, surrounded by classic sci-fi memorabilia.","questionType":null,"variance":null,"Question":"In which year did 'Doctor Who' first air on BBC?"},{"questionId":3,"image":"image3.png","options":["Daniel Craig","Pierce Brosnan","Roger Moore","Sean Connery"],"answer":"Daniel Craig","imageDescription":"A luxurious casino interior with elegant decorations, featuring a martini glass and playing cards on a green felt table.","questionType":null,"variance":null,"Question":"Who was the most recent actor to play James Bond in the official film series?"},{"questionId":4,"image":"image4.png","options":["Maggie Smith","Helena Bonham Carter","Emma Thompson","Julie Walters"],"answer":"Maggie Smith","imageDescription":"A grand English country house exterior with manicured gardens and period-appropriate automobiles from the 1920s parked outside.","questionType":null,"variance":null,"Question":"Which actress played the Dowager Countess in 'Downton Abbey'?"},{"questionId":5,"image":"image5.png","options":["The Crown","Bridgerton","Victoria","The Great"],"answer":"The Crown","imageDescription":"A collection of ornate royal regalia including crowns, scepters, and ceremonial robes, displayed in a museum-like setting.","questionType":null,"variance":null,"Question":"Which Netflix series about the British Royal Family won multiple Emmy Awards?"},{"questionId":6,"image":"image6.png","options":["Gary Oldman"],"answer":"Gary Oldman","imageDescription":"A collection of diverse movie posters spanning different genres and decades, showing the versatility of acting roles.","questionType":null,"variance":null,"Question":"Which British actor won an Oscar for portraying Winston Churchill in 'Darkest Hour'?"},{"questionId":7,"image":"image7.png","options":["Fawlty Towers","Only Fools and Horses","Blackadder","Dad's Army"],"answer":"Fawlty Towers","imageDescription":"A quaint 1970s seaside hotel exterior with a vintage car parked outside and a 'vacancy' sign hanging crookedly.","questionType":null,"variance":null,"Question":"In which classic British sitcom did John Cleese play Basil Fawlty?"},{"questionId":8,"image":"image8.png","options":["Helen Mirren"],"answer":"Helen Mirren","imageDescription":"A theatrical dressing room with a mirror surrounded by lights, costumes hanging nearby, and various acting awards on display.","questionType":null,"variance":null,"Question":"Which actress has played both Queen Elizabeth I and Queen Elizabeth II on screen?"},{"questionId":9,"image":"image9.png","options":["Line of Duty","Broadchurch","Luther","Sherlock"],"answer":"Line of Duty","imageDescription":"A tense police briefing room with evidence boards, case files, and multiple computer screens displaying surveillance footage.","questionType":null,"variance":null,"Question":"Which BBC police drama features the Anti-Corruption Unit AC-12?"},{"questionId":10,"image":"image10.png","options":["David Tennant"],"answer":"David Tennant","imageDescription":"A Scottish landscape with rolling hills and ancient castles in the background, suggesting the origins of a famous actor.","questionType":null,"variance":null,"Question":"Which Scottish actor played the tenth Doctor in 'Doctor Who' and later starred in 'Broadchurch'?"}]}
+{
+  "quizName": "Game, Set \u0026 Match: The Wimbledon Wisdom Challenge",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": "189",
+  "quizDate": "12/07/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "Yellow",
+        "Orange",
+        "Green",
+        "White"
+      ],
+      "answer": "Yellow",
+      "imageDescription": "Close-up of multiple tennis balls in motion against a blurred grass court background, focusing on their texture and movement.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What color are the traditional tennis balls used at Wimbledon?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "Raspberries",
+        "Strawberries",
+        "Blueberries"
+      ],
+      "answer": "Strawberries",
+      "imageDescription": "An elegant china plate with fresh cream and a traditional British afternoon tea setting, without revealing the specific fruit.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which fruit is famously associated with Wimbledon?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.png",
+      "options": [
+        "Blue",
+        "Any color",
+        "Cream",
+        "White"
+      ],
+      "answer": "White",
+      "imageDescription": "A close-up of pristine tennis attire hanging in a locker room, focusing on the fabric texture and professional setting.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the traditional dress code color for players at Wimbledon?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "1877",
+        "1901",
+        "1892",
+        "1856"
+      ],
+      "answer": "1877",
+      "imageDescription": "A Victorian-era illustration of a tennis court with people in period clothing watching a match from wooden stands.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which year was the first Wimbledon Championship held?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "Novak Djokovic",
+        "Roger Federer",
+        "Björn Borg",
+        "Pete Sampras"
+      ],
+      "answer": "Roger Federer",
+      "imageDescription": "An aerial view of Centre Court during a championship match, showing the iconic grass court and packed stands.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who holds the record for most men\u0027s singles titles at Wimbledon?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "Royal Court",
+        "Centre Court",
+        "Court One",
+        "Main Court"
+      ],
+      "answer": "Centre Court",
+      "imageDescription": "A dramatic architectural photograph of a famous tennis stadium with its retractable roof partially open, captured at sunset.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of Wimbledon\u0027s main show court?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "30",
+        "24",
+        "12",
+        "18"
+      ],
+      "answer": "18",
+      "imageDescription": "An aerial view of multiple pristine grass tennis courts, showing their perfect maintenance and geometric patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many grass courts are there at Wimbledon?"
+    },
+    {
+      "questionId": 8,
+      "image": "https://www.lta.org.uk/49f113/siteassets/news/2023/june/2013-andy-murray-wimbledon-trophy-centre-court.jpg",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "imageDescription": "A stylized sports logo design template showing various geometric shapes and patterns in green and purple colors.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many times did Andy Murray win Wimbledon?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "2012",
+        "2009",
+        "2005",
+        "2015"
+      ],
+      "answer": "2009",
+      "imageDescription": "A modern architectural detail of a large mechanical structure against a blue sky, focusing on engineering elements.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What year was the retractable roof added to Centre Court?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "Navy and Gold",
+        "Green and White",
+        "Purple and Green",
+        "Blue and White"
+      ],
+      "answer": "Purple and Green",
+      "imageDescription": "Close-up of elegant tournament badges and official merchandise displaying various color combinations and patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What are the official colors of the Wimbledon tournament?"
+    }
+  ]
+}
