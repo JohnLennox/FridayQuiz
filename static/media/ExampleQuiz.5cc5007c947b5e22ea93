@@ -1,0 +1,159 @@
+{
+  "quizName": "Festival Frenzy: From Muddy Fields to Musical History",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": "191",
+  "quizDate": "24/07/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "T. Rex",
+        "The Grateful Dead",
+        "The Rolling Stones",
+        "The Who"
+      ],
+      "answer": "T. Rex",
+      "imageDescription": "A black and white photograph of a rural English farm field in 1970, with basic wooden stage setup and hippie-era festival goers gathering.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which legendary rock band headlined the very first Glastonbury Festival in 1970?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "answer": "1999",
+      "imageDescription": "Aerial view of the California desert landscape with mountains in the background, showing vast empty fields before development.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year was the first Coachella?"
+    },
+    {
+      "questionId": 3,
+      "image": "https://www.bigthinkagency.co.uk/media/xjgozesv/trsmt001_2560x1440.webp",
+      "options": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "answer": "2017",
+      "imageDescription": "A colorful stage setup at night with elaborate Egyptian-themed decorations and dancers in formation.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year was the first TRNSMT music festival held in Glasgow?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "2006",
+        "2010",
+        "2008",
+        "2012"
+      ],
+      "answer": "2008",
+      "imageDescription": "A massive festival crowd stretching into the distance, with the iconic Glastonbury Pyramid Stage silhouetted against a sunset sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year did Jay-Z become the first solo hip-hop artist to headline Glastonbury?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "The Who",
+        "Rage Against the Machine",
+        "Red Hot Chili Peppers",
+        "Metallica"
+      ],
+      "answer": "Red Hot Chili Peppers",
+      "imageDescription": "An aerial view of a large concert venue with multiple stages and crowd areas during daytime.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which band\u0027s performance at Woodstock \u002799 ended in chaos and fire?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "2006",
+        "2010",
+        "2008",
+        "2004"
+      ],
+      "answer": "2006",
+      "imageDescription": "A nighttime festival scene with elaborate lighting rigs and laser shows illuminating the desert sky.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What year did Daft Punk perform their legendary pyramid show at Coachella?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "Exit Festival",
+        "Tomorrowland",
+        "Fyre Festival",
+        "Ultra Europe"
+      ],
+      "answer": "Vestiville",
+      "imageDescription": "An empty festival ground with partially constructed stages and temporary structures.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which infamous festival in 2017, promoted by influencers, but resulted in prison time for the organiser and its own Netflix documentary?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.png",
+      "options": [
+        "Paul McCartney",
+        "Ray Charles",
+        "Diana Ross",
+        "Bob Dylan"
+      ],
+      "answer": "Paul McCartney",
+      "imageDescription": "The iconic Glastonbury Pyramid Stage at dusk, with festival lights beginning to illuminate the structure.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who was the oldest solo artist to ever headline Glastonbury?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "Ariana Grande",
+        "Drake",
+        "Post Malone",
+        "The Weeknd"
+      ],
+      "answer": "Ariana Grande",
+      "imageDescription": "A massive outdoor concert stage with elaborate production design and video screens displaying abstract patterns.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which artist brought out Justin Bieber as a surprise guest at Coachella 2019?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "Hurricane",
+        "Heatwave",
+        "Thunderstorm",
+        "Flooding"
+      ],
+      "answer": "Flooding",
+      "imageDescription": "An overcast sky above Worthy Farm with dark clouds gathering ominously over the festival grounds.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What weather event nearly shut down Glastonbury Festival in 2005?"
+    }
+  ]
+}
