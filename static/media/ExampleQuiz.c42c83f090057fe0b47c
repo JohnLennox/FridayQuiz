@@ -1,0 +1,159 @@
+{
+  "quizName": "Happy Gilmore\u0027s Sandler Swing: Movies \u0026 Golf Mayhem",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": "193",
+  "quizDate": "01/08/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "https://hollywoodsuite.ca/wp-content/uploads/poster/HS903681_poster_1920_1080.jpg",
+      "options": [
+        "Hockey player",
+        "Tennis player",
+        "Baseball player",
+        "Football player"
+      ],
+      "answer": "Hockey player",
+      "imageDescription": "A worn hockey stick leaning against a golf bag on a putting green, symbolizing the transition between sports.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What was Happy Gilmore\u0027s original career aspiration before golf?"
+    },
+    {
+      "questionId": 2,
+      "image": "https://media1.tenor.com/m/9YjyNos28mUAAAAC/shooter-happy-gilmore.gif",
+      "options": [
+        "Shooter McGavin",
+        "Happy Gilmore",
+        "Rory Mcilroy",
+        "Billy Madison"
+      ],
+      "answer": "Shooter McGavin",
+      "imageDescription": "A golf course with unconventional decorations and a rowdy crowd, capturing the unique atmosphere of the movie.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of Adam Sandler\u0027s rival character in the golf comedy \u0027Happy Gilmore\u0027?"
+    },
+    {
+      "questionId": 3,
+      "image": "https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/unsized/2015/07/20/55ad774fb01eefe207f6ce40_golf-tours-news-blogs-local-knowledge-bob-barker.gif",
+      "options": [
+        "Alex Trebek",
+        "Drew Carey",
+        "Pat Sajak",
+        "Bob Barker"
+      ],
+      "answer": "Bob Barker",
+      "imageDescription": "A serene golf course setting with two golf bags laying on the ground, suggesting a paused game.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which former \u0027The Price is Right\u0027 host had a famous fistfight scene with Happy Gilmore?"
+    },
+    {
+      "questionId": 4,
+      "image": "https://images.tntdrama.com/tnt/$dyna_params/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2020%2F07%2FGrown-Ups-1920x1080.jpg",
+      "options": [
+        "They were childhood basketball teammates",
+        "They were college roommates",
+        "They worked together at a summer camp",
+        "They met at a wedding"
+      ],
+      "answer": "They were childhood basketball teammates",
+      "imageDescription": "A group of five men laughing together on a lakeside dock during summer.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In the movie *Grown Ups*, how do the main characters originally know each other?"
+    },
+    {
+      "questionId": 5,
+      "image": "https://miro.medium.com/v2/resize:fit:900/1*OnVRTxt2MPCwi47pbglOFA.jpeg",
+      "options": [
+        "Jumping",
+        "Running start",
+        "Sliding",
+        "Spinning"
+      ],
+      "answer": "Running start",
+      "imageDescription": "A golfer\u0027s silhouette at sunset, positioned in an unusual stance on a tee box.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What does Happy\u0027s signature golf swing style incorporate from his hockey background?"
+    },
+    {
+      "questionId": 6,
+      "image": "data:image/jpeg;base64,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",
+      "options": [
+        "Billy Madison",
+        "Happy Gilmore",
+        "Sonny Koufax",
+        "Bobby Boucher"
+      ],
+      "answer": "Billy Madison",
+      "imageDescription": "A classroom chalkboard with doodles, an apple, and school supplies in the background.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of Adam Sandler\u0027s character in the movie where he must go back to school to inherit his father\u0027s company?"
+    },
+    {
+      "questionId": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqbhiDVJYfmaP02qu9o-zIkdUYGTegoXNGQ&s",
+      "options": [
+        "Carl Weathers",
+        "Chubbs Peterson",
+        "Arnold Palmer",
+        "Jack Nicklaus"
+      ],
+      "answer": "Chubbs Peterson",
+      "imageDescription": "A vintage golf club display on a wall with various golf memorabilia from different eras.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What is the name of Happy\u0027s mentor who lost his hand to an alligator?"
+    },
+    {
+      "questionId": 8,
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZmZGJhZjEtMWFjMy00YjVjLWI4NjAtZTQ0NGE0NWQxNWQ0XkEyXkFqcGc@._V1_.jpg",
+      "options": [
+        "Win back girlfriend",
+        "Become famous",
+        "Pay medical bills",
+        "Save grandmother\u0027s house"
+      ],
+      "answer": "Save grandmother\u0027s house",
+      "imageDescription": "An old, charming house with a \u0027For Sale\u0027 sign partially visible in the front yard.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Why does Happy need to win the tournament in the movie?"
+    },
+    {
+      "questionId": 9,
+      "image": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19527257/uncut_gems_0106202_C.jpg?quality=90&strip=all&crop=26.892001077296,0,46.215997845408,100",
+      "options": [
+        "Murder Mystery",
+        "Uncut Gems",
+        "Hubie Halloween",
+        "Hustle"
+      ],
+      "answer": "Uncut Gems",
+      "imageDescription": "A gritty jewelry store setting with bright lights and an intense atmosphere.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which recent Adam Sandler film does he play a New York City jeweler with a gambling addiction?"
+    },
+    {
+      "questionId": 10,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC0AR9i5lWNRaAu72OceSeTHKXJlxZmnJSYLxbfzyUgMTvy-HafsSVdlvXCFAyYTuSnoWNXQ",
+      "options": [
+        "1992",
+        "1996",
+        "1998",
+        "1994"
+      ],
+      "answer": "1996",
+      "imageDescription": "A collection of 1990s movie posters and memorabilia arranged on a wall.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In what year was \u0027Happy Gilmore\u0027 released?"
+    }
+  ]
+}
