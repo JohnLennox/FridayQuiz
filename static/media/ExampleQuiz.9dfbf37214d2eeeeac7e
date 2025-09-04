@@ -1,0 +1,157 @@
+{
+  "quizName": "Tartan Army Tales: The Scottish Football Saga",
+  "quizAuthor": "Claude 3.5 Sonnet",
+  "quizId": "201",
+  "quizDate": "04/09/2025",
+  "quizImage": null,
+  "questions": [
+    {
+      "questionId": 1,
+      "image": "image1.png",
+      "options": [
+        "1885",
+        "1872",
+        "1902",
+        "1890"
+      ],
+      "answer": "1872",
+      "imageDescription": "A vintage Victorian-era football field with players wearing traditional 19th-century sports attire, showing the early days of organized football.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which year did Scotland play their first official international match against England?"
+    },
+    {
+      "questionId": 2,
+      "image": "image2.png",
+      "options": [
+        "Ally McCoist",
+        "Kenny Dalglish",
+        "James McFadden",
+        "Denis Law"
+      ],
+      "answer": "Kenny Dalglish",
+      "imageDescription": "A football stadium from the 1970s with passionate Scottish fans waving flags and banners in the stands.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who holds the record for most appearances for Scotland\u0027s national team?"
+    },
+    {
+      "questionId": 3,
+      "image": "image3.png",
+      "options": [
+        "8",
+        "5",
+        "10",
+        "12"
+      ],
+      "answer": "8",
+      "imageDescription": "A modern football stadium filled with fans, showing the grandeur and scale of World Cup qualification matches.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many times has Scotland qualified for the FIFA World Cup finals?"
+    },
+    {
+      "questionId": 4,
+      "image": "image4.png",
+      "options": [
+        "Kenny Dalglish",
+        "Graeme Souness",
+        "Joe Jordan",
+        "Archie Gemmill"
+      ],
+      "answer": "Archie Gemmill",
+      "imageDescription": "A football pitch during a match in the 1978 World Cup, with players in classic 1970s football kits.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who scored Scotland\u0027s famous goal against the Netherlands in the 1978 World Cup?"
+    },
+    {
+      "questionId": 5,
+      "image": "image5.png",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "imageDescription": "An aerial view of Hampden Park stadium in Glasgow on a match day, showing its impressive architecture.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Is Hampden Park Scotland\u0027s national football stadium?"
+    },
+    {
+      "questionId": 6,
+      "image": "image6.png",
+      "options": [
+        "1954",
+        "1966",
+        "1958",
+        "1962"
+      ],
+      "answer": "1954",
+      "imageDescription": "A black and white photograph of a 1950s football crowd, showing the fashion and atmosphere of the era.",
+      "questionType": null,
+      "variance": null,
+      "Question": "In which year did Scotland make their first World Cup appearance?"
+    },
+    {
+      "questionId": 7,
+      "image": "image7.png",
+      "options": [
+        "Kenny Dalglish",
+        "Denis Law",
+        "Ally McCoist",
+        "Steve Clarke"
+      ],
+      "answer": "Steve Clarke",
+      "imageDescription": "A modern football dugout with coaching staff area, showing tactical boards and team preparation equipment.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Who is the current manager of the Scotland national team?"
+    },
+    {
+      "questionId": 8,
+      "image": "image8.png",
+      "options": [
+        "Pink",
+        "Tartan",
+        "White",
+        "Dark Blue"
+      ],
+      "answer": "Dark Blue",
+      "imageDescription": "A collection of historical Scotland national team jerseys displayed in a museum-like setting.",
+      "questionType": null,
+      "variance": null,
+      "Question": "What colour is traditionally used in Scotland\u0027s home kit?"
+    },
+    {
+      "questionId": 9,
+      "image": "image9.png",
+      "options": [
+        "35",
+        "45",
+        "40",
+        "30"
+      ],
+      "answer": "30",
+      "imageDescription": "A scoreboard showing various international match results, with flags of different nations displayed.",
+      "questionType": null,
+      "variance": null,
+      "Question": "How many goals did Kenny Dalglish score for Scotland?"
+    },
+    {
+      "questionId": 10,
+      "image": "image10.png",
+      "options": [
+        "Euro 2020",
+        "Euro 2024",
+        "Euro 2008",
+        "Euro 2016"
+      ],
+      "answer": "Euro 2024",
+      "imageDescription": "A modern football stadium preparing for a major tournament, with decorative banners and European championship branding.",
+      "questionType": null,
+      "variance": null,
+      "Question": "Which was Scotland\u0027s most recent European Championship appearance?"
+    }
+  ]
+}
