@@ -1,0 +1,89 @@
+package com.example.demo;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.List;
+//11419862653216
+public class CalcTwo {
+
+    List<List<String>> twoDList = new java.util.ArrayList<>();
+
+    public CalcTwo() throws IOException {
+        List<String> rows = Files.readAllLines(Path.of("src/main/resources/input.txt"));
+        for (String row : rows) {
+            List<String> temp = List.of(row.split(""));
+            this.twoDList.add(temp);
+        }
+    }
+
+    public void printTwoDList() {
+        List<Integer> blankCols = findBlankColumns();
+        List<String> operations = this.twoDList.get(this.twoDList.size() - 1);
+        operations = operations.stream().filter(s -> !s.isBlank()).toList();
+
+        this.twoDList.remove(this.twoDList.size() - 1);
+
+        int sumCount = 0;
+        long sum = 0L;
+        List<Long> sumInput = new ArrayList<>();
+        for (int i = 0; i < this.twoDList.get(0).size(); i++) {
+            if (blankCols.contains(i)) {
+                // end of sum input
+                String operand = operations.get(sumCount);
+                sum += doSum(sumInput, operand);
+
+                sumInput.clear();
+                sumCount++;
+            } else {
+                sumInput.add(getNumberFromColumn(i));
+            }
+            if (i == this.twoDList.get(0).size() - 1 && !sumInput.isEmpty()) {
+                String operand = operations.get(sumCount);
+                sum += doSum(sumInput, operand);
+            }
+
+        }
+        System.out.println("Sum: " + sum);
+    }
+
+    private long doSum(List<Long> sumInput, String operand) {
+        long sum = sumInput.get(0);
+        for (int i = 1; i < sumInput.size(); i++) {
+            if (operand.equals("+")) {
+                sum += sumInput.get(i);
+            } else if (operand.equals("*")) {
+                sum *= sumInput.get(i);
+            }
+        }
+        return sum;
+    }
+
+    private long getNumberFromColumn(int colIndex) {
+        StringBuilder numberStr = new StringBuilder();
+        for (List<String> strings : this.twoDList) {
+            String currChar = strings.get(colIndex);
+            if (currChar.isBlank()) {
+                continue;
+            }
+            numberStr.append(currChar);
+        }
+        return Long.parseLong(numberStr.toString());
+    }
+
+    private List<Integer> findBlankColumns() {
+        List<Integer> blankContender = new ArrayList<>();
+        for (int i = 0; i < this.twoDList.size(); i++) {
+            List<String> curr = this.twoDList.get(i);
+            for (int j = 0; j < curr.size(); j++) {
+                if (curr.get(j).isBlank() && i == 0) {
+                    blankContender.add(j);
+                } else if (!curr.get(j).isBlank()) {
+                    blankContender.remove(Integer.valueOf(j));
+                }
+            }
+        }
+        return blankContender;
+    }
+}
